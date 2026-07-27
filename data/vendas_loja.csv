@@ -1,0 +1,1429 @@
+﻿id_linha,id_pedido,data_venda,cliente_id,produto,categoria,quantidade,preco_unitario,desconto_percentual,forma_pagamento,cidade,regiao,status_pedido
+LIN-000001,PED-00001,2025-05-11,CLI-0013,Candeeiro de Mesa,Casa e Escritório,1,27.90,0,Cartão de crédito,Évora,Alentejo,Concluído
+LIN-000002,PED-00002,2024-03-29,CLI-0120,Candeeiro de Mesa,Casa e Escritório,1,28.74,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000003,PED-00002,2024-03-29,CLI-0120,Suporte para Portátil,Acessórios,3,34.90,5,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000004,PED-00003,2024-10-12,CLI-0080,Marcadores Coloridos,Papelaria,3,9.17,0,MB WAY,Vila Real,Norte,Concluído
+LIN-000005,PED-00004,2024-02-14,CLI-0236,Extensão Elétrica,Casa e Escritório,2,18.33,0,Dinheiro,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000006,PED-00004,2024-02-14,CLI-0236,Marcadores Coloridos,Papelaria,1,8.90,15,Dinheiro,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000007,PED-00005,2025-10-17,CLI-0052,Marcadores Coloridos,Papelaria,1,8.90,5,Cartão de débito,Viseu,Centro,Concluído
+LIN-000008,PED-00006,2025-06-12,CLI-0037,Mochila Executiva,Acessórios,1,51.40,0,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000009,PED-00007,2024-10-01,CLI-0394,Caderno A5,Papelaria,1,6.70,10,Cartão de crédito,Beja,Alentejo,Concluído
+LIN-000010,PED-00008,2024-09-24,CLI-0336,Webcam Full HD,Eletrónica,1,56.55,0,Transferência,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000011,PED-00009,2025-07-30,CLI-0220,Organizador de Mesa,Casa e Escritório,3,14.90,5,Cartão de débito,Lagos,Algarve,Concluído
+LIN-000012,PED-00009,2025-07-30,CLI-0220,Bolsa para Portátil,Acessórios,3,27.90,0,Cartão de débito,Lagos,Algarve,Concluído
+LIN-000013,PED-00009,2025-07-30,CLI-0220,Rato Sem Fios,Eletrónica,1,25.65,15,Cartão de débito,Lagos,Algarve,Concluído
+LIN-000014,PED-00009,2025-07-30,CLI-0220,Teclado Mecânico,Eletrónica,2,82.30,10,Cartão de débito,Lagos,Algarve,Concluído
+LIN-000015,PED-00010,2024-01-13,CLI-0370,Agenda Semanal,Papelaria,1,12.90,0,Transferência,Braga,Norte,Concluído
+LIN-000016,PED-00010,2024-01-13,CLI-0370,"Monitor 24""",Eletrónica,4,179.90,15,Transferência,Braga,Norte,Concluído
+LIN-000017,PED-00011,2025-08-12,CLI-0260,Extensão Elétrica,Casa e Escritório,1,18.90,0,Transferência,Lagos,Algarve,Concluído
+LIN-000018,PED-00011,2025-08-12,CLI-0260,Hub USB-C,Eletrónica,2,46.25,10,Transferência,Lagos,Algarve,Concluído
+LIN-000019,PED-00012,2025-04-11,CLI-0251,Pack Canetas Gel,Papelaria,1,5.05,10,Transferência,Porto,Norte,Concluído
+LIN-000020,PED-00012,2025-04-11,CLI-0251,Coluna Bluetooth,Eletrónica,1,69.90,5,Transferência,Porto,Norte,Concluído
+LIN-000021,PED-00012,2025-04-11,CLI-0251,Teclado Mecânico,Eletrónica,5,82.30,5,Transferência,Porto,Norte,Concluído
+LIN-000022,PED-00013,2024-04-26,CLI-0244,Hub USB-C,Eletrónica,2,44.90,5,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000023,PED-00013,2024-04-26,CLI-0244,Candeeiro de Mesa,Casa e Escritório,1,27.90,0,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000024,PED-00014,2025-02-04,CLI-0062,Almofada Ergonómica,Casa e Escritório,1,31.91,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000025,PED-00014,2025-02-04,CLI-0062,Coluna Bluetooth,Eletrónica,3,69.90,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000026,PED-00015,2024-07-23,CLI-0343,Almofada Ergonómica,Casa e Escritório,2,32.90,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000027,PED-00015,2024-07-23,CLI-0343,Bolsa para Portátil,Acessórios,1,27.90,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000028,PED-00015,2024-07-23,CLI-0343,Coluna Bluetooth,Eletrónica,1,67.80,5,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000029,PED-00016,2025-12-24,CLI-0051,Hub USB-C,Eletrónica,1,44.90,0,MB WAY,Porto,Norte,Concluído
+LIN-000030,PED-00017,2024-06-08,CLI-0237,Candeeiro de Mesa,Casa e Escritório,2,28.74,10,Transferência,Coimbra,Centro,Concluído
+LIN-000031,PED-00017,2024-06-08,CLI-0237,"Monitor 24""",Eletrónica,4,179.90,0,Transferência,Coimbra,Centro,Concluído
+LIN-000032,PED-00017,2024-06-08,CLI-0237,Teclado Mecânico,Eletrónica,1,79.90,10,Transferência,Coimbra,Centro,Concluído
+LIN-000033,PED-00018,2025-11-14,CLI-0085,Garrafa Térmica,Acessórios,2,22.56,10,Dinheiro,Viseu,Centro,Concluído
+LIN-000034,PED-00018,2025-11-14,CLI-0085,Pack Canetas Gel,Papelaria,1,4.90,0,Dinheiro,Viseu,Centro,Concluído
+LIN-000035,PED-00018,2025-11-14,CLI-0085,Suporte para Portátil,Acessórios,4,35.95,10,Dinheiro,Viseu,Centro,Concluído
+LIN-000036,PED-00019,2024-03-02,CLI-0161,Carregador USB-C,Eletrónica,1,29.90,0,Cartão de débito,Porto,Norte,Concluído
+LIN-000037,PED-00019,2024-03-02,CLI-0161,Teclado Mecânico,Eletrónica,1,79.90,0,Cartão de débito,Porto,Norte,Concluído
+LIN-000038,PED-00019,2024-03-02,CLI-0161,Organizador de Mesa,Casa e Escritório,4,15.35,0,Cartão de débito,Porto,Norte,Concluído
+LIN-000039,PED-00020,2025-04-08,CLI-0318,Caderno A5,Papelaria,1,6.50,0,MB WAY,Porto,Norte,Concluído
+LIN-000040,PED-00021,2024-11-16,CLI-0344,Auriculares Bluetooth,Eletrónica,1,39.90,5,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Cancelado
+LIN-000041,PED-00021,2024-11-16,CLI-0344,Garrafa Térmica,Acessórios,1,21.90,15,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Cancelado
+LIN-000042,PED-00021,2024-11-16,CLI-0344,"Monitor 24""",Eletrónica,3,179.90,0,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Cancelado
+LIN-000043,PED-00022,2024-12-09,CLI-0279,Auriculares Bluetooth,Eletrónica,1,38.70,15,MB WAY,Setúbal,Lisboa e Vale do Tejo,Devolvido
+LIN-000044,PED-00022,2024-12-09,CLI-0279,Candeeiro de Mesa,Casa e Escritório,1,27.06,15,MB WAY,Setúbal,Lisboa e Vale do Tejo,Devolvido
+LIN-000045,PED-00023,2025-07-27,CLI-0080,Caderno A5,Papelaria,1,6.50,10,MB WAY,Coimbra,Centro,Concluído
+LIN-000046,PED-00024,2025-10-11,CLI-0048,Webcam Full HD,Eletrónica,2,54.90,0,MB WAY,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000047,PED-00025,2024-12-11,CLI-0362,Webcam Full HD,Eletrónica,3,56.55,5,Cartão de crédito,Leiria,Centro,Concluído
+LIN-000048,PED-00025,2024-12-11,CLI-0362,Candeeiro de Mesa,Casa e Escritório,1,27.06,0,Cartão de crédito,Leiria,Centro,Concluído
+LIN-000049,PED-00025,2024-12-11,CLI-0362,Teclado Mecânico,Eletrónica,3,77.50,15,Cartão de crédito,Leiria,Centro,Concluído
+LIN-000050,PED-00026,2024-06-29,CLI-0128,Extensão Elétrica,Casa e Escritório,3,18.90,10,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000051,PED-00026,2024-06-29,CLI-0128,Webcam Full HD,Eletrónica,1,54.90,5,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000052,PED-00026,2024-06-29,CLI-0128,Coluna Bluetooth,Eletrónica,1,69.90,0,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000053,PED-00027,2025-09-01,CLI-0056,Garrafa Térmica,Acessórios,1,21.90,0,Cartão de crédito,Viseu,Centro,Concluído
+LIN-000054,PED-00028,2025-05-25,CLI-0205,Organizador de Mesa,Casa e Escritório,1,15.35,0,Transferência,Aveiro,Centro,Devolvido
+LIN-000055,PED-00029,2024-01-30,CLI-0134,Suporte para Portátil,Acessórios,1,34.90,0,Dinheiro,Guimarães,Norte,Concluído
+LIN-000056,PED-00030,2025-12-24,CLI-0060,Auriculares Bluetooth,Eletrónica,4,41.10,10,Cartão de débito,Viseu,Centro,Concluído
+LIN-000057,PED-00030,2025-12-24,CLI-0060,Organizador de Mesa,Casa e Escritório,4,14.90,5,Cartão de débito,Viseu,Centro,Concluído
+LIN-000058,PED-00031,2024-03-09,CLI-0341,Pack Canetas Gel,Papelaria,1,4.90,0,MB WAY,Portimão,Algarve,Concluído
+LIN-000059,PED-00032,2025-06-21,CLI-0284,Carregador USB-C,Eletrónica,1,30.80,10,Cartão de débito,Braga,Norte,Cancelado
+LIN-000060,PED-00032,2025-06-21,CLI-0284,Almofada Ergonómica,Casa e Escritório,1,32.90,0,Cartão de débito,Braga,Norte,Cancelado
+LIN-000061,PED-00033,2025-03-28,CLI-0336,Carregador USB-C,Eletrónica,1,30.80,0,Cartão de débito,Aveiro,Centro,Concluído
+LIN-000062,PED-00033,2025-03-28,CLI-0336,Rato Sem Fios,Eletrónica,3,24.90,5,Cartão de débito,Aveiro,Centro,Concluído
+LIN-000063,PED-00034,2024-07-11,CLI-0102,Rato Sem Fios,Eletrónica,1,25.65,0,Cartão de crédito,Braga,Norte,Devolvido
+LIN-000064,PED-00034,2024-07-11,CLI-0102,Garrafa Térmica,Acessórios,2,21.90,0,Cartão de crédito,Braga,Norte,Devolvido
+LIN-000065,PED-00035,2024-05-11,CLI-0353,Suporte para Portátil,Acessórios,1,35.95,0,MB WAY,Porto,Norte,Concluído
+LIN-000066,PED-00036,2025-03-10,CLI-0063,Extensão Elétrica,Casa e Escritório,1,19.47,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000067,PED-00036,2025-03-10,CLI-0063,Agenda Semanal,Papelaria,1,12.90,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000068,PED-00036,2025-03-10,CLI-0063,Garrafa Térmica,Acessórios,2,21.90,5,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000069,PED-00036,2025-03-10,CLI-0063,Organizador de Mesa,Casa e Escritório,2,14.90,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000070,PED-00037,2024-03-15,CLI-0147,Webcam Full HD,Eletrónica,1,54.90,5,Cartão de crédito,Vila Real,Norte,Concluído
+LIN-000071,PED-00038,2024-03-04,CLI-0209,Mochila Executiva,Acessórios,3,51.40,0,Cartão de débito,Aveiro,Centro,Concluído
+LIN-000072,PED-00038,2024-03-04,CLI-0209,Almofada Ergonómica,Casa e Escritório,1,32.90,0,Cartão de débito,Aveiro,Centro,Concluído
+LIN-000073,PED-00038,2024-03-04,CLI-0209,Auriculares Bluetooth,Eletrónica,1,39.90,0,Cartão de débito,Aveiro,Centro,Concluído
+LIN-000074,PED-00039,2025-07-20,CLI-0410,Auriculares Bluetooth,Eletrónica,1,39.90,5,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000075,PED-00040,2025-10-07,CLI-0066,Auriculares Bluetooth,Eletrónica,2,39.90,10,Cartão de débito,Ponta Delgada,Ilhas,Concluído
+LIN-000076,PED-00040,2025-10-07,CLI-0066,Rato Sem Fios,Eletrónica,1,24.90,0,Cartão de débito,Ponta Delgada,Ilhas,Concluído
+LIN-000077,PED-00041,2024-06-30,CLI-0168,Suporte para Portátil,Acessórios,1,35.95,0,Transferência,Aveiro,Centro,Concluído
+LIN-000078,PED-00041,2024-06-30,CLI-0168,Caderno A5,Papelaria,4,6.50,5,Transferência,Aveiro,Centro,Concluído
+LIN-000079,PED-00041,2024-06-30,CLI-0168,Rato Sem Fios,Eletrónica,2,24.15,5,Transferência,Aveiro,Centro,Concluído
+LIN-000080,PED-00041,2024-06-30,CLI-0168,Bolsa para Portátil,Acessórios,4,27.90,10,Transferência,Aveiro,Centro,Concluído
+LIN-000081,PED-00042,2025-04-28,CLI-0123,Caderno A5,Papelaria,2,6.50,5,MB WAY,Braga,Norte,Concluído
+LIN-000082,PED-00043,2025-12-14,CLI-0368,Auriculares Bluetooth,Eletrónica,4,41.10,10,MB WAY,Braga,Norte,Cancelado
+LIN-000083,PED-00044,2025-12-12,CLI-0204,Coluna Bluetooth,Eletrónica,3,72.00,10,Cartão de crédito,Portimão,Algarve,Concluído
+LIN-000084,PED-00044,2025-12-12,CLI-0204,"Monitor 24""",Eletrónica,3,185.30,10,Cartão de crédito,Portimão,Algarve,Concluído
+LIN-000085,PED-00044,2025-12-12,CLI-0204,Pack Canetas Gel,Papelaria,1,4.90,10,Cartão de crédito,Portimão,Algarve,Concluído
+LIN-000086,PED-00045,2024-03-08,CLI-0332,Marcadores Coloridos,Papelaria,2,8.90,5,Transferência,Aveiro,Centro,Concluído
+LIN-000087,PED-00046,2024-12-08,CLI-0376,Bolsa para Portátil,Acessórios,3,28.74,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000088,PED-00046,2024-12-08,CLI-0376,Garrafa Térmica,Acessórios,3,21.24,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000089,PED-00046,2024-12-08,CLI-0376,Suporte para Portátil,Acessórios,1,34.90,5,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000090,PED-00047,2025-05-31,CLI-0173,Caderno A5,Papelaria,1,6.70,5,Transferência,Porto,Norte,Concluído
+LIN-000091,PED-00048,2024-08-25,CLI-0006,Candeeiro de Mesa,Casa e Escritório,2,27.90,5,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000092,PED-00049,2025-01-10,CLI-0406,Almofada Ergonómica,Casa e Escritório,1,33.89,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-000093,PED-00050,2024-12-03,CLI-0382,Coluna Bluetooth,Eletrónica,1,69.90,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000094,PED-00051,2025-07-27,CLI-0391,Almofada Ergonómica,Casa e Escritório,5,33.89,0,Cartão de crédito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000095,PED-00052,2025-12-22,CLI-0100,Webcam Full HD,Eletrónica,1,53.25,5,Cartão de débito,Coimbra,Centro,Concluído
+LIN-000096,PED-00052,2025-12-22,CLI-0100,,Papelaria,2,6.50,10,Cartão de débito,Coimbra,Centro,Concluído
+LIN-000097,PED-00053,2025-08-04,CLI-0053,Carregador USB-C,Eletrónica,1,29.90,0,Cartão de débito,Albufeira,Algarve,Concluído
+LIN-000098,PED-00053,2025-08-04,CLI-0053,Teclado Mecânico,Eletrónica,1,79.90,0,Cartão de débito,Albufeira,Algarve,Concluído
+LIN-000099,PED-00054,2025-05-03,CLI-0028,Coluna Bluetooth,Eletrónica,1,69.90,5,MB WAY,Braga,Norte,Cancelado
+LIN-000100,PED-00055,2025-09-04,CLI-0116,Almofada Ergonómica,Casa e Escritório,5,32.90,0,Cartão de débito,Beja,Alentejo,Concluído
+LIN-000101,PED-00056,2024-03-01,CLI-0379,Rato Sem Fios,Eletrónica,1,24.90,0,MB WAY,Braga,Norte,Concluído
+LIN-000102,PED-00057,2024-05-18,CLI-0210,,Papelaria,2,4.90,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000103,PED-00058,2024-07-19,CLI-0136,Suporte para Portátil,Acessórios,1,34.90,10,MB WAY,Beja,Alentejo,Concluído
+LIN-000104,PED-00058,2024-07-19,CLI-0136,"Monitor 24""",Eletrónica,3,174.50,0,MB WAY,Beja,Alentejo,Concluído
+LIN-000105,PED-00058,2024-07-19,CLI-0136,Candeeiro de Mesa,Casa e Escritório,3,28.74,5,MB WAY,Beja,Alentejo,Concluído
+LIN-000106,PED-00059,2025-03-19,CLI-0148,Caderno A5,Papelaria,1,6.50,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000107,PED-00060,2025-04-10,CLI-0222,Almofada Ergonómica,Casa e Escritório,2,31.91,15,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000108,PED-00061,2025-06-03,CLI-0138,Garrafa Térmica,Acessórios,1,22.56,0,MB WAY,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000109,PED-00061,2025-06-03,CLI-0138,Caderno A5,Papelaria,3,6.30,0,MB WAY,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000110,PED-00062,2024-11-23,CLI-0165,Pack Canetas Gel,Papelaria,3,5.05,0,Transferência,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000111,PED-00062,2024-11-23,CLI-0165,Mochila Executiva,Acessórios,1,49.90,0,Transferência,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000112,PED-00063,2025-12-17,CLI-0207,Garrafa Térmica,Acessórios,1,21.90,10,MB WAY,Albufeira,Algarve,Concluído
+LIN-000113,PED-00063,2025-12-17,CLI-0207,Suporte para Portátil,Acessórios,1,34.90,10,MB WAY,Albufeira,Algarve,Concluído
+LIN-000114,PED-00063,2025-12-17,CLI-0207,Teclado Mecânico,Eletrónica,1,82.30,0,MB WAY,Albufeira,Algarve,Concluído
+LIN-000115,PED-00064,2024-09-04,CLI-0358,Carregador USB-C,Eletrónica,1,29.90,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000116,PED-00064,2024-09-04,CLI-0358,Pack Canetas Gel,Papelaria,5,4.75,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000117,PED-00064,2024-09-04,CLI-0358,Candeeiro de Mesa,Casa e Escritório,1,27.90,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000118,PED-00065,2025-07-06,CLI-0261,Garrafa Térmica,Acessórios,1,21.90,10,Cartão de débito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000119,PED-00065,2025-07-06,CLI-0261,Candeeiro de Mesa,Casa e Escritório,1,27.90,10,Cartão de débito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000120,PED-00066,2024-08-25,CLI-0405,Auriculares Bluetooth,Eletrónica,1,39.90,10,Cartão de crédito,Faro,Algarve,Concluído
+LIN-000121,PED-00067,2025-03-28,CLI-0338,Candeeiro de Mesa,Casa e Escritório,2,27.90,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000122,PED-00068,2024-09-29,CLI-0097,Suporte para Portátil,Acessórios,2,34.90,0,Cartão de crédito,Ponta Delgada,Ilhas,Concluído
+LIN-000123,PED-00068,2024-09-29,CLI-0097,Teclado Mecânico,Eletrónica,2,79.90,0,Cartão de crédito,Ponta Delgada,Ilhas,Concluído
+LIN-000124,PED-00068,2024-09-29,CLI-0097,Agenda Semanal,Papelaria,1,13.29,15,Cartão de crédito,Ponta Delgada,Ilhas,Concluído
+LIN-000125,PED-00069,2024-10-06,CLI-0052,Webcam Full HD,Eletrónica,3,54.90,0,Cartão de débito,Albufeira,Algarve,Concluído
+LIN-000126,PED-00069,2024-10-06,CLI-0052,Suporte para Portátil,Acessórios,2,34.90,0,Cartão de débito,Albufeira,Algarve,Concluído
+LIN-000127,PED-00070,2025-06-18,CLI-0333,Agenda Semanal,Papelaria,3,12.51,5,Cartão de crédito,Porto,Norte,Concluído
+LIN-000128,PED-00070,2025-06-18,CLI-0333,Bolsa para Portátil,Acessórios,1,27.90,15,Cartão de crédito,Porto,Norte,Concluído
+LIN-000129,PED-00071,2025-07-30,CLI-0223,Carregador USB-C,Eletrónica,2,29.00,0,MB WAY,Ponta Delgada,Ilhas,Concluído
+LIN-000130,PED-00072,2025-09-07,CLI-0151,Carregador USB-C,Eletrónica,1,29.00,5,Cartão de débito,Viseu,Centro,Concluído
+LIN-000131,PED-00073,2024-11-09,CLI-0350,Caderno A5,Papelaria,1,6.30,15,Transferência,Coimbra,Centro,Concluído
+LIN-000132,PED-00073,2024-11-09,CLI-0350,Garrafa Térmica,Acessórios,1,21.90,10,Transferência,Coimbra,Centro,Concluído
+LIN-000133,PED-00074,2024-05-19,CLI-0227,Caderno A5,Papelaria,5,6.50,0,Dinheiro,Portimão,Algarve,Concluído
+LIN-000134,PED-00074,2024-05-19,CLI-0227,Garrafa Térmica,Acessórios,1,21.90,0,Dinheiro,Portimão,Algarve,Concluído
+LIN-000135,PED-00074,2024-05-19,CLI-0227,Pack Canetas Gel,Papelaria,5,4.90,0,Dinheiro,Portimão,Algarve,Concluído
+LIN-000136,PED-00074,2024-05-19,CLI-0227,Hub USB-C,Eletrónica,3,44.90,0,Dinheiro,Portimão,Algarve,Concluído
+LIN-000137,PED-00075,2025-03-17,CLI-0352,Pack Canetas Gel,Papelaria,2,4.90,0,Dinheiro,Beja,Alentejo,Concluído
+LIN-000138,PED-00075,2025-03-17,CLI-0352,Coluna Bluetooth,Eletrónica,1,69.90,5,Dinheiro,Beja,Alentejo,Concluído
+LIN-000139,PED-00076,2025-07-10,CLI-0338,Teclado Mecânico,Eletrónica,2,77.50,0,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000140,PED-00076,2025-07-10,CLI-0338,Pack Canetas Gel,Papelaria,2,4.75,10,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000141,PED-00077,2024-10-02,CLI-0213,Organizador de Mesa,Casa e Escritório,1,14.90,15,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000142,PED-00077,2024-10-02,CLI-0213,Extensão Elétrica,Casa e Escritório,1,18.90,5,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000143,PED-00077,2024-10-02,CLI-0213,Caderno A5,Papelaria,1,6.30,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000144,PED-00077,2024-10-02,CLI-0213,Carregador USB-C,Eletrónica,4,29.90,15,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000145,PED-00078,2025-09-13,CLI-0188,Marcadores Coloridos,Papelaria,2,8.90,0,Cartão de débito,Porto,Norte,Concluído
+LIN-000146,PED-00079,2025-09-25,CLI-0191,Candeeiro de Mesa,Casa e Escritório,2,27.90,10,Cartão de crédito,Braga,Norte,Concluído
+LIN-000147,PED-00079,2025-09-25,CLI-0191,Agenda Semanal,Papelaria,1,12.90,0,Cartão de crédito,Braga,Norte,Concluído
+LIN-000148,PED-00079,2025-09-25,CLI-0191,Coluna Bluetooth,Eletrónica,1,67.80,0,Cartão de crédito,Braga,Norte,Concluído
+LIN-000149,PED-00080,2025-01-11,CLI-0050,Candeeiro de Mesa,Casa e Escritório,1,27.90,10,Cartão de débito,Vila Real,Norte,Concluído
+LIN-000150,PED-00081,2025-05-22,CLI-0251,Hub USB-C,Eletrónica,1,44.90,10,Transferência,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000151,PED-00081,2025-05-22,CLI-0251,Garrafa Térmica,Acessórios,1,21.90,0,Transferência,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000152,PED-00082,2025-12-21,CLI-0184,Garrafa Térmica,Acessórios,2,22.56,20,Cartão de crédito,Porto,Norte,Devolvido
+LIN-000153,PED-00082,2025-12-21,CLI-0184,Rato Sem Fios,Eletrónica,1,24.90,0,Cartão de crédito,Porto,Norte,Devolvido
+LIN-000154,PED-00082,2025-12-21,CLI-0184,Hub USB-C,Eletrónica,1,46.25,0,Cartão de crédito,Porto,,Devolvido
+LIN-000155,PED-00083,2025-09-30,CLI-0284,Webcam Full HD,Eletrónica,2,56.55,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000156,PED-00084,2025-10-19,CLI-0075,Auriculares Bluetooth,Eletrónica,1,39.90,5,Cartão de débito,Ponta Delgada,Ilhas,Concluído
+LIN-000157,PED-00085,2024-07-23,CLI-0166,"Monitor 24""",Eletrónica,2,179.90,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-000158,PED-00086,2024-10-27,CLI-0304,Organizador de Mesa,Casa e Escritório,1,14.45,0,Cartão de débito,Braga,Norte,Cancelado
+LIN-000159,PED-00087,2024-12-30,CLI-0206,Rato Sem Fios,Eletrónica,2,24.15,0,Cartão de crédito,Leiria,Centro,Concluído
+LIN-000160,PED-00087,2024-12-30,CLI-0206,Agenda Semanal,Papelaria,2,13.29,5,Cartão de crédito,Leiria,Centro,Concluído
+LIN-000161,PED-00088,2024-10-01,CLI-0306,"Monitor 24""",Eletrónica,3,185.30,5,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000162,PED-00089,2024-07-03,CLI-0232,"Monitor 24""",Eletrónica,1,179.90,5,Cartão de débito,Albufeira,Algarve,Concluído
+LIN-000163,PED-00090,2024-11-04,CLI-0079,Suporte para Portátil,Acessórios,1,34.90,10,Cartão de débito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000164,PED-00091,2025-03-09,CLI-0301,Suporte para Portátil,Acessórios,3,33.85,15,Cartão de débito,Funchal,Ilhas,Concluído
+LIN-000165,PED-00092,2025-04-12,CLI-0181,"Monitor 24""",Eletrónica,3,179.90,0,Cartão de débito,Braga,Norte,Concluído
+LIN-000166,PED-00092,2025-04-12,CLI-0181,Marcadores Coloridos,Papelaria,1,8.90,5,Cartão de débito,Braga,Norte,Concluído
+LIN-000167,PED-00093,2025-10-10,CLI-0393,Caderno A5,Papelaria,1,6.50,5,MB WAY,Faro,Algarve,Concluído
+LIN-000168,PED-00094,2024-09-20,CLI-0174,Rato Sem Fios,Eletrónica,2,24.15,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000169,PED-00094,2024-09-20,CLI-0174,Webcam Full HD,Eletrónica,2,54.90,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000170,PED-00095,2024-10-12,CLI-0190,Teclado Mecânico,Eletrónica,1,82.30,0,Cartão de crédito,Aveiro,Centro,Cancelado
+LIN-000171,PED-00095,2024-10-12,CLI-0190,Webcam Full HD,Eletrónica,1,54.90,5,Cartão de crédito,Aveiro,Centro,Cancelado
+LIN-000172,PED-00096,2025-01-05,CLI-0227,"Monitor 24""",Eletrónica,1,185.30,0,Cartão de crédito,Leiria,Centro,Concluído
+LIN-000173,PED-00097,2025-05-31,CLI-0024,Hub USB-C,Eletrónica,2,44.90,0,Dinheiro,Vila Real,Norte,Concluído
+LIN-000174,PED-00098,2024-04-19,CLI-0255,Organizador de Mesa,Casa e Escritório,3,14.90,0,Cartão de crédito,Évora,Alentejo,Concluído
+LIN-000175,PED-00098,2024-04-19,CLI-0255,Candeeiro de Mesa,Casa e Escritório,3,27.06,0,Cartão de crédito,Évora,Alentejo,Concluído
+LIN-000176,PED-00099,2024-12-20,CLI-0040,Suporte para Portátil,Acessórios,1,33.85,20,Cartão de débito,Albufeira,Algarve,Concluído
+LIN-000177,PED-00099,2024-12-20,CLI-0040,Pack Canetas Gel,Papelaria,1,5.05,5,Cartão de débito,Albufeira,Algarve,Concluído
+LIN-000178,PED-00100,2025-06-16,CLI-0186,Organizador de Mesa,Casa e Escritório,1,14.90,5,Transferência,Porto,Norte,Concluído
+LIN-000179,PED-00100,2025-06-16,CLI-0186,Rato Sem Fios,Eletrónica,1,24.90,0,Transferência,Porto,Norte,Concluído
+LIN-000180,PED-00101,2025-05-06,CLI-0272,Webcam Full HD,Eletrónica,1,54.90,0,Transferência,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000181,PED-00101,2025-05-06,CLI-0272,Coluna Bluetooth,Eletrónica,2,67.80,0,Transferência,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000182,PED-00102,2025-08-21,CLI-0253,Almofada Ergonómica,Casa e Escritório,3,32.90,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000183,PED-00102,2025-08-21,CLI-0253,Agenda Semanal,Papelaria,1,12.90,5,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000184,PED-00103,2025-09-08,CLI-0303,Teclado Mecânico,Eletrónica,3,77.50,5,Cartão de débito,Porto,Norte,Concluído
+LIN-000185,PED-00103,2025-09-08,CLI-0303,Marcadores Coloridos,Papelaria,5,8.63,5,Cartão de débito,Porto,Norte,Concluído
+LIN-000186,PED-00104,2025-01-25,CLI-0237,Almofada Ergonómica,Casa e Escritório,2,32.90,5,Dinheiro,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000187,PED-00105,2025-01-20,CLI-0032,Rato Sem Fios,Eletrónica,1,24.90,15,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000188,PED-00105,2025-01-20,CLI-0032,Organizador de Mesa,Casa e Escritório,2,15.35,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000189,PED-00105,2025-01-20,CLI-0032,Carregador USB-C,Eletrónica,1,29.90,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000190,PED-00105,2025-01-20,CLI-0032,Teclado Mecânico,Eletrónica,2,82.30,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000191,PED-00106,2025-05-05,CLI-0172,Extensão Elétrica,Casa e Escritório,3,18.90,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-000192,PED-00107,2025-05-28,CLI-0180,Rato Sem Fios,Eletrónica,1,24.90,5,MB WAY,Aveiro,Centro,Concluído
+LIN-000193,PED-00108,2024-10-04,CLI-0066,Organizador de Mesa,Casa e Escritório,2,14.90,0,MB WAY,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000194,PED-00108,2024-10-04,CLI-0066,Rato Sem Fios,Eletrónica,1,24.90,0,MB WAY,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000195,PED-00109,2024-07-02,CLI-0393,"Monitor 24""",Eletrónica,1,185.30,10,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000196,PED-00110,2025-11-04,CLI-0020,Webcam Full HD,Eletrónica,1,56.55,10,Transferência,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000197,PED-00110,2025-11-04,CLI-0020,Carregador USB-C,Eletrónica,1,29.90,0,Transferência,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000198,PED-00111,2024-10-29,CLI-0369,Garrafa Térmica,Acessórios,2,21.90,15,Cartão de débito,Vila Real,Norte,Concluído
+LIN-000199,PED-00111,2024-10-29,CLI-0369,Coluna Bluetooth,Eletrónica,2,69.90,0,Cartão de débito,Vila Real,Norte,Concluído
+LIN-000200,PED-00112,2025-12-06,CLI-0226,Carregador USB-C,Eletrónica,3,29.90,15,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000201,PED-00112,2025-12-06,CLI-0226,Hub USB-C,Eletrónica,1,44.90,15,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000202,PED-00113,2025-03-08,CLI-0053,Carregador USB-C,Eletrónica,1,30.80,0,Cartão de débito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000203,PED-00114,2024-12-09,CLI-0114,Mochila Executiva,Acessórios,1,49.90,5,Transferência,Faro,Algarve,Cancelado
+LIN-000204,PED-00115,2024-03-19,CLI-0115,Webcam Full HD,Eletrónica,1,54.90,5,Transferência,Porto,Norte,Concluído
+LIN-000205,PED-00115,2024-03-19,CLI-0115,Extensão Elétrica,Casa e Escritório,1,18.90,0,Transferência,Porto,Norte,Concluído
+LIN-000206,PED-00116,2024-01-06,CLI-0041,Extensão Elétrica,Casa e Escritório,1,18.90,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-000207,PED-00116,2024-01-06,CLI-0041,Organizador de Mesa,Casa e Escritório,1,14.90,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-000208,PED-00116,2024-01-06,CLI-0041,Suporte para Portátil,Acessórios,3,34.90,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-000209,PED-00117,2025-10-05,CLI-0256,Webcam Full HD,Eletrónica,1,53.25,5,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000210,PED-00118,2024-07-25,CLI-0214,Organizador de Mesa,Casa e Escritório,2,15.35,0,MB WAY,Guimarães,Norte,Concluído
+LIN-000211,PED-00119,2024-11-13,CLI-0241,Marcadores Coloridos,Papelaria,1,8.63,10,Cartão de débito,Porto,Norte,Concluído
+LIN-000212,PED-00119,2024-11-13,CLI-0241,Rato Sem Fios,Eletrónica,2,24.90,0,Cartão de débito,Porto,Norte,Concluído
+LIN-000213,PED-00120,2024-10-20,CLI-0174,Bolsa para Portátil,Acessórios,3,27.06,5,Cartão de crédito,Faro,Algarve,Concluído
+LIN-000214,PED-00120,2024-10-20,CLI-0174,Carregador USB-C,Eletrónica,4,29.00,0,Cartão de crédito,Faro,Algarve,Concluído
+LIN-000215,PED-00121,2024-02-14,CLI-0103,Candeeiro de Mesa,Casa e Escritório,1,27.06,5,Cartão de crédito,Albufeira,Algarve,Concluído
+LIN-000216,PED-00122,2024-06-14,CLI-0183,Marcadores Coloridos,Papelaria,1,8.90,5,Cartão de crédito,Albufeira,Algarve,Concluído
+LIN-000217,PED-00123,2025-11-09,CLI-0198,Organizador de Mesa,Casa e Escritório,1,14.45,10,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000218,PED-00124,2024-03-16,CLI-0309,Agenda Semanal,Papelaria,2,12.90,0,Cartão de crédito,Ponta Delgada,Ilhas,Concluído
+LIN-000219,PED-00125,2025-07-07,CLI-0086,Marcadores Coloridos,Papelaria,2,8.63,0,Cartão de crédito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000220,PED-00125,2025-07-07,CLI-0086,Suporte para Portátil,Acessórios,2,34.90,0,Cartão de crédito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000221,PED-00125,2025-07-07,CLI-0086,Caderno A5,Papelaria,2,6.50,10,Cartão de crédito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000222,PED-00126,2024-05-07,CLI-0312,Marcadores Coloridos,Papelaria,1,9.17,0,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000223,PED-00127,2024-05-15,CLI-0231,Organizador de Mesa,Casa e Escritório,1,14.90,0,Cartão de débito,Funchal,Ilhas,Concluído
+LIN-000224,PED-00127,2024-05-15,CLI-0231,Marcadores Coloridos,Papelaria,1,8.90,0,Cartão de débito,Funchal,Ilhas,Concluído
+LIN-000225,PED-00128,2024-11-11,CLI-0288,Extensão Elétrica,Casa e Escritório,1,18.90,0,MB WAY,Braga,Norte,Concluído
+LIN-000226,PED-00129,2024-05-02,CLI-0038,Agenda Semanal,Papelaria,2,12.51,0,Transferência,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000227,PED-00130,2024-09-06,CLI-0154,Marcadores Coloridos,Papelaria,1,8.90,5,MB WAY,Faro,Algarve,Cancelado
+LIN-000228,PED-00130,2024-09-06,CLI-0154,Organizador de Mesa,Casa e Escritório,1,14.90,0,MB WAY,Faro,Algarve,Cancelado
+LIN-000229,PED-00131,2025-03-08,CLI-0189,Rato Sem Fios,Eletrónica,5,24.90,0,Dinheiro,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000230,PED-00131,2025-03-08,CLI-0189,Pack Canetas Gel,Papelaria,2,5.05,0,Dinheiro,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000231,PED-00131,2025-03-08,CLI-0189,Mochila Executiva,Acessórios,5,48.40,0,Dinheiro,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000232,PED-00132,2025-06-09,CLI-0177,Webcam Full HD,Eletrónica,1,53.25,10,MB WAY,Braga,Norte,Concluído
+LIN-000233,PED-00132,2025-06-09,CLI-0177,Suporte para Portátil,Acessórios,1,34.90,0,MB WAY,Braga,Norte,Concluído
+LIN-000234,PED-00133,2024-09-29,CLI-0364,Rato Sem Fios,Eletrónica,1,25.65,0,Dinheiro,Vila Real,Norte,Concluído
+LIN-000235,PED-00134,2025-04-30,CLI-0315,Webcam Full HD,Eletrónica,3,56.55,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000236,PED-00134,2025-04-30,CLI-0315,Carregador USB-C,Eletrónica,3,29.00,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000237,PED-00134,2025-04-30,CLI-0315,Agenda Semanal,Papelaria,2,13.29,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000238,PED-00135,2024-06-29,CLI-0293,Pack Canetas Gel,Papelaria,1,4.90,0,MB WAY,Leiria,Centro,Concluído
+LIN-000239,PED-00135,2024-06-29,CLI-0293,Extensão Elétrica,Casa e Escritório,1,18.33,0,MB WAY,Leiria,Centro,Concluído
+LIN-000240,PED-00136,2024-11-28,CLI-0238,Marcadores Coloridos,Papelaria,1,8.90,5,MB WAY,Guimarães,Norte,Concluído
+LIN-000241,PED-00136,2024-11-28,CLI-0238,Mochila Executiva,Acessórios,1,49.90,5,MB WAY,Guimarães,Norte,Concluído
+LIN-000242,PED-00137,2024-08-17,CLI-0127,Suporte para Portátil,Acessórios,3,35.95,5,Cartão de crédito,Braga,Norte,Cancelado
+LIN-000243,PED-00137,2024-08-17,CLI-0127,Coluna Bluetooth,Eletrónica,1,69.90,0,Cartão de crédito,Braga,Norte,Cancelado
+LIN-000244,PED-00137,2024-08-17,CLI-0127,Carregador USB-C,Eletrónica,1,29.90,10,Cartão de crédito,Braga,Norte,Cancelado
+LIN-000245,PED-00138,,CLI-0047,Marcadores Coloridos,Papelaria,1,8.90,0,Cartão de débito,Portimão,Algarve,Devolvido
+LIN-000246,PED-00139,2025-11-03,CLI-0335,Webcam Full HD,Eletrónica,3,54.90,10,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000247,PED-00140,2024-10-30,CLI-0206,Mochila Executiva,Acessórios,1,51.40,0,Cartão de débito,Porto,Norte,Concluído
+LIN-000248,PED-00141,2025-12-26,CLI-0349,Agenda Semanal,Papelaria,2,12.90,10,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000249,PED-00142,2024-06-20,CLI-0261,Bolsa para Portátil,Acessórios,1,28.74,10,Cartão de crédito,Leiria,Centro,Concluído
+LIN-000250,PED-00142,2024-06-20,CLI-0261,Organizador de Mesa,Casa e Escritório,1,15.35,0,Cartão de crédito,Leiria,Centro,Concluído
+LIN-000251,PED-00143,2024-11-15,CLI-0316,Candeeiro de Mesa,Casa e Escritório,1,27.06,5,Cartão de crédito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000252,PED-00143,2024-11-15,CLI-0316,Bolsa para Portátil,Acessórios,2,27.90,10,Cartão de crédito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000253,PED-00143,2024-11-15,CLI-0316,Pack Canetas Gel,Papelaria,3,4.75,10,Cartão de crédito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000254,PED-00144,2024-08-16,CLI-0336,Almofada Ergonómica,Casa e Escritório,1,33.89,5,MB WAY,Beja,Alentejo,Concluído
+LIN-000255,PED-00144,2025-02-31,CLI-0336,Bolsa para Portátil,Acessórios,1,27.90,0,MB WAY,Beja,Alentejo,Concluído
+LIN-000256,PED-00145,2025-12-07,CLI-0057,Hub USB-C,Eletrónica,1,46.25,15,Cartão de débito,Guimarães,Norte,Concluído
+LIN-000257,PED-00146,2025-10-28,CLI-0377,Bolsa para Portátil,Acessórios,1,27.90,0,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000258,PED-00146,2025-10-28,CLI-0377,Organizador de Mesa,Casa e Escritório,2,15.35,0,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000259,PED-00147,2025-08-20,CLI-0370,Coluna Bluetooth,Eletrónica,2,69.90,10,MB WAY,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000260,PED-00147,2025-08-20,CLI-0370,Caderno A5,Papelaria,5,6.50,5,MB WAY,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000261,PED-00148,2025-06-16,CLI-0251,Caderno A5,Papelaria,2,6.70,0,Cartão de crédito,Aveiro,Centro,Cancelado
+LIN-000262,PED-00148,2025-06-16,CLI-0251,Pack Canetas Gel,Papelaria,5,4.90,10,Cartão de crédito,Aveiro,Centro,Cancelado
+LIN-000263,PED-00148,2025-06-16,CLI-0251,"Monitor 24""",Eletrónica,3,179.90,0,Cartão de crédito,Aveiro,Centro,Cancelado
+LIN-000264,PED-00149,2025-12-10,CLI-0041,Hub USB-C,Eletrónica,1,46.25,10,Cartão de débito,Aveiro,Centro,Concluído
+LIN-000265,PED-00149,2025-12-10,CLI-0041,Candeeiro de Mesa,Casa e Escritório,1,28.74,10,Cartão de débito,Aveiro,Centro,Concluído
+LIN-000266,PED-00150,2024-07-24,CLI-0026,Suporte para Portátil,Acessórios,1,34.90,0,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000267,PED-00151,2025-08-19,CLI-0003,Bolsa para Portátil,Acessórios,2,27.90,0,Dinheiro,Funchal,Ilhas,Concluído
+LIN-000268,PED-00151,2025-08-19,CLI-0003,Extensão Elétrica,Casa e Escritório,2,18.33,5,Dinheiro,Funchal,Ilhas,Concluído
+LIN-000269,PED-00152,2024-07-18,CLI-0379,Carregador USB-C,Eletrónica,4,29.00,15,Transferência,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000270,PED-00153,2024-11-17,CLI-0254,Teclado Mecânico,Eletrónica,1,82.30,10,MB WAY,Guimarães,Norte,Concluído
+LIN-000271,PED-00154,2025-11-27,CLI-0172,Webcam Full HD,Eletrónica,1,54.90,10,Dinheiro,Coimbra,Centro,Concluído
+LIN-000272,PED-00154,2025-11-27,CLI-0172,Organizador de Mesa,Casa e Escritório,1,14.90,10,Dinheiro,Coimbra,Centro,Concluído
+LIN-000273,PED-00155,2025-07-08,CLI-0008,Carregador USB-C,Eletrónica,3,30.80,0,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000274,PED-00155,2025-07-08,CLI-0008,Mochila Executiva,Acessórios,1,48.40,0,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000275,PED-00156,2024-05-05,CLI-0166,Caderno A5,Papelaria,1,6.70,0,Cartão de crédito,Portimão,Algarve,Concluído
+LIN-000276,PED-00156,2024-05-05,CLI-0166,Agenda Semanal,Papelaria,2,12.90,0,Cartão de crédito,Portimão,Algarve,Concluído
+LIN-000277,PED-00157,2024-04-18,CLI-0158,Pack Canetas Gel,Papelaria,1,4.90,0,MB WAY,Braga,Norte,Concluído
+LIN-000278,PED-00157,2024-04-18,CLI-0158,"Monitor 24""",Eletrónica,1,179.90,0,MB WAY,Braga,Norte,Concluído
+LIN-000279,PED-00157,2024-04-18,CLI-0158,Extensão Elétrica,Casa e Escritório,5,18.90,0,MB WAY,Braga,Norte,Concluído
+LIN-000280,PED-00158,2025-03-04,CLI-0242,Extensão Elétrica,Casa e Escritório,2,19.47,5,MB WAY,Évora,Alentejo,Concluído
+LIN-000281,PED-00158,2025-03-04,CLI-0242,Rato Sem Fios,Eletrónica,1,25.65,0,MB WAY,Évora,Alentejo,Concluído
+LIN-000282,PED-00159,2025-09-30,CLI-0259,Garrafa Térmica,Acessórios,2,21.90,0,Cartão de débito,Guimarães,Norte,Concluído
+LIN-000283,PED-00159,2025-09-30,CLI-0259,"Monitor 24""",Eletrónica,1,174.50,0,Cartão de débito,Guimarães,Norte,Concluído
+LIN-000284,PED-00159,2025-09-30,CLI-0259,Hub USB-C,Eletrónica,1,44.90,0,Cartão de débito,Guimarães,Norte,Concluído
+LIN-000285,PED-00160,2025-03-11,CLI-0345,Hub USB-C,Eletrónica,1,44.90,5,MB WAY,Portalegre,Alentejo,Concluído
+LIN-000286,PED-00160,2025-03-11,CLI-0345,Almofada Ergonómica,Casa e Escritório,2,31.91,10,MB WAY,Portalegre,Alentejo,Concluído
+LIN-000287,PED-00160,2025-03-11,CLI-0345,Rato Sem Fios,Eletrónica,1,24.90,0,MB WAY,Portalegre,Alentejo,Concluído
+LIN-000288,PED-00161,2024-11-24,CLI-0394,Marcadores Coloridos,Papelaria,1,9.17,0,MB WAY,Braga,Norte,Concluído
+LIN-000289,PED-00161,2024-11-24,CLI-0394,Mochila Executiva,Acessórios,3,48.40,0,MB WAY,Braga,Norte,Concluído
+LIN-000290,PED-00161,2024-11-24,CLI-0394,Garrafa Térmica,Acessórios,2,22.56,0,MB WAY,Braga,Norte,Concluído
+LIN-000291,PED-00161,2024-11-24,CLI-0394,Almofada Ergonómica,Casa e Escritório,5,31.91,10,MB WAY,Braga,Norte,Concluído
+LIN-000292,PED-00162,2025-12-21,CLI-0238,Coluna Bluetooth,Eletrónica,1,69.90,15,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000293,PED-00162,2025-12-21,CLI-0238,Garrafa Térmica,Acessórios,2,21.24,0,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000294,PED-00162,2025-12-21,CLI-0238,Marcadores Coloridos,Papelaria,2,9.17,10,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000295,PED-00163,2025-11-04,CLI-0009,Teclado Mecânico,Eletrónica,2,79.90,5,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000296,PED-00163,2025-11-04,CLI-0009,Coluna Bluetooth,Eletrónica,2,67.80,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000297,PED-00164,2025-12-28,CLI-0120,Agenda Semanal,Papelaria,1,12.90,20,MB WAY,Faro,Algarve,Concluído
+LIN-000298,PED-00164,2025-12-28,CLI-0120,Coluna Bluetooth,Eletrónica,2,69.90,0,MB WAY,Faro,Algarve,Concluído
+LIN-000299,PED-00165,2024-03-02,CLI-0303,Bolsa para Portátil,Acessórios,1,27.90,10,Transferência,Albufeira,Algarve,Concluído
+LIN-000300,PED-00166,2025-06-03,CLI-0403,Carregador USB-C,Eletrónica,2,29.90,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000301,PED-00167,2024-07-12,CLI-0363,Suporte para Portátil,Acessórios,2,34.90,0,Cartão de débito,Braga,Norte,Concluído
+LIN-000302,PED-00168,2024-08-06,CLI-0170,Hub USB-C,Eletrónica,1,44.90,5,Transferência,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000303,PED-00169,2025-04-14,CLI-0038,Bolsa para Portátil,Acessórios,3,27.90,0,MB WAY,Guimarães,Norte,Concluído
+LIN-000304,PED-00169,2025-04-14,CLI-0038,Hub USB-C,Eletrónica,3,44.90,10,MB WAY,Guimarães,Norte,Concluído
+LIN-000305,PED-00170,2025-12-13,CLI-0061,Hub USB-C,Eletrónica,4,46.25,0,MB WAY,Évora,Alentejo,Concluído
+LIN-000306,PED-00170,2025-12-13,CLI-0061,Mochila Executiva,Acessórios,1,49.90,5,MB WAY,Évora,Alentejo,Concluído
+LIN-000307,PED-00171,2024-10-25,CLI-0134,Bolsa para Portátil,Acessórios,1,27.90,0,Transferência,Viseu,Centro,Concluído
+LIN-000308,PED-00171,2024-10-25,CLI-0134,Agenda Semanal,Papelaria,3,12.90,0,Transferência,Viseu,Centro,Concluído
+LIN-000309,PED-00171,2024-10-25,CLI-0134,Hub USB-C,Eletrónica,2,46.25,0,Transferência,Viseu,Centro,Concluído
+LIN-000310,PED-00172,2024-11-29,CLI-0079,Candeeiro de Mesa,Casa e Escritório,2,27.90,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000311,PED-00173,2025-09-25,CLI-0371,Carregador USB-C,Eletrónica,1,30.80,15,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000312,PED-00173,2025-09-25,CLI-0371,Webcam Full HD,Eletrónica,4,56.55,0,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000313,PED-00173,2025-09-25,CLI-0371,Candeeiro de Mesa,Casa e Escritório,3,27.06,5,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000314,PED-00174,2024-11-26,CLI-0323,Marcadores Coloridos,Papelaria,2,9.17,15,MB WAY,Vila Real,Norte,Concluído
+LIN-000315,PED-00174,2024-11-26,CLI-0323,Teclado Mecânico,Eletrónica,2,77.50,0,MB WAY,Vila Real,Norte,Concluído
+LIN-000316,PED-00175,2025-03-06,CLI-0007,Organizador de Mesa,Casa e Escritório,3,14.90,5,MB WAY,Porto,Norte,Concluído
+LIN-000317,PED-00176,2025-11-17,CLI-0055,Caderno A5,Papelaria,1,6.50,0,Cartão de débito,Portimão,Algarve,Concluído
+LIN-000318,PED-00176,2025-11-17,CLI-0055,Marcadores Coloridos,Papelaria,4,8.90,5,Cartão de débito,Portimão,Algarve,Concluído
+LIN-000319,PED-00177,2025-12-27,CLI-0116,Teclado Mecânico,Eletrónica,1,79.90,0,MB WAY,Coimbra,Centro,Concluído
+LIN-000320,PED-00177,2025-12-27,CLI-0116,Rato Sem Fios,Eletrónica,1,24.90,0,MB WAY,Coimbra,Centro,Concluído
+LIN-000321,PED-00177,2025-12-27,CLI-0116,Mochila Executiva,Acessórios,3,49.90,5,MB WAY,Coimbra,Centro,Concluído
+LIN-000322,PED-00177,2025-12-27,CLI-0116,Candeeiro de Mesa,Casa e Escritório,3,27.06,15,MB WAY,Coimbra,Centro,Concluído
+LIN-000323,PED-00178,2025-11-22,CLI-0118,Teclado Mecânico,Eletrónica,2,79.90,15,Transferência,Vila Real,Norte,Concluído
+LIN-000324,PED-00178,2025-11-22,CLI-0118,Rato Sem Fios,Eletrónica,2,24.15,0,Transferência,Vila Real,Norte,Concluído
+LIN-000325,PED-00179,2025-10-14,CLI-0009,Mochila Executiva,Acessórios,1,51.40,0,Cartão de débito,Funchal,Ilhas,Concluído
+LIN-000326,PED-00179,2025-10-14,CLI-0009,Rato Sem Fios,Eletrónica,3,24.90,5,Cartão de débito,Funchal,Ilhas,Concluído
+LIN-000327,PED-00180,2025-02-25,CLI-0197,Organizador de Mesa,Casa e Escritório,1,14.90,0,Cartão de crédito,Évora,Alentejo,Devolvido
+LIN-000328,PED-00180,2025-02-25,CLI-0197,Marcadores Coloridos,Papelaria,1,9.17,5,Cartão de crédito,Évora,Alentejo,Devolvido
+LIN-000329,PED-00181,2025-12-10,CLI-0204,Garrafa Térmica,Acessórios,1,21.90,5,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000330,PED-00181,2025-12-10,CLI-0204,Bolsa para Portátil,Acessórios,2,27.90,0,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000331,PED-00181,2025-12-10,CLI-0204,Coluna Bluetooth,Eletrónica,2,69.90,10,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000332,PED-00182,2024-03-19,CLI-0079,Marcadores Coloridos,Papelaria,1,8.63,10,MB WAY,Viseu,Centro,Concluído
+LIN-000333,PED-00183,2024-12-13,CLI-0390,Candeeiro de Mesa,Casa e Escritório,1,27.06,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000334,PED-00183,2024-12-13,CLI-0390,Organizador de Mesa,Casa e Escritório,2,15.35,10,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000335,PED-00184,2024-10-01,CLI-0198,Candeeiro de Mesa,Casa e Escritório,2,27.90,5,Cartão de débito,Porto,Norte,Concluído
+LIN-000336,PED-00184,2024-10-01,CLI-0198,Coluna Bluetooth,Eletrónica,1,69.90,0,Cartão de débito,Porto,Norte,Concluído
+LIN-000337,PED-00185,2025-01-12,CLI-0033,Marcadores Coloridos,Papelaria,2,8.90,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000338,PED-00185,2025-01-12,CLI-0033,Caderno A5,Papelaria,1,6.30,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000339,PED-00185,2025-01-12,CLI-0033,Coluna Bluetooth,Eletrónica,1,69.90,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000340,PED-00186,2025-04-27,CLI-0412,Extensão Elétrica,Casa e Escritório,1,18.90,0,Cartão de débito,Albufeira,Algarve,Concluído
+LIN-000341,PED-00186,2025-04-27,CLI-0412,Webcam Full HD,Eletrónica,1,54.90,15,Cartão de débito,Albufeira,Algarve,Concluído
+LIN-000342,PED-00186,2025-04-27,CLI-0412,Pack Canetas Gel,Papelaria,1,4.90,15,Cartão de débito,Albufeira,Algarve,Concluído
+LIN-000343,PED-00187,2025-08-28,CLI-0167,Almofada Ergonómica,Casa e Escritório,1,33.89,0,MB WAY,Viseu,Centro,Concluído
+LIN-000344,PED-00188,2025-08-16,CLI-0014,Pack Canetas Gel,Papelaria,3,4.75,5,Cartão de débito,Funchal,Ilhas,Concluído
+LIN-000345,PED-00189,2025-09-07,CLI-0210,Webcam Full HD,Eletrónica,2,54.90,0,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000346,PED-00190,2025-12-27,CLI-0246,Suporte para Portátil,Acessórios,3,34.90,10,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000347,PED-00190,2025-12-27,CLI-0246,Candeeiro de Mesa,Casa e Escritório,3,28.74,10,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000348,PED-00190,2025-12-27,CLI-0246,Teclado Mecânico,Eletrónica,1,79.90,10,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000349,PED-00191,2024-10-22,CLI-0332,Agenda Semanal,Papelaria,1,12.51,0,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000350,PED-00191,2024-10-22,CLI-0332,Suporte para Portátil,Acessórios,1,35.95,0,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000351,PED-00192,2025-06-14,CLI-0114,Organizador de Mesa,Casa e Escritório,0,14.45,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000352,PED-00192,2025-06-14,CLI-0114,Webcam Full HD,Eletrónica,1,53.25,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000353,PED-00193,2025-12-04,CLI-0073,Marcadores Coloridos,Papelaria,1,8.90,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000354,PED-00193,2025-12-04,CLI-0073,Bolsa para Portátil,Acessórios,1,27.06,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000355,PED-00194,2024-10-14,CLI-0056,Carregador USB-C,Eletrónica,2,29.90,0,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Devolvido
+LIN-000356,PED-00195,2025-12-12,CLI-0119,Mochila Executiva,Acessórios,2,49.90,5,MB WAY,Portalegre,Alentejo,Concluído
+LIN-000357,PED-00195,2025-12-12,CLI-0119,Auriculares Bluetooth,Eletrónica,1,38.70,10,MB WAY,Portalegre,Alentejo,Concluído
+LIN-000358,PED-00196,2024-06-25,CLI-0386,Candeeiro de Mesa,Casa e Escritório,1,27.90,0,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000359,PED-00196,2024-06-25,CLI-0386,Carregador USB-C,Eletrónica,2,29.90,0,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000360,PED-00196,2024-06-25,CLI-0386,Marcadores Coloridos,Papelaria,2,9.17,0,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000361,PED-00197,2024-11-15,CLI-0059,Pack Canetas Gel,Papelaria,2,4.90,0,Transferência,Aveiro,Centro,Concluído
+LIN-000362,PED-00197,2024-11-15,CLI-0059,Almofada Ergonómica,Casa e Escritório,1,32.90,5,Transferência,Aveiro,Centro,Concluído
+LIN-000363,PED-00197,2024-11-15,CLI-0059,Rato Sem Fios,Eletrónica,1,24.90,5,Transferência,Aveiro,Centro,Concluído
+LIN-000364,PED-00198,2024-05-03,CLI-0197,Carregador USB-C,Eletrónica,1,29.90,0,Cartão de débito,Leiria,Centro,Concluído
+LIN-000365,PED-00198,2024-05-03,CLI-0197,Candeeiro de Mesa,Casa e Escritório,3,28.74,0,Cartão de débito,Leiria,Centro,Concluído
+LIN-000366,PED-00198,2024-05-03,CLI-0197,Extensão Elétrica,Casa e Escritório,1,18.33,0,Cartão de débito,Leiria,Centro,Concluído
+LIN-000367,PED-00199,2024-06-17,CLI-0197,Suporte para Portátil,Acessórios,1,33.85,0,Cartão de débito,Funchal,Ilhas,Concluído
+LIN-000368,PED-00199,2024-06-17,CLI-0197,Garrafa Térmica,Acessórios,3,21.90,0,Cartão de débito,Funchal,Ilhas,Concluído
+LIN-000369,PED-00200,2024-08-24,CLI-0276,Bolsa para Portátil,Acessórios,1,28.74,0,MB WAY,Coimbra,Centro,Concluído
+LIN-000370,PED-00200,2024-08-24,CLI-0276,Candeeiro de Mesa,Casa e Escritório,2,27.90,0,MB WAY,Coimbra,Centro,Concluído
+LIN-000371,PED-00201,2025-08-07,CLI-0390,Coluna Bluetooth,Eletrónica,1,67.80,0,Cartão de débito,Setúbal,Lisboa e Vale do Tejo,Devolvido
+LIN-000372,PED-00202,2024-10-18,CLI-0419,Hub USB-C,Eletrónica,3,46.25,5,Transferência,Porto,Norte,Concluído
+LIN-000373,PED-00202,2024-10-18,CLI-0419,Almofada Ergonómica,Casa e Escritório,1,32.90,5,Transferência,Porto,Norte,Concluído
+LIN-000374,PED-00202,2024-10-18,CLI-0419,Marcadores Coloridos,Papelaria,3,8.63,0,Transferência,Porto,Norte,Concluído
+LIN-000375,PED-00203,2025-02-17,CLI-0306,Caderno A5,Papelaria,4,6.70,15,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000376,PED-00204,2025-06-08,CLI-0049,Caderno A5,Papelaria,3,6.50,5,MB WAY,Braga,Norte,Concluído
+LIN-000377,PED-00205,2024-04-29,CLI-0075,Bolsa para Portátil,Acessórios,2,27.90,5,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000378,PED-00205,2024-04-29,CLI-0075,Webcam Full HD,Eletrónica,1,53.25,5,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000379,PED-00206,2025-11-02,CLI-0048,Garrafa Térmica,Acessórios,2,21.24,10,MB WAY,Leiria,Centro,Concluído
+LIN-000380,PED-00206,2025-11-02,CLI-0048,Bolsa para Portátil,Acessórios,1,27.90,15,MB WAY,Leiria,Centro,Concluído
+LIN-000381,PED-00206,2025-11-02,CLI-0048,Agenda Semanal,Papelaria,3,12.90,0,MB WAY,Leiria,Centro,Concluído
+LIN-000382,PED-00207,2024-12-05,CLI-0109,Webcam Full HD,Eletrónica,3,54.90,15,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000383,PED-00207,2024-12-05,CLI-0109,Almofada Ergonómica,Casa e Escritório,2,31.91,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000384,PED-00208,2025-08-30,CLI-0236,Suporte para Portátil,Acessórios,5,34.90,10,Transferência,Porto,Norte,Concluído
+LIN-000385,PED-00208,2025-08-30,CLI-0236,Hub USB-C,Eletrónica,1,44.90,0,Transferência,Porto,Norte,Concluído
+LIN-000386,PED-00209,2024-10-26,CLI-0043,Pack Canetas Gel,Papelaria,2,4.90,0,Transferência,Viseu,Centro,Concluído
+LIN-000387,PED-00210,2024-03-27,CLI-0049,Garrafa Térmica,Acessórios,1,21.90,5,Cartão de débito,Porto,Norte,Concluído
+LIN-000388,PED-00211,2025-12-26,CLI-0217,"Monitor 24""",Eletrónica,1,179.90,15,Cartão de débito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000389,PED-00212,2024-05-03,CLI-0397,Rato Sem Fios,Eletrónica,2,25.65,5,Transferência,Faro,Algarve,Concluído
+LIN-000390,PED-00212,2024-05-03,CLI-0397,Organizador de Mesa,Casa e Escritório,1,14.90,5,Transferência,Faro,Algarve,Concluído
+LIN-000391,PED-00213,2024-05-14,CLI-0211,Webcam Full HD,Eletrónica,1,54.90,0,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000392,PED-00213,2024-05-14,CLI-0211,"Monitor 24""",Eletrónica,1,179.90,5,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000393,PED-00213,2024-05-14,CLI-0211,Mochila Executiva,Acessórios,1,51.40,5,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000394,PED-00214,2025-04-18,CLI-0399,Hub USB-C,Eletrónica,1,44.90,0,Cartão de crédito,Portimão,Algarve,Concluído
+LIN-000395,PED-00214,2025-04-18,CLI-0399,Organizador de Mesa,Casa e Escritório,1,14.90,0,Cartão de crédito,Portimão,Algarve,Concluído
+LIN-000396,PED-00214,2025-04-18,CLI-0399,Almofada Ergonómica,Casa e Escritório,1,32.90,5,Cartão de crédito,Portimão,Algarve,Concluído
+LIN-000397,PED-00215,2024-03-10,CLI-0007,Almofada Ergonómica,Casa e Escritório,2,32.90,5,Transferência,Ponta Delgada,Ilhas,Concluído
+LIN-000398,PED-00215,2024-03-10,CLI-0007,Suporte para Portátil,Acessórios,4,33.85,0,Transferência,Ponta Delgada,Ilhas,Concluído
+LIN-000399,PED-00215,2024-03-10,CLI-0007,Marcadores Coloridos,Papelaria,1,8.90,0,Transferência,Ponta Delgada,Ilhas,Concluído
+LIN-000400,PED-00216,2025-11-24,CLI-0405,Suporte para Portátil,Acessórios,1,35.95,5,Cartão de crédito,Leiria,Centro,Concluído
+LIN-000401,PED-00216,2025-11-24,CLI-0405,Mochila Executiva,Acessórios,1,48.40,0,Cartão de crédito,Leiria,Centro,Concluído
+LIN-000402,PED-00217,2025-01-30,CLI-0105,Rato Sem Fios,Eletrónica,2,24.90,0,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000403,PED-00217,2025-01-30,CLI-0105,Pack Canetas Gel,Papelaria,1,4.90,0,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000404,PED-00218,2025-04-21,CLI-0029,Webcam Full HD,Eletrónica,2,,0,MB WAY,Aveiro,Centro,Concluído
+LIN-000405,PED-00219,2024-10-17,CLI-0265,Caderno A5,Papelaria,2,6.30,5,MB WAY,Beja,Alentejo,Concluído
+LIN-000406,PED-00220,2024-02-01,CLI-0414,Rato Sem Fios,Eletrónica,1,,10,Cartão de débito,Leiria,Centro,Concluído
+LIN-000407,PED-00220,2024-02-01,CLI-0414,Bolsa para Portátil,Acessórios,1,27.90,0,Cartão de débito,Leiria,Centro,Concluído
+LIN-000408,PED-00220,2024-02-01,CLI-0414,Garrafa Térmica,Acessórios,1,22.56,5,Cartão de débito,Leiria,Centro,Concluído
+LIN-000409,PED-00220,2024-02-01,CLI-0414,Organizador de Mesa,Casa e Escritório,1,15.35,0,Cartão de débito,Leiria,Centro,Concluído
+LIN-000410,PED-00221,2025-10-19,CLI-0007,Teclado Mecânico,Eletrónica,2,79.90,0,Cartão de débito,Coimbra,Centro,Concluído
+LIN-000411,PED-00222,2024-07-31,CLI-0369,Teclado Mecânico,Eletrónica,1,82.30,15,MB WAY,Aveiro,Centro,Concluído
+LIN-000412,PED-00223,2025-12-10,CLI-0036,Rato Sem Fios,Eletrónica,2,24.15,5,Transferência,Albufeira,Algarve,Concluído
+LIN-000413,PED-00224,2024-09-07,CLI-0402,Bolsa para Portátil,Acessórios,2,28.74,5,MB WAY,Aveiro,Centro,Concluído
+LIN-000414,PED-00224,2024-09-07,CLI-0402,Hub USB-C,Eletrónica,1,43.55,10,MB WAY,Aveiro,Centro,Concluído
+LIN-000415,PED-00225,2024-01-26,CLI-0278,Auriculares Bluetooth,Eletrónica,1,39.90,0,Transferência,Aveiro,Centro,Concluído
+LIN-000416,PED-00225,2024-01-26,CLI-0278,Mochila Executiva,Acessórios,4,49.90,5,Transferência,Aveiro,Centro,Concluído
+LIN-000417,PED-00225,2024-01-26,CLI-0278,Pack Canetas Gel,Papelaria,1,4.90,10,Transferência,Aveiro,Centro,Concluído
+LIN-000418,PED-00225,2024-01-26,CLI-0278,"Monitor 24""",Eletrónica,1,179.90,0,Transferência,Aveiro,Centro,Concluído
+LIN-000419,PED-00226,2025-07-31,CLI-0298,Almofada Ergonómica,Casa e Escritório,1,32.90,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-000420,PED-00227,2024-08-12,CLI-0162,Garrafa Térmica,Acessórios,1,21.24,10,Cartão de débito,Portimão,Algarve,Concluído
+LIN-000421,PED-00228,2024-05-02,CLI-0395,Suporte para Portátil,Acessórios,2,34.90,0,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000422,PED-00228,2024-05-02,CLI-0395,"Monitor 24""",Eletrónica,1,174.50,0,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000423,PED-00229,2025-09-15,CLI-0156,Agenda Semanal,Papelaria,2,12.90,0,MB WAY,Faro,Algarve,Concluído
+LIN-000424,PED-00229,2025-09-15,CLI-0156,Webcam Full HD,Eletrónica,1,54.90,0,MB WAY,Faro,Algarve,Concluído
+LIN-000425,PED-00229,2025-09-15,CLI-0156,Rato Sem Fios,Eletrónica,5,24.15,10,MB WAY,Faro,Algarve,Concluído
+LIN-000426,PED-00230,2025-10-17,CLI-0285,Webcam Full HD,Eletrónica,1,54.90,0,Cartão de crédito,Évora,Alentejo,Concluído
+LIN-000427,PED-00230,2025-10-17,CLI-0285,"Monitor 24""",Eletrónica,3,179.90,5,Cartão de crédito,Évora,Alentejo,Concluído
+LIN-000428,PED-00230,2025-10-17,CLI-0285,Auriculares Bluetooth,Eletrónica,4,38.70,0,Cartão de crédito,Évora,Alentejo,Concluído
+LIN-000429,PED-00231,2024-08-10,CLI-0417,Webcam Full HD,Eletrónica,3,54.90,0,Dinheiro,Porto,Norte,Concluído
+LIN-000430,PED-00231,2024-08-10,CLI-0417,Rato Sem Fios,Eletrónica,4,24.15,0,Dinheiro,Porto,Norte,Concluído
+LIN-000431,PED-00232,2025-03-23,CLI-0371,Hub USB-C,Eletrónica,3,44.90,0,Cartão de crédito,Leiria,Centro,Concluído
+LIN-000432,PED-00233,2025-11-03,CLI-0018,Candeeiro de Mesa,Casa e Escritório,1,27.90,5,MB WAY,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000433,PED-00233,2025-11-03,CLI-0018,Bolsa para Portátil,Acessórios,1,28.74,0,MB WAY,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000434,PED-00234,2025-12-29,CLI-0279,Candeeiro de Mesa,Casa e Escritório,2,27.90,15,Dinheiro,Portalegre,Alentejo,Concluído
+LIN-000435,PED-00235,2025-01-21,CLI-0199,Caderno A5,Papelaria,1,6.50,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000436,PED-00236,2025-08-16,CLI-0120,Teclado Mecânico,Eletrónica,2,79.90,0,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000437,PED-00237,2025-12-23,CLI-0199,Almofada Ergonómica,Casa e Escritório,1,32.90,15,Transferência,Aveiro,Centro,Concluído
+LIN-000438,PED-00238,2024-01-30,CLI-0359,Bolsa para Portátil,Acessórios,1,27.06,0,Cartão de débito,Aveiro,Centro,Concluído
+LIN-000439,PED-00238,2024-01-30,CLI-0359,Candeeiro de Mesa,Casa e Escritório,1,27.90,0,Cartão de débito,Aveiro,Centro,Concluído
+LIN-000440,PED-00238,2024-01-30,CLI-0359,Pack Canetas Gel,Papelaria,1,4.90,10,Cartão de débito,Aveiro,Centro,Concluído
+LIN-000441,PED-00239,2024-06-22,CLI-0067,Teclado Mecânico,Eletrónica,2,79.90,5,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000442,PED-00239,2024-06-22,CLI-0067,Auriculares Bluetooth,Eletrónica,3,39.90,15,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000443,PED-00239,2024-06-22,CLI-0067,Webcam Full HD,Eletrónica,1,54.90,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000444,PED-00240,2024-10-09,CLI-0166,Bolsa para Portátil,Acessórios,2,28.74,5,Cartão de crédito,Braga,Norte,Cancelado
+LIN-000445,PED-00240,2024-10-09,CLI-0166,Agenda Semanal,Papelaria,4,12.90,0,Cartão de crédito,Braga,Norte,Cancelado
+LIN-000446,PED-00240,2024-10-09,CLI-0166,Carregador USB-C,Eletrónica,2,29.90,0,Cartão de crédito,Braga,Norte,Cancelado
+LIN-000447,PED-00241,2025-07-20,CLI-0151,Mochila Executiva,Acessórios,1,49.90,10,MB WAY,Braga,Norte,Cancelado
+LIN-000448,PED-00241,2025-07-20,CLI-0151,Almofada Ergonómica,Casa e Escritório,4,32.90,5,MB WAY,Braga,Norte,Cancelado
+LIN-000449,PED-00241,2025-07-20,CLI-0151,Teclado Mecânico,Eletrónica,1,79.90,0,MB WAY,Braga,Norte,Cancelado
+LIN-000450,PED-00242,2025-07-29,CLI-0122,Agenda Semanal,Papelaria,1,12.51,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000451,PED-00242,2025-07-29,CLI-0122,Garrafa Térmica,Acessórios,2,21.24,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000452,PED-00242,2025-07-29,CLI-0122,Auriculares Bluetooth,Eletrónica,1,39.90,15,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000453,PED-00242,2025-07-29,CLI-0122,Caderno A5,Papelaria,3,6.50,10,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000454,PED-00243,2024-10-20,CLI-0193,Coluna Bluetooth,Eletrónica,1,67.80,0,Cartão de débito,Braga,Norte,Concluído
+LIN-000455,PED-00243,2024-10-20,CLI-0193,Carregador USB-C,Eletrónica,1,29.00,0,Cartão de débito,Braga,Norte,Concluído
+LIN-000456,PED-00244,2024-05-28,CLI-0193,Agenda Semanal,Papelaria,4,12.90,5,Cartão de crédito,Braga,Norte,Cancelado
+LIN-000457,PED-00244,2024-05-28,CLI-0193,Bolsa para Portátil,Acessórios,1,27.06,0,Cartão de crédito,Braga,Norte,Cancelado
+LIN-000458,PED-00244,2024-05-28,CLI-0193,Auriculares Bluetooth,Eletrónica,1,39.90,0,Cartão de crédito,Braga,Norte,Cancelado
+LIN-000459,PED-00244,2024-05-28,CLI-0193,Suporte para Portátil,Acessórios,2,35.95,0,Cartão de crédito,Braga,Norte,Cancelado
+LIN-000460,PED-00245,2024-08-30,CLI-0122,Teclado Mecânico,Eletrónica,1,77.50,0,Cartão de débito,Porto,Norte,Concluído
+LIN-000461,PED-00245,2024-08-30,CLI-0122,Marcadores Coloridos,Papelaria,2,9.17,0,Cartão de débito,Porto,Norte,Concluído
+LIN-000462,PED-00246,2024-04-01,CLI-0106,Pack Canetas Gel,Papelaria,1,4.90,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000463,PED-00246,2024-04-01,CLI-0106,Mochila Executiva,Acessórios,2,49.90,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000464,PED-00246,2024-04-01,CLI-0106,Bolsa para Portátil,Acessórios,1,27.90,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000465,PED-00247,2024-08-14,CLI-0239,"Monitor 24""",Eletrónica,1,179.90,5,Transferência,Coimbra,Centro,Concluído
+LIN-000466,PED-00248,2024-11-27,CLI-0388,Suporte para Portátil,Acessórios,2,34.90,5,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000467,PED-00248,2024-11-27,CLI-0388,Candeeiro de Mesa,Casa e Escritório,1,27.06,5,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000468,PED-00248,2024-11-27,CLI-0388,Bolsa para Portátil,Acessórios,3,28.74,10,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000469,PED-00249,2025-04-27,CLI-0062,Hub USB-C,Eletrónica,3,44.90,0,Cartão de débito,Funchal,Ilhas,Cancelado
+LIN-000470,PED-00250,2024-03-16,CLI-0350,Caderno A5,Papelaria,1,6.70,0,Dinheiro,Leiria,Centro,Concluído
+LIN-000471,PED-00250,2024-03-16,CLI-0350,Agenda Semanal,Papelaria,1,12.90,0,Dinheiro,Leiria,Centro,Concluído
+LIN-000472,PED-00250,2024-03-16,CLI-0350,Rato Sem Fios,Eletrónica,4,24.15,5,Dinheiro,Leiria,Centro,Concluído
+LIN-000473,PED-00251,2025-04-29,CLI-0268,Almofada Ergonómica,Casa e Escritório,4,33.89,5,Cartão de crédito,Beja,Alentejo,Concluído
+LIN-000474,PED-00251,2025-04-29,CLI-0268,"Monitor 24""",Eletrónica,2,185.30,10,Cartão de crédito,Beja,Alentejo,Concluído
+LIN-000475,PED-00252,2025-11-01,CLI-0136,Caderno A5,Papelaria,1,6.70,10,Cartão de débito,Viseu,Centro,Concluído
+LIN-000476,PED-00253,2025-06-19,CLI-0020,Bolsa para Portátil,Acessórios,4,27.90,0,Transferência,Leiria,Centro,Concluído
+LIN-000477,PED-00254,2025-09-22,CLI-0156,Coluna Bluetooth,Eletrónica,1,69.90,5,Transferência,Aveiro,Centro,Concluído
+LIN-000478,PED-00254,2025-09-22,CLI-0156,Webcam Full HD,Eletrónica,1,54.90,5,Transferência,Aveiro,Centro,Concluído
+LIN-000479,PED-00255,2024-03-25,CLI-0227,Marcadores Coloridos,Papelaria,1,8.90,0,MB WAY,Vila Real,Norte,Concluído
+LIN-000480,PED-00255,2024-03-25,CLI-0227,Teclado Mecânico,Eletrónica,2,79.90,0,MB WAY,Vila Real,Norte,Concluído
+LIN-000481,PED-00256,2025-10-14,CLI-0292,Coluna Bluetooth,Eletrónica,1,69.90,5,Cartão de crédito,Porto,Norte,Concluído
+LIN-000482,PED-00256,2025-10-14,CLI-0292,Teclado Mecânico,Eletrónica,1,79.90,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-000483,PED-00256,2025-10-14,CLI-0292,Garrafa Térmica,Acessórios,2,21.24,5,Cartão de crédito,Porto,Norte,Concluído
+LIN-000484,PED-00257,2024-07-26,CLI-0251,Marcadores Coloridos,Papelaria,1,8.90,5,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000485,PED-00257,2024-07-26,CLI-0251,Extensão Elétrica,Casa e Escritório,2,18.90,0,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000486,PED-00258,2024-02-20,CLI-0293,Hub USB-C,Eletrónica,1,44.90,0,Cartão de crédito,Beja,Alentejo,Concluído
+LIN-000487,PED-00259,2025-10-23,CLI-0393,Auriculares Bluetooth,Eletrónica,1,41.10,5,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000488,PED-00260,2024-09-17,CLI-0364,Caderno A5,Papelaria,1,6.50,5,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000489,PED-00261,2025-09-27,CLI-0204,Marcadores Coloridos,Papelaria,2,8.90,0,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Devolvido
+LIN-000490,PED-00261,2025-09-27,CLI-0204,Candeeiro de Mesa,Casa e Escritório,5,27.90,10,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Devolvido
+LIN-000491,PED-00261,2025-09-27,CLI-0204,Pack Canetas Gel,Papelaria,1,4.90,0,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Devolvido
+LIN-000492,PED-00261,2025-09-27,CLI-0204,Almofada Ergonómica,Casa e Escritório,1,32.90,10,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Devolvido
+LIN-000493,PED-00262,2025-09-14,CLI-0411,Auriculares Bluetooth,Eletrónica,2,39.90,0,Cartão de débito,Faro,Algarve,Concluído
+LIN-000494,PED-00263,2024-11-29,CLI-0199,Agenda Semanal,Papelaria,2,12.90,15,Cartão de débito,Setúbal,Lisboa e Vale do Tejo,Devolvido
+LIN-000495,PED-00263,2024-11-29,CLI-0199,Coluna Bluetooth,Eletrónica,2,72.00,0,Cartão de débito,Setúbal,Lisboa e Vale do Tejo,Devolvido
+LIN-000496,PED-00263,2024-11-29,CLI-0199,Candeeiro de Mesa,Casa e Escritório,1,28.74,0,Cartão de débito,Setúbal,Lisboa e Vale do Tejo,Devolvido
+LIN-000497,PED-00264,2024-04-01,CLI-0066,Agenda Semanal,Papelaria,1,12.90,0,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000498,PED-00264,2024-04-01,CLI-0066,Rato Sem Fios,Eletrónica,3,24.90,0,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000499,PED-00264,2024-04-01,CLI-0066,Coluna Bluetooth,Eletrónica,1,67.80,0,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000500,PED-00265,2025-10-24,CLI-0299,"Monitor 24""",Eletrónica,3,179.90,0,MB WAY,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000501,PED-00266,2024-11-26,CLI-0078,Garrafa Térmica,Acessórios,1,21.90,10,Cartão de crédito,Braga,Norte,Concluído
+LIN-000502,PED-00266,2024-11-26,CLI-0078,Webcam Full HD,Eletrónica,1,54.90,0,Cartão de crédito,Braga,Norte,Concluído
+LIN-000503,PED-00267,2024-02-28,CLI-0232,Bolsa para Portátil,Acessórios,1,27.90,5,MB WAY,Coimbra,Centro,Concluído
+LIN-000504,PED-00267,2024-02-28,CLI-0232,Rato Sem Fios,Eletrónica,1,24.90,0,MB WAY,Coimbra,Centro,Concluído
+LIN-000505,PED-00268,2024-02-09,CLI-0103,Organizador de Mesa,Casa e Escritório,1,14.45,5,Dinheiro,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000506,PED-00268,2024-02-09,CLI-0103,Hub USB-C,Eletrónica,1,44.90,0,Dinheiro,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000507,PED-00269,2024-04-05,CLI-0258,Pack Canetas Gel,Papelaria,1,5.05,0,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000508,PED-00270,2024-10-10,CLI-0352,Hub USB-C,Eletrónica,1,44.90,0,Cartão de crédito,Ponta Delgada,Ilhas,Concluído
+LIN-000509,PED-00271,2024-07-11,CLI-0068,Teclado Mecânico,Eletrónica,1,79.90,5,Cartão de crédito,Vila Real,Norte,Concluído
+LIN-000510,PED-00272,2025-04-29,CLI-0305,"Monitor 24""",Eletrónica,1,179.90,0,MB WAY,Ponta Delgada,Ilhas,Concluído
+LIN-000511,PED-00273,2024-08-04,CLI-0360,"Monitor 24""",Eletrónica,2,179.90,5,MB WAY,Braga,Norte,Concluído
+LIN-000512,PED-00274,2025-06-24,CLI-0215,"Monitor 24""",Eletrónica,2,179.90,0,Cartão de crédito,Faro,Algarve,Concluído
+LIN-000513,PED-00275,2024-06-21,CLI-0135,Carregador USB-C,Eletrónica,1,29.90,10,Dinheiro,Faro,Algarve,Concluído
+LIN-000514,PED-00276,2025-06-15,CLI-0247,Almofada Ergonómica,Casa e Escritório,4,33.89,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000515,PED-00276,2025-06-15,CLI-0247,Bolsa para Portátil,Acessórios,2,27.90,5,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000516,PED-00276,2025-06-15,CLI-0247,Webcam Full HD,Eletrónica,1,54.90,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000517,PED-00277,2024-02-20,CLI-0417,Agenda Semanal,Papelaria,1,12.51,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000518,PED-00277,2024-02-20,CLI-0417,Suporte para Portátil,Acessórios,1,34.90,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000519,PED-00277,2024-02-20,CLI-0417,"Monitor 24""",Eletrónica,3,185.30,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000520,PED-00278,2025-07-19,CLI-0191,Caderno A5,Papelaria,2,6.50,0,Cartão de crédito,Faro,Algarve,Concluído
+LIN-000521,PED-00278,2025-07-19,CLI-0191,Mochila Executiva,Acessórios,2,48.40,15,Cartão de crédito,Faro,Algarve,Concluído
+LIN-000522,PED-00278,2025-07-19,CLI-0191,Bolsa para Portátil,Acessórios,3,27.06,0,Cartão de crédito,Faro,Algarve,Concluído
+LIN-000523,PED-00278,2025-07-19,CLI-0191,Suporte para Portátil,Acessórios,2,35.95,5,Cartão de crédito,Faro,Algarve,Concluído
+LIN-000524,PED-00279,2024-06-06,CLI-0195,Webcam Full HD,Eletrónica,1,54.90,0,MB WAY,Beja,Alentejo,Concluído
+LIN-000525,PED-00279,2024-06-06,CLI-0195,Bolsa para Portátil,Acessórios,1,27.90,0,MB WAY,Beja,Alentejo,Concluído
+LIN-000526,PED-00279,2024-06-06,CLI-0195,Almofada Ergonómica,Casa e Escritório,3,33.89,5,MB WAY,Beja,Alentejo,Concluído
+LIN-000527,PED-00280,2025-03-25,CLI-0290,Extensão Elétrica,Casa e Escritório,1,18.90,0,Dinheiro,Vila Real,Norte,Concluído
+LIN-000528,PED-00280,2025-03-25,CLI-0290,"Monitor 24""",Eletrónica,2,179.90,0,Dinheiro,Vila Real,Norte,Concluído
+LIN-000529,PED-00281,2025-09-28,CLI-0314,Bolsa para Portátil,Acessórios,2,27.90,0,MB WAY,Porto,Norte,Concluído
+LIN-000530,PED-00281,2025-09-28,CLI-0314,Carregador USB-C,Eletrónica,5,29.00,0,MB WAY,Porto,Norte,Concluído
+LIN-000531,PED-00281,2025-09-28,CLI-0314,Rato Sem Fios,Eletrónica,2,24.90,0,MB WAY,Porto,Norte,Concluído
+LIN-000532,PED-00282,2024-07-20,CLI-0236,Agenda Semanal,Papelaria,5,12.51,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000533,PED-00282,2024-07-20,CLI-0236,"Monitor 24""",Eletrónica,1,185.30,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000534,PED-00283,2025-09-27,CLI-0406,Hub USB-C,Eletrónica,4,44.90,10,MB WAY,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000535,PED-00283,2025-09-27,CLI-0406,Garrafa Térmica,Acessórios,3,21.90,0,MB WAY,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000536,PED-00284,2025-08-16,CLI-0308,Coluna Bluetooth,Eletrónica,1,69.90,10,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000537,PED-00285,2025-12-15,CLI-0150,Bolsa para Portátil,Acessórios,1,28.74,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000538,PED-00285,2025-12-15,CLI-0150,Webcam Full HD,Eletrónica,1,54.90,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000539,PED-00285,2025-12-15,CLI-0150,Suporte para Portátil,Acessórios,3,34.90,10,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000540,PED-00286,2024-04-09,CLI-0213,Garrafa Térmica,Acessórios,1,22.56,10,MB WAY,Porto,Norte,Concluído
+LIN-000541,PED-00287,2024-05-01,CLI-0256,Almofada Ergonómica,Casa e Escritório,1,33.89,5,MB WAY,Porto,Norte,Concluído
+LIN-000542,PED-00288,2025-11-18,CLI-0355,Extensão Elétrica,Casa e Escritório,2,18.90,5,MB WAY,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000543,PED-00289,2024-11-10,CLI-0312,Pack Canetas Gel,Papelaria,1,5.05,0,MB WAY,Portimão,Algarve,Concluído
+LIN-000544,PED-00289,2024-11-10,CLI-0312,Garrafa Térmica,Acessórios,2,21.90,10,MB WAY,Portimão,Algarve,Concluído
+LIN-000545,PED-00289,2024-11-10,CLI-0312,Webcam Full HD,Eletrónica,4,54.90,0,MB WAY,Portimão,Algarve,Concluído
+LIN-000546,PED-00289,2024-11-10,CLI-0312,Candeeiro de Mesa,Casa e Escritório,2,27.90,10,MB WAY,Portimão,Algarve,Concluído
+LIN-000547,PED-00290,2025-11-23,CLI-0068,Agenda Semanal,Papelaria,2,13.29,5,MB WAY,Ponta Delgada,Ilhas,Cancelado
+LIN-000548,PED-00290,2025-11-23,CLI-0068,"Monitor 24""",Eletrónica,2,179.90,10,MB WAY,Ponta Delgada,Ilhas,Cancelado
+LIN-000549,PED-00291,2025-11-09,CLI-0274,Auriculares Bluetooth,Eletrónica,1,38.70,0,Transferência,Coimbra,Centro,Concluído
+LIN-000550,PED-00291,2025-11-09,CLI-0274,Mochila Executiva,Acessórios,2,49.90,20,Transferência,Coimbra,Centro,Concluído
+LIN-000551,PED-00292,2025-06-11,CLI-0075,Teclado Mecânico,Eletrónica,3,77.50,5,MB WAY,Faro,Algarve,Concluído
+LIN-000552,PED-00292,2025-06-11,CLI-0075,Marcadores Coloridos,Papelaria,2,9.17,10,MB WAY,Faro,Algarve,Concluído
+LIN-000553,PED-00293,2025-07-27,CLI-0288,Teclado Mecânico,Eletrónica,1,79.90,15,Cartão de débito,Viseu,Centro,Concluído
+LIN-000554,PED-00293,2025-07-27,CLI-0288,Mochila Executiva,Acessórios,1,49.90,0,Cartão de débito,Viseu,Centro,Concluído
+LIN-000555,PED-00294,2025-10-26,CLI-0227,Almofada Ergonómica,Casa e Escritório,2,32.90,5,Transferência,Faro,Algarve,Concluído
+LIN-000556,PED-00294,2025-10-26,CLI-0227,Candeeiro de Mesa,Casa e Escritório,4,27.90,0,Transferência,Faro,Algarve,Concluído
+LIN-000557,PED-00295,2025-12-24,CLI-0039,Suporte para Portátil,Acessórios,1,34.90,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000558,PED-00296,2025-03-31,CLI-0131,Agenda Semanal,Papelaria,2,13.29,10,Cartão de débito,Porto,Norte,Cancelado
+LIN-000559,PED-00297,2024-09-14,CLI-0405,Coluna Bluetooth,Eletrónica,4,72.00,0,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000560,PED-00298,2025-01-24,CLI-0213,Agenda Semanal,Papelaria,1,13.29,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000561,PED-00298,2025-01-24,CLI-0213,Extensão Elétrica,Casa e Escritório,5,18.33,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000562,PED-00298,2025-01-24,CLI-0213,Marcadores Coloridos,Papelaria,1,8.90,10,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000563,PED-00299,,CLI-0319,"Monitor 24""",Eletrónica,1,185.30,5,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000564,PED-00300,2024-01-27,CLI-0265,Teclado Mecânico,Eletrónica,3,79.90,0,Cartão de débito,Faro,Algarve,Concluído
+LIN-000565,PED-00300,2024-01-27,CLI-0265,Pack Canetas Gel,Papelaria,1,4.75,0,Cartão de débito,Faro,Algarve,Concluído
+LIN-000566,PED-00301,2025-12-11,CLI-0276,Hub USB-C,Eletrónica,3,44.90,5,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000567,PED-00301,2025-12-11,CLI-0276,Suporte para Portátil,Acessórios,2,34.90,10,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000568,PED-00302,2025-12-03,CLI-0383,Rato Sem Fios,Eletrónica,1,24.90,5,Cartão de crédito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000569,PED-00303,2025-03-24,CLI-0117,Agenda Semanal,Papelaria,1,12.51,0,Cartão de débito,Lagos,Algarve,Concluído
+LIN-000570,PED-00304,2025-05-12,CLI-0317,Marcadores Coloridos,Papelaria,1,8.90,5,MB WAY,Porto,,Concluído
+LIN-000571,PED-00304,2025-05-12,CLI-0317,Organizador de Mesa,Casa e Escritório,1,14.90,0,MB WAY,Porto,Norte,Concluído
+LIN-000572,PED-00304,2025-05-12,CLI-0317,"Monitor 24""",Eletrónica,3,174.50,0,MB WAY,Porto,Norte,Concluído
+LIN-000573,PED-00305,2025-02-19,CLI-0070,Webcam Full HD,Eletrónica,1,54.90,10,MB WAY,Évora,Alentejo,Concluído
+LIN-000574,PED-00306,2024-01-12,CLI-0285,Candeeiro de Mesa,Casa e Escritório,4,27.90,0,Cartão de crédito,Braga,Norte,Concluído
+LIN-000575,PED-00307,2025-07-26,CLI-0372,Carregador USB-C,Eletrónica,1,29.90,0,Cartão de débito,Aveiro,Centro,Concluído
+LIN-000576,PED-00307,2025-07-26,CLI-0372,Extensão Elétrica,Casa e Escritório,1,19.47,10,Cartão de débito,Aveiro,Centro,Concluído
+LIN-000577,PED-00308,2025-10-14,CLI-0282,"Monitor 24""",Eletrónica,1,185.30,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000578,PED-00309,2024-10-05,CLI-0066,Hub USB-C,Eletrónica,1,44.90,0,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000579,PED-00310,2025-05-25,CLI-0356,Suporte para Portátil,Acessórios,1,34.90,0,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000580,PED-00311,2024-07-08,CLI-0379,Agenda Semanal,Papelaria,1,12.90,5,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000581,PED-00311,2024-07-08,CLI-0379,Bolsa para Portátil,Acessórios,1,27.06,0,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000582,PED-00312,2025-04-17,CLI-0144,Rato Sem Fios,Eletrónica,2,24.15,10,Cartão de crédito,Albufeira,Algarve,Concluído
+LIN-000583,PED-00313,2025-05-05,CLI-0417,Candeeiro de Mesa,Casa e Escritório,3,28.74,0,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000584,PED-00313,2025-05-05,CLI-0417,Caderno A5,Papelaria,2,6.50,0,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000585,PED-00313,2025-05-05,CLI-0417,Extensão Elétrica,Casa e Escritório,3,19.47,5,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000586,PED-00314,2024-09-06,CLI-0238,Coluna Bluetooth,Eletrónica,3,72.00,5,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000587,PED-00315,2025-08-08,CLI-0072,Webcam Full HD,Eletrónica,4,53.25,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Cancelado
+LIN-000588,PED-00315,2025-08-08,CLI-0072,Bolsa para Portátil,Acessórios,1,27.06,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Cancelado
+LIN-000589,PED-00316,2024-07-19,CLI-0343,Garrafa Térmica,Acessórios,1,21.90,0,Transferência,Guimarães,Norte,Concluído
+LIN-000590,PED-00316,2024-07-19,CLI-0343,Teclado Mecânico,Eletrónica,4,79.90,10,Transferência,Guimarães,Norte,Concluído
+LIN-000591,PED-00317,2024-08-14,CLI-0279,Rato Sem Fios,Eletrónica,1,24.90,0,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000592,PED-00317,2024-08-14,CLI-0279,Organizador de Mesa,Casa e Escritório,1,14.90,0,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000593,PED-00318,2025-01-01,CLI-0310,Organizador de Mesa,Casa e Escritório,2,14.90,0,Transferência,Porto,Norte,Concluído
+LIN-000594,PED-00319,2024-05-18,CLI-0309,"Monitor 24""",Eletrónica,1,185.30,0,Cartão de crédito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000595,PED-00319,2024-05-18,CLI-0309,Bolsa para Portátil,Acessórios,3,27.06,0,Cartão de crédito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000596,PED-00319,2024-05-18,CLI-0309,Almofada Ergonómica,Casa e Escritório,1,33.89,0,Cartão de crédito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000597,PED-00320,2025-05-04,CLI-0021,Organizador de Mesa,Casa e Escritório,3,14.90,10,Cartão de crédito,Lagos,Algarve,Concluído
+LIN-000598,PED-00320,2025-05-04,CLI-0021,Mochila Executiva,Acessórios,1,51.40,15,Cartão de crédito,Lagos,Algarve,Concluído
+LIN-000599,PED-00320,2025-05-04,CLI-0021,Auriculares Bluetooth,Eletrónica,3,39.90,0,Cartão de crédito,Lagos,Algarve,Concluído
+LIN-000600,PED-00321,2024-11-25,CLI-0074,Caderno A5,Papelaria,2,6.50,15,MB WAY,Portalegre,Alentejo,Concluído
+LIN-000601,PED-00321,2024-11-25,CLI-0074,Carregador USB-C,Eletrónica,2,29.00,0,MB WAY,Portalegre,Alentejo,Concluído
+LIN-000602,PED-00322,2024-11-10,CLI-0056,Webcam Full HD,Eletrónica,1,56.55,10,Cartão de débito,Porto,Norte,Concluído
+LIN-000603,PED-00322,2024-11-10,CLI-0056,"Monitor 24""",Eletrónica,3,185.30,5,Cartão de débito,Porto,Norte,Concluído
+LIN-000604,PED-00323,2024-04-17,CLI-0247,Suporte para Portátil,Acessórios,2,34.90,10,Transferência,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000605,PED-00324,2025-06-22,CLI-0220,Almofada Ergonómica,Casa e Escritório,3,33.89,0,MB WAY,Vila Real,Norte,Concluído
+LIN-000606,PED-00325,2024-04-30,CLI-0245,Candeeiro de Mesa,Casa e Escritório,1,27.06,5,Transferência,Évora,Alentejo,Concluído
+LIN-000607,PED-00325,2024-04-30,CLI-0245,Suporte para Portátil,Acessórios,2,35.95,0,Transferência,Évora,Alentejo,Concluído
+LIN-000608,PED-00326,2025-02-06,CLI-0193,Webcam Full HD,Eletrónica,1,56.55,0,MB WAY,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000609,PED-00327,2025-10-17,CLI-0217,Hub USB-C,Eletrónica,1,46.25,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Devolvido
+LIN-000610,PED-00328,2024-11-02,CLI-0285,Mochila Executiva,Acessórios,3,48.40,10,Dinheiro,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000611,PED-00328,2024-11-02,CLI-0285,Webcam Full HD,Eletrónica,1,54.90,0,Dinheiro,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000612,PED-00329,2025-01-27,CLI-0403,Carregador USB-C,Eletrónica,4,29.00,5,Cartão de débito,Aveiro,Centro,Concluído
+LIN-000613,PED-00329,2025-01-27,CLI-0403,Mochila Executiva,Acessórios,3,49.90,10,Cartão de débito,Aveiro,Centro,Concluído
+LIN-000614,PED-00330,2024-12-08,CLI-0033,Mochila Executiva,Acessórios,1,51.40,0,Cartão de débito,Coimbra,Centro,Concluído
+LIN-000615,PED-00330,2024-12-08,CLI-0033,Organizador de Mesa,Casa e Escritório,2,14.90,10,Cartão de débito,Coimbra,Centro,Concluído
+LIN-000616,PED-00331,2024-12-10,CLI-0104,Extensão Elétrica,Casa e Escritório,1,18.90,10,Transferência,Faro,Algarve,Concluído
+LIN-000617,PED-00332,2025-06-05,CLI-0185,Mochila Executiva,Acessórios,2,51.40,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000618,PED-00332,2025-06-05,CLI-0185,Marcadores Coloridos,Papelaria,2,8.63,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000619,PED-00332,2025-06-05,CLI-0185,Extensão Elétrica,Casa e Escritório,2,19.47,10,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000620,PED-00332,2025-06-05,CLI-0185,Candeeiro de Mesa,Casa e Escritório,1,27.90,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000621,PED-00333,2025-12-14,CLI-0233,"Monitor 24""",Eletrónica,2,185.30,0,Cartão de débito,Portimão,Algarve,Concluído
+LIN-000622,PED-00334,2025-12-06,CLI-0412,Caderno A5,Papelaria,2,6.50,10,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000623,PED-00334,2025-12-06,CLI-0412,Garrafa Térmica,Acessórios,4,21.90,10,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000624,PED-00334,2025-12-06,CLI-0412,Mochila Executiva,Acessórios,3,48.40,5,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000625,PED-00335,2024-08-09,CLI-0196,Agenda Semanal,Papelaria,1,12.90,0,Dinheiro,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000626,PED-00336,2024-01-11,CLI-0135,Rato Sem Fios,Eletrónica,1,24.90,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000627,PED-00336,2024-01-11,CLI-0135,Candeeiro de Mesa,Casa e Escritório,2,27.90,10,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000628,PED-00336,2024-01-11,CLI-0135,Carregador USB-C,Eletrónica,2,29.90,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000629,PED-00337,2024-06-21,CLI-0377,Extensão Elétrica,Casa e Escritório,2,18.33,10,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000630,PED-00337,2024-06-21,CLI-0377,Marcadores Coloridos,Papelaria,2,8.90,5,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000631,PED-00337,2024-06-21,CLI-0377,Webcam Full HD,Eletrónica,2,56.55,10,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000632,PED-00338,2025-10-12,CLI-0191,Caderno A5,Papelaria,5,6.70,0,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Devolvido
+LIN-000633,PED-00338,2025-10-12,CLI-0191,Bolsa para Portátil,Acessórios,1,28.74,0,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Devolvido
+LIN-000634,PED-00338,2025-10-12,CLI-0191,Carregador USB-C,Eletrónica,2,29.90,0,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Devolvido
+LIN-000635,PED-00339,2025-02-25,CLI-0258,"Monitor 24""",Eletrónica,1,174.50,0,Transferência,Aveiro,Centro,Concluído
+LIN-000636,PED-00339,2025-02-25,CLI-0258,Organizador de Mesa,Casa e Escritório,1,15.35,0,Transferência,Aveiro,Centro,Concluído
+LIN-000637,PED-00340,2024-10-27,CLI-0133,Agenda Semanal,Papelaria,1,12.90,5,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000638,PED-00340,2024-10-27,CLI-0133,Marcadores Coloridos,Papelaria,1,8.90,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000639,PED-00340,2024-10-27,CLI-0133,Carregador USB-C,Eletrónica,1,29.90,15,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000640,PED-00340,2024-10-27,CLI-0133,Bolsa para Portátil,Acessórios,2,27.06,5,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000641,PED-00341,2025-09-13,CLI-0285,Webcam Full HD,Eletrónica,1,54.90,15,Cartão de débito,Leiria,Centro,Concluído
+LIN-000642,PED-00341,2025-09-13,CLI-0285,Bolsa para Portátil,Acessórios,3,28.74,0,Cartão de débito,Leiria,Centro,Concluído
+LIN-000643,PED-00341,2025-09-13,CLI-0285,Auriculares Bluetooth,Eletrónica,1,39.90,0,Cartão de débito,Leiria,Centro,Concluído
+LIN-000644,PED-00341,2025-09-13,CLI-0285,Carregador USB-C,Eletrónica,2,30.80,0,Cartão de débito,Leiria,Centro,Concluído
+LIN-000645,PED-00342,2024-04-02,CLI-0084,Garrafa Térmica,Acessórios,1,21.90,0,MB WAY,Porto,Norte,Concluído
+LIN-000646,PED-00342,2024-04-02,CLI-0084,Agenda Semanal,Papelaria,4,12.90,0,MB WAY,Porto,Norte,Concluído
+LIN-000647,PED-00343,2024-11-25,CLI-0180,Candeeiro de Mesa,Casa e Escritório,5,27.90,5,Dinheiro,Albufeira,Algarve,Concluído
+LIN-000648,PED-00343,2024-11-25,CLI-0180,Carregador USB-C,Eletrónica,2,29.90,10,Dinheiro,Albufeira,Algarve,Concluído
+LIN-000649,PED-00344,2024-12-14,CLI-0041,Carregador USB-C,Eletrónica,2,29.90,5,Cartão de crédito,Viseu,Centro,Concluído
+LIN-000650,PED-00345,2025-04-21,CLI-0208,Agenda Semanal,Papelaria,2,12.90,5,Cartão de crédito,Faro,Algarve,Concluído
+LIN-000651,PED-00346,2024-11-16,CLI-0228,Garrafa Térmica,Acessórios,1,,0,Transferência,Beja,Alentejo,Concluído
+LIN-000652,PED-00346,2024-11-16,CLI-0228,Suporte para Portátil,Acessórios,1,34.90,15,Transferência,Beja,Alentejo,Concluído
+LIN-000653,PED-00347,2025-06-24,CLI-0041,Bolsa para Portátil,Acessórios,1,27.90,0,Cartão de débito,Vila Real,Norte,Concluído
+LIN-000654,PED-00347,2025-06-24,CLI-0041,Candeeiro de Mesa,Casa e Escritório,5,27.06,0,Cartão de débito,Vila Real,Norte,Concluído
+LIN-000655,PED-00347,2025-06-24,CLI-0041,Teclado Mecânico,Eletrónica,1,79.90,0,Cartão de débito,Vila Real,Norte,Concluído
+LIN-000656,PED-00348,2024-07-31,CLI-0146,Teclado Mecânico,Eletrónica,2,,10,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000657,PED-00349,2024-12-24,CLI-0277,Candeeiro de Mesa,Casa e Escritório,2,28.74,5,Cartão de débito,Portimão,Algarve,Concluído
+LIN-000658,PED-00349,2024-12-24,CLI-0277,Carregador USB-C,Eletrónica,2,30.80,0,Cartão de débito,Portimão,Algarve,Concluído
+LIN-000659,PED-00349,2024-12-24,CLI-0277,Garrafa Térmica,Acessórios,1,22.56,0,Cartão de débito,Portimão,Algarve,Concluído
+LIN-000660,PED-00350,2024-03-25,CLI-0158,Webcam Full HD,Eletrónica,1,54.90,0,Cartão de crédito,Viseu,Centro,Concluído
+LIN-000661,PED-00351,2025-06-14,CLI-0252,Pack Canetas Gel,Papelaria,2,4.75,0,Cartão de débito,Funchal,Ilhas,Concluído
+LIN-000662,PED-00352,2024-06-12,CLI-0288,Mochila Executiva,Acessórios,1,49.90,5,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000663,PED-00352,2024-06-12,CLI-0288,Coluna Bluetooth,Eletrónica,1,72.00,5,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000664,PED-00353,2025-06-12,CLI-0146,Rato Sem Fios,Eletrónica,1,24.90,0,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000665,PED-00354,2024-12-18,CLI-0232,Teclado Mecânico,Eletrónica,4,77.50,0,MB WAY,Coimbra,Centro,Concluído
+LIN-000666,PED-00355,2024-04-05,CLI-0138,Auriculares Bluetooth,Eletrónica,1,39.90,0,Cartão de débito,Braga,Norte,Concluído
+LIN-000667,PED-00356,2025-08-31,CLI-0256,Webcam Full HD,Eletrónica,1,54.90,0,Cartão de débito,Ponta Delgada,Ilhas,Concluído
+LIN-000668,PED-00357,2024-12-26,CLI-0099,Coluna Bluetooth,Eletrónica,1,69.90,0,Cartão de crédito,Lagos,Algarve,Concluído
+LIN-000669,PED-00358,2025-12-29,CLI-0102,Bolsa para Portátil,Acessórios,1,27.06,10,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000670,PED-00358,2025-12-29,CLI-0102,Mochila Executiva,Acessórios,0,48.40,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000671,PED-00358,2025-12-29,CLI-0102,Pack Canetas Gel,Papelaria,2,4.90,5,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000672,PED-00358,2025-12-29,CLI-0102,Agenda Semanal,Papelaria,1,12.90,20,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000673,PED-00359,2024-07-21,CLI-0223,Coluna Bluetooth,Eletrónica,1,67.80,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000674,PED-00360,2025-06-17,CLI-0353,Rato Sem Fios,Eletrónica,2,24.90,10,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000675,PED-00361,2025-12-30,CLI-0321,"Monitor 24""",Eletrónica,1,179.90,20,Cartão de crédito,Porto,Norte,Concluído
+LIN-000676,PED-00361,2025-12-30,CLI-0321,Webcam Full HD,Eletrónica,2,54.90,10,Cartão de crédito,Porto,Norte,Concluído
+LIN-000677,PED-00362,2024-12-10,CLI-0099,Teclado Mecânico,Eletrónica,1,79.90,5,Cartão de débito,Porto,Norte,Concluído
+LIN-000678,PED-00363,2025-02-27,CLI-0251,Caderno A5,Papelaria,1,6.70,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000679,PED-00363,2025-02-27,CLI-0251,Candeeiro de Mesa,Casa e Escritório,1,27.90,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000680,PED-00364,2024-12-18,CLI-0398,Marcadores Coloridos,Papelaria,2,8.90,0,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000681,PED-00365,2024-03-04,CLI-0276,Webcam Full HD,Eletrónica,1,54.90,0,Cartão de crédito,Faro,Algarve,Concluído
+LIN-000682,PED-00365,2024-03-04,CLI-0276,Pack Canetas Gel,Papelaria,2,4.75,0,Cartão de crédito,Faro,Algarve,Concluído
+LIN-000683,PED-00366,2025-12-02,CLI-0092,Almofada Ergonómica,Casa e Escritório,2,32.90,10,Cartão de crédito,Albufeira,Algarve,Concluído
+LIN-000684,PED-00367,2025-02-12,CLI-0360,Auriculares Bluetooth,Eletrónica,2,38.70,0,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000685,PED-00367,2025-02-12,CLI-0360,Hub USB-C,Eletrónica,2,44.90,0,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000686,PED-00368,2025-12-02,CLI-0213,Organizador de Mesa,Casa e Escritório,2,14.90,0,MB WAY,Faro,Algarve,Concluído
+LIN-000687,PED-00368,2025-12-02,CLI-0213,Teclado Mecânico,Eletrónica,1,82.30,0,MB WAY,Faro,Algarve,Concluído
+LIN-000688,PED-00369,2025-07-13,CLI-0273,Carregador USB-C,Eletrónica,2,29.90,5,Cartão de crédito,Viseu,Centro,Concluído
+LIN-000689,PED-00369,2025-07-13,CLI-0273,Candeeiro de Mesa,Casa e Escritório,2,28.74,0,Cartão de crédito,Viseu,Centro,Concluído
+LIN-000690,PED-00370,2024-12-20,CLI-0341,Organizador de Mesa,Casa e Escritório,2,15.35,20,Cartão de crédito,Leiria,Centro,Concluído
+LIN-000691,PED-00370,2024-12-20,CLI-0341,Agenda Semanal,Papelaria,1,12.90,15,Cartão de crédito,Leiria,Centro,Concluído
+LIN-000692,PED-00371,2025-03-05,CLI-0167,Agenda Semanal,Papelaria,1,13.29,10,Cartão de débito,Faro,Algarve,Concluído
+LIN-000693,PED-00371,2025-03-05,CLI-0167,Coluna Bluetooth,Eletrónica,1,69.90,0,Cartão de débito,Faro,Algarve,Concluído
+LIN-000694,PED-00371,2025-03-05,CLI-0167,Candeeiro de Mesa,Casa e Escritório,1,27.06,15,Cartão de débito,Faro,Algarve,Concluído
+LIN-000695,PED-00372,2025-04-09,CLI-0266,Hub USB-C,Eletrónica,4,46.25,0,Transferência,Braga,Norte,Concluído
+LIN-000696,PED-00372,2025-04-09,CLI-0266,Agenda Semanal,Papelaria,4,12.90,0,Transferência,Braga,Norte,Concluído
+LIN-000697,PED-00372,2025-04-09,CLI-0266,Auriculares Bluetooth,Eletrónica,1,39.90,0,Transferência,Braga,Norte,Concluído
+LIN-000698,PED-00372,2025-04-09,CLI-0266,Caderno A5,Papelaria,1,6.70,0,Transferência,Braga,Norte,Concluído
+LIN-000699,PED-00373,2024-08-08,CLI-0154,Agenda Semanal,Papelaria,1,13.29,5,Cartão de débito,Porto,Norte,Concluído
+LIN-000700,PED-00373,2024-08-08,CLI-0154,Bolsa para Portátil,Acessórios,1,27.90,0,Cartão de débito,Porto,Norte,Concluído
+LIN-000701,PED-00374,2025-09-16,CLI-0196,Suporte para Portátil,Acessórios,1,33.85,10,Cartão de crédito,Porto,Norte,Concluído
+LIN-000702,PED-00375,2024-07-13,CLI-0335,Teclado Mecânico,Eletrónica,2,79.90,0,Transferência,Faro,Algarve,Concluído
+LIN-000703,PED-00375,2024-07-13,CLI-0335,Pack Canetas Gel,Papelaria,1,5.05,5,Transferência,Faro,Algarve,Concluído
+LIN-000704,PED-00376,2024-05-15,CLI-0345,Organizador de Mesa,Casa e Escritório,1,14.90,5,Cartão de débito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000705,PED-00376,2024-05-15,CLI-0345,Rato Sem Fios,Eletrónica,1,24.90,0,Cartão de débito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000706,PED-00377,2025-03-21,CLI-0026,Webcam Full HD,Eletrónica,2,54.90,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000707,PED-00378,2025-01-07,CLI-0334,Coluna Bluetooth,Eletrónica,1,69.90,0,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Devolvido
+LIN-000708,PED-00378,2025-01-07,CLI-0334,Rato Sem Fios,Eletrónica,4,24.15,0,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Devolvido
+LIN-000709,PED-00379,2024-11-27,CLI-0188,Pack Canetas Gel,Papelaria,1,4.90,10,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000710,PED-00380,2025-12-27,CLI-0227,Marcadores Coloridos,Papelaria,1,8.63,0,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000711,PED-00381,2024-02-25,CLI-0318,"Monitor 24""",Eletrónica,1,179.90,0,Transferência,Portimão,Algarve,Concluído
+LIN-000712,PED-00382,2024-06-28,CLI-0276,Extensão Elétrica,Casa e Escritório,2,18.33,0,Cartão de débito,Vila Real,Norte,Concluído
+LIN-000713,PED-00382,2024-06-28,CLI-0276,Webcam Full HD,Eletrónica,3,56.55,0,Cartão de débito,Vila Real,Norte,Concluído
+LIN-000714,PED-00383,2024-05-29,CLI-0146,Auriculares Bluetooth,Eletrónica,1,39.90,5,MB WAY,Guimarães,Norte,Concluído
+LIN-000715,PED-00383,2024-05-29,CLI-0146,Rato Sem Fios,Eletrónica,4,24.90,10,MB WAY,Guimarães,Norte,Concluído
+LIN-000716,PED-00384,2024-01-21,CLI-0333,Agenda Semanal,Papelaria,3,13.29,0,Dinheiro,Viseu,Centro,Concluído
+LIN-000717,PED-00384,2024-01-21,CLI-0333,Bolsa para Portátil,Acessórios,1,27.90,0,Dinheiro,Viseu,Centro,Concluído
+LIN-000718,PED-00385,2025-07-03,CLI-0021,Carregador USB-C,Eletrónica,1,29.90,0,Cartão de débito,Coimbra,Centro,Concluído
+LIN-000719,PED-00386,2024-09-15,CLI-0257,Auriculares Bluetooth,Eletrónica,4,39.90,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000720,PED-00387,2024-10-13,CLI-0202,Extensão Elétrica,Casa e Escritório,2,18.90,15,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000721,PED-00387,2024-10-13,CLI-0202,Coluna Bluetooth,Eletrónica,3,69.90,0,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000722,PED-00387,2024-10-13,CLI-0202,Suporte para Portátil,Acessórios,1,34.90,0,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000723,PED-00387,2024-10-13,CLI-0202,Almofada Ergonómica,Casa e Escritório,2,32.90,10,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000724,PED-00388,2024-09-20,CLI-0362,Webcam Full HD,Eletrónica,1,56.55,0,Transferência,Lagos,Algarve,Concluído
+LIN-000725,PED-00388,2024-09-20,CLI-0362,Almofada Ergonómica,Casa e Escritório,2,32.90,0,Transferência,Lagos,Algarve,Concluído
+LIN-000726,PED-00388,2024-09-20,CLI-0362,Carregador USB-C,Eletrónica,3,29.00,5,Transferência,Lagos,Algarve,Concluído
+LIN-000727,PED-00389,2025-11-02,CLI-0212,Caderno A5,Papelaria,1,6.50,0,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000728,PED-00389,2025-11-02,CLI-0212,Webcam Full HD,Eletrónica,5,56.55,0,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000729,PED-00389,2025-11-02,CLI-0212,Hub USB-C,Eletrónica,2,44.90,10,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000730,PED-00390,2024-07-17,CLI-0014,Extensão Elétrica,Casa e Escritório,2,18.90,0,MB WAY,Viseu,Centro,Concluído
+LIN-000731,PED-00390,2024-07-17,CLI-0014,Bolsa para Portátil,Acessórios,1,27.90,0,MB WAY,Viseu,Centro,Concluído
+LIN-000732,PED-00391,2024-06-15,CLI-0017,Coluna Bluetooth,Eletrónica,1,69.90,10,Dinheiro,Leiria,Centro,Cancelado
+LIN-000733,PED-00391,2024-06-15,CLI-0017,Hub USB-C,Eletrónica,1,44.90,10,Dinheiro,Leiria,Centro,Cancelado
+LIN-000734,PED-00391,2024-06-15,CLI-0017,Almofada Ergonómica,Casa e Escritório,3,32.90,0,Dinheiro,Leiria,Centro,Cancelado
+LIN-000735,PED-00391,2024-06-15,CLI-0017,Rato Sem Fios,Eletrónica,1,24.90,5,Dinheiro,Leiria,Centro,Cancelado
+LIN-000736,PED-00392,2024-11-15,CLI-0381,Teclado Mecânico,Eletrónica,1,79.90,15,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000737,PED-00392,2024-11-15,CLI-0381,Organizador de Mesa,Casa e Escritório,1,14.90,5,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000738,PED-00393,2024-11-16,CLI-0377,Hub USB-C,Eletrónica,3,44.90,5,Cartão de débito,Porto,Norte,Concluído
+LIN-000739,PED-00393,2024-11-16,CLI-0377,Pack Canetas Gel,Papelaria,1,5.05,15,Cartão de débito,Porto,Norte,Concluído
+LIN-000740,PED-00393,2024-11-16,CLI-0377,Garrafa Térmica,Acessórios,2,21.90,5,Cartão de débito,Porto,Norte,Concluído
+LIN-000741,PED-00393,2024-11-16,CLI-0377,Mochila Executiva,Acessórios,2,48.40,10,Cartão de débito,Porto,Norte,Concluído
+LIN-000742,PED-00394,2024-04-13,CLI-0399,Agenda Semanal,Papelaria,1,12.90,0,Transferência,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000743,PED-00395,2025-11-10,CLI-0104,Carregador USB-C,Eletrónica,1,29.90,10,Cartão de crédito,Albufeira,Algarve,Concluído
+LIN-000744,PED-00395,2025-11-10,CLI-0104,"Monitor 24""",Eletrónica,1,179.90,10,Cartão de crédito,Albufeira,Algarve,Concluído
+LIN-000745,PED-00396,2025-12-20,CLI-0314,Agenda Semanal,Papelaria,3,12.90,0,Cartão de débito,Funchal,Ilhas,Concluído
+LIN-000746,PED-00396,2025-12-20,CLI-0314,Almofada Ergonómica,Casa e Escritório,1,31.91,5,Cartão de débito,Funchal,Ilhas,Concluído
+LIN-000747,PED-00397,2024-09-20,CLI-0394,Hub USB-C,Eletrónica,1,44.90,10,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000748,PED-00397,2024-09-20,CLI-0394,Auriculares Bluetooth,Eletrónica,2,38.70,5,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000749,PED-00397,2024-09-20,CLI-0394,Caderno A5,Papelaria,1,6.50,0,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000750,PED-00398,2024-12-28,CLI-0210,Caderno A5,Papelaria,1,6.50,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000751,PED-00398,2024-12-28,CLI-0210,Candeeiro de Mesa,Casa e Escritório,1,27.90,15,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000752,PED-00398,2024-12-28,CLI-0210,Hub USB-C,Eletrónica,2,46.25,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000753,PED-00399,2025-11-23,CLI-0026,Extensão Elétrica,Casa e Escritório,2,19.47,0,Dinheiro,Braga,Norte,Concluído
+LIN-000754,PED-00400,2024-12-18,CLI-0297,Mochila Executiva,Acessórios,3,49.90,15,Cartão de crédito,Viseu,Centro,Concluído
+LIN-000755,PED-00401,2024-03-05,CLI-0242,Organizador de Mesa,Casa e Escritório,2,15.35,0,MB WAY,Braga,Norte,Concluído
+LIN-000756,PED-00401,2024-03-05,CLI-0242,Hub USB-C,Eletrónica,2,46.25,15,MB WAY,Braga,Norte,Concluído
+LIN-000757,PED-00402,2025-01-03,CLI-0353,Agenda Semanal,Papelaria,1,13.29,15,MB WAY,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000758,PED-00403,2024-10-22,CLI-0067,Carregador USB-C,Eletrónica,2,29.90,0,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000759,PED-00403,2024-10-22,CLI-0067,Coluna Bluetooth,Eletrónica,1,67.80,5,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000760,PED-00404,2024-06-27,CLI-0316,Hub USB-C,Eletrónica,2,44.90,0,Cartão de débito,Ponta Delgada,Ilhas,Concluído
+LIN-000761,PED-00404,2024-06-27,CLI-0316,Auriculares Bluetooth,Eletrónica,1,39.90,0,Cartão de débito,Ponta Delgada,Ilhas,Concluído
+LIN-000762,PED-00405,2024-09-30,CLI-0004,Auriculares Bluetooth,Eletrónica,1,39.90,10,Cartão de crédito,Braga,Norte,Concluído
+LIN-000763,PED-00405,2024-09-30,CLI-0004,Carregador USB-C,Eletrónica,1,29.90,5,Cartão de crédito,Braga,Norte,Concluído
+LIN-000764,PED-00406,2025-05-15,CLI-0247,Garrafa Térmica,Acessórios,3,21.90,0,Cartão de débito,Braga,Norte,Concluído
+LIN-000765,PED-00406,2025-05-15,CLI-0247,Suporte para Portátil,Acessórios,2,35.95,0,Cartão de débito,Braga,Norte,Concluído
+LIN-000766,PED-00406,2025-05-15,CLI-0247,Teclado Mecânico,Eletrónica,1,79.90,5,Cartão de débito,Braga,Norte,Concluído
+LIN-000767,PED-00407,2025-11-06,CLI-0182,Mochila Executiva,Acessórios,2,49.90,5,Cartão de crédito,Porto,Norte,Concluído
+LIN-000768,PED-00408,2024-11-13,CLI-0305,Teclado Mecânico,Eletrónica,1,79.90,5,MB WAY,Braga,Norte,Concluído
+LIN-000769,PED-00408,2024-11-13,CLI-0305,Caderno A5,Papelaria,3,6.50,0,MB WAY,Braga,Norte,Concluído
+LIN-000770,PED-00408,2024-11-13,CLI-0305,Suporte para Portátil,Acessórios,1,33.85,5,MB WAY,Braga,Norte,Concluído
+LIN-000771,PED-00409,2024-02-08,CLI-0104,Organizador de Mesa,Casa e Escritório,1,14.90,5,Cartão de débito,Lagos,Algarve,Concluído
+LIN-000772,PED-00409,2024-02-08,CLI-0104,Webcam Full HD,Eletrónica,2,54.90,0,Cartão de débito,Lagos,Algarve,Concluído
+LIN-000773,PED-00410,2025-10-28,CLI-0265,Organizador de Mesa,Casa e Escritório,1,14.45,5,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000774,PED-00410,2025-10-28,CLI-0265,"Monitor 24""",Eletrónica,2,174.50,0,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000775,PED-00411,2025-11-07,CLI-0053,Pack Canetas Gel,Papelaria,1,4.90,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000776,PED-00411,2025-11-07,CLI-0053,Hub USB-C,Eletrónica,2,44.90,10,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000777,PED-00412,2024-08-22,CLI-0081,Hub USB-C,Eletrónica,1,44.90,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000778,PED-00412,2024-08-22,CLI-0081,Candeeiro de Mesa,Casa e Escritório,4,27.90,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000779,PED-00413,2024-05-29,CLI-0160,Bolsa para Portátil,Acessórios,3,27.06,0,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000780,PED-00414,2024-02-24,CLI-0219,Garrafa Térmica,Acessórios,1,21.90,5,MB WAY,Viseu,Centro,Concluído
+LIN-000781,PED-00414,2024-02-24,CLI-0219,Marcadores Coloridos,Papelaria,2,9.17,0,MB WAY,Viseu,Centro,Concluído
+LIN-000782,PED-00415,2025-11-24,CLI-0392,Garrafa Térmica,Acessórios,1,21.90,5,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000783,PED-00415,2025-11-24,CLI-0392,"Monitor 24""",Eletrónica,4,179.90,15,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000784,PED-00415,2025-11-24,CLI-0392,Extensão Elétrica,Casa e Escritório,2,18.90,5,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000785,PED-00416,2025-06-23,CLI-0341,Rato Sem Fios,Eletrónica,-1,24.90,0,Transferência,Aveiro,Centro,Concluído
+LIN-000786,PED-00416,2025-06-23,CLI-0341,Bolsa para Portátil,Acessórios,1,27.90,5,Transferência,Aveiro,Centro,Concluído
+LIN-000787,PED-00417,2024-04-25,CLI-0053,Rato Sem Fios,Eletrónica,2,24.90,0,MB WAY,Leiria,Centro,Concluído
+LIN-000788,PED-00417,2024-04-25,CLI-0053,Pack Canetas Gel,Papelaria,1,4.90,0,MB WAY,Leiria,Centro,Concluído
+LIN-000789,PED-00418,2025-12-19,CLI-0197,Suporte para Portátil,Acessórios,2,34.90,5,Cartão de crédito,Porto,Norte,Concluído
+LIN-000790,PED-00419,2024-07-21,CLI-0340,"Monitor 24""",Eletrónica,1,174.50,10,MB WAY,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000791,PED-00419,2024-07-21,CLI-0340,Almofada Ergonómica,Casa e Escritório,1,32.90,0,MB WAY,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000792,PED-00419,2024-07-21,CLI-0340,Garrafa Térmica,Acessórios,1,22.56,5,MB WAY,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000793,PED-00420,2024-11-07,CLI-0254,Almofada Ergonómica,Casa e Escritório,3,31.91,10,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000794,PED-00421,2025-05-26,CLI-0232,Agenda Semanal,Papelaria,1,12.90,10,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000795,PED-00422,2025-12-02,CLI-0368,Organizador de Mesa,Casa e Escritório,1,14.90,15,Cartão de crédito,Ponta Delgada,Ilhas,Concluído
+LIN-000796,PED-00423,2024-03-03,CLI-0282,"Monitor 24""",Eletrónica,1,185.30,0,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000797,PED-00423,2024-03-03,CLI-0282,Pack Canetas Gel,Papelaria,1,4.90,0,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000798,PED-00423,2024-03-03,CLI-0282,Auriculares Bluetooth,Eletrónica,1,39.90,5,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000799,PED-00423,2024-03-03,CLI-0282,Coluna Bluetooth,Eletrónica,1,69.90,0,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000800,PED-00424,2025-10-09,CLI-0185,Webcam Full HD,Eletrónica,1,53.25,0,Cartão de crédito,Faro,Algarve,Devolvido
+LIN-000801,PED-00424,2025-10-09,CLI-0185,Auriculares Bluetooth,Eletrónica,3,39.90,15,Cartão de crédito,Faro,Algarve,Devolvido
+LIN-000802,PED-00425,2024-05-02,CLI-0071,Extensão Elétrica,Casa e Escritório,1,18.90,0,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000803,PED-00425,2024-05-02,CLI-0071,Suporte para Portátil,Acessórios,1,34.90,0,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000804,PED-00425,2024-05-02,CLI-0071,Carregador USB-C,Eletrónica,1,29.00,0,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000805,PED-00426,2025-10-11,CLI-0122,Teclado Mecânico,Eletrónica,2,79.90,0,Cartão de crédito,Setúbal,Lisboa e Vale do Tejo,Cancelado
+LIN-000806,PED-00426,2025-10-11,CLI-0122,Extensão Elétrica,Casa e Escritório,1,18.33,0,Cartão de crédito,Setúbal,Lisboa e Vale do Tejo,Cancelado
+LIN-000807,PED-00427,2025-07-18,CLI-0385,Rato Sem Fios,Eletrónica,2,24.15,5,Cartão de débito,Beja,Alentejo,Concluído
+LIN-000808,PED-00427,2025-07-18,CLI-0385,Coluna Bluetooth,Eletrónica,2,72.00,0,Cartão de débito,Beja,Alentejo,Concluído
+LIN-000809,PED-00427,2025-07-18,CLI-0385,Bolsa para Portátil,Acessórios,1,27.90,0,Cartão de débito,Beja,Alentejo,Concluído
+LIN-000810,PED-00428,2024-01-12,CLI-0233,Pack Canetas Gel,Papelaria,1,4.75,5,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000811,PED-00429,2025-04-10,CLI-0156,Carregador USB-C,Eletrónica,1,29.90,5,Cartão de débito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000812,PED-00429,2025-04-10,CLI-0156,Almofada Ergonómica,Casa e Escritório,2,32.90,0,Cartão de débito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000813,PED-00430,2024-04-25,CLI-0040,Caderno A5,Papelaria,1,6.30,5,Cartão de crédito,Faro,Algarve,Concluído
+LIN-000814,PED-00431,2025-11-18,CLI-0379,Coluna Bluetooth,Eletrónica,1,72.00,15,Cartão de débito,Braga,Norte,Concluído
+LIN-000815,PED-00432,2024-10-14,CLI-0044,Suporte para Portátil,Acessórios,2,34.90,0,MB WAY,Funchal,Ilhas,Concluído
+LIN-000816,PED-00432,2024-10-14,CLI-0044,Mochila Executiva,Acessórios,2,49.90,0,MB WAY,Funchal,Ilhas,Concluído
+LIN-000817,PED-00432,2024-10-14,CLI-0044,Coluna Bluetooth,Eletrónica,1,67.80,0,MB WAY,Funchal,Ilhas,Concluído
+LIN-000818,PED-00433,2024-12-23,CLI-0244,Mochila Executiva,Acessórios,1,49.90,5,MB WAY,Aveiro,Centro,Concluído
+LIN-000819,PED-00433,2024-12-23,CLI-0244,Extensão Elétrica,Casa e Escritório,1,18.90,15,MB WAY,Aveiro,Centro,Concluído
+LIN-000820,PED-00434,2024-12-15,CLI-0348,Candeeiro de Mesa,Casa e Escritório,2,27.90,10,Cartão de débito,Aveiro,Centro,Cancelado
+LIN-000821,PED-00435,2025-05-20,CLI-0140,Mochila Executiva,Acessórios,2,49.90,5,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000822,PED-00435,2025-05-20,CLI-0140,Garrafa Térmica,Acessórios,2,21.90,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000823,PED-00436,2025-06-07,CLI-0093,Suporte para Portátil,Acessórios,1,33.85,5,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000824,PED-00437,2024-10-20,CLI-0372,Extensão Elétrica,Casa e Escritório,2,18.90,10,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000825,PED-00438,2025-05-10,CLI-0363,Almofada Ergonómica,Casa e Escritório,3,32.90,10,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000826,PED-00439,2025-06-20,CLI-0130,Caderno A5,Papelaria,2,6.50,0,MB WAY,Coimbra,Centro,Concluído
+LIN-000827,PED-00439,2025-06-20,CLI-0130,Suporte para Portátil,Acessórios,2,34.90,5,MB WAY,Coimbra,Centro,Concluído
+LIN-000828,PED-00440,2024-11-09,CLI-0171,Rato Sem Fios,Eletrónica,1,24.90,10,Cartão de crédito,Ponta Delgada,Ilhas,Concluído
+LIN-000829,PED-00441,2024-06-04,CLI-0252,"Monitor 24""",Eletrónica,2,174.50,0,Cartão de débito,Braga,Norte,Concluído
+LIN-000830,PED-00441,2024-06-04,CLI-0252,Garrafa Térmica,Acessórios,1,21.90,5,Cartão de débito,Braga,Norte,Concluído
+LIN-000831,PED-00442,2024-01-20,CLI-0255,Caderno A5,Papelaria,2,6.50,0,MB WAY,Braga,Norte,Cancelado
+LIN-000832,PED-00442,2024-01-20,CLI-0255,Webcam Full HD,Eletrónica,1,54.90,0,MB WAY,Braga,Norte,Cancelado
+LIN-000833,PED-00443,2024-11-21,CLI-0373,Bolsa para Portátil,Acessórios,1,28.74,15,MB WAY,Beja,Alentejo,Concluído
+LIN-000834,PED-00444,2024-10-25,CLI-0350,Marcadores Coloridos,Papelaria,3,8.90,0,Cartão de crédito,Aveiro,Centro,Devolvido
+LIN-000835,PED-00444,2024-10-25,CLI-0350,Candeeiro de Mesa,Casa e Escritório,1,27.90,5,Cartão de crédito,Aveiro,Centro,Devolvido
+LIN-000836,PED-00445,2024-06-02,CLI-0021,"Monitor 24""",Eletrónica,2,179.90,0,MB WAY,Funchal,Ilhas,Concluído
+LIN-000837,PED-00446,2025-11-04,CLI-0225,Almofada Ergonómica,Casa e Escritório,1,31.91,10,Cartão de crédito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000838,PED-00446,2025-11-04,CLI-0225,Coluna Bluetooth,Eletrónica,2,69.90,5,Cartão de crédito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000839,PED-00447,2025-10-03,CLI-0231,Teclado Mecânico,Eletrónica,1,79.90,5,Cartão de crédito,Funchal,Ilhas,Concluído
+LIN-000840,PED-00448,2025-05-31,CLI-0235,Coluna Bluetooth,Eletrónica,1,69.90,0,Transferência,Portimão,Algarve,Concluído
+LIN-000841,PED-00448,2025-05-31,CLI-0235,Rato Sem Fios,Eletrónica,1,25.65,0,Transferência,Portimão,Algarve,Concluído
+LIN-000842,PED-00449,2025-06-25,CLI-0067,"Monitor 24""",Eletrónica,3,174.50,5,MB WAY,Porto,Norte,Concluído
+LIN-000843,PED-00449,2025-06-25,CLI-0067,Garrafa Térmica,Acessórios,1,21.90,0,MB WAY,Porto,Norte,Concluído
+LIN-000844,PED-00449,2025-06-25,CLI-0067,Carregador USB-C,Eletrónica,2,29.00,5,MB WAY,Porto,Norte,Concluído
+LIN-000845,PED-00450,2024-12-03,CLI-0416,Almofada Ergonómica,Casa e Escritório,2,32.90,15,MB WAY,Faro,Algarve,Concluído
+LIN-000846,PED-00451,2025-09-05,CLI-0392,Suporte para Portátil,Acessórios,1,34.90,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-000847,PED-00452,2024-12-10,CLI-0298,Carregador USB-C,Eletrónica,3,29.00,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-000848,PED-00452,2024-12-10,CLI-0298,Auriculares Bluetooth,Eletrónica,1,38.70,10,Cartão de crédito,Porto,Norte,Concluído
+LIN-000849,PED-00453,2025-04-07,CLI-0146,Hub USB-C,Eletrónica,2,46.25,0,MB WAY,Leiria,Centro,Concluído
+LIN-000850,PED-00453,2025-04-07,CLI-0146,Webcam Full HD,Eletrónica,1,54.90,5,MB WAY,Leiria,Centro,Concluído
+LIN-000851,PED-00454,2024-02-09,CLI-0093,Pack Canetas Gel,Papelaria,1,4.90,0,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000852,PED-00454,2024-02-09,CLI-0093,Marcadores Coloridos,Papelaria,5,8.63,5,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000853,PED-00454,2024-02-09,CLI-0093,Suporte para Portátil,Acessórios,3,35.95,0,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000854,PED-00455,2024-12-23,CLI-0321,Bolsa para Portátil,Acessórios,1,27.06,0,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000855,PED-00455,2024-12-23,CLI-0321,Extensão Elétrica,Casa e Escritório,1,18.90,5,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000856,PED-00455,2024-12-23,CLI-0321,Carregador USB-C,Eletrónica,1,29.90,0,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000857,PED-00456,2025-07-25,CLI-0276,Coluna Bluetooth,Eletrónica,2,72.00,0,MB WAY,Guimarães,Norte,Concluído
+LIN-000858,PED-00457,2024-11-30,CLI-0383,"Monitor 24""",Eletrónica,1,179.90,15,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000859,PED-00458,2024-11-05,CLI-0113,Hub USB-C,Eletrónica,4,44.90,0,Cartão de débito,Porto,Norte,Concluído
+LIN-000860,PED-00459,2024-11-04,CLI-0235,Webcam Full HD,Eletrónica,1,56.55,0,MB WAY,Setúbal,Lisboa e Vale do Tejo,Devolvido
+LIN-000861,PED-00460,2024-05-02,CLI-0239,Extensão Elétrica,Casa e Escritório,2,19.47,10,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000862,PED-00460,2024-05-02,CLI-0239,Carregador USB-C,Eletrónica,1,30.80,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000863,PED-00460,,CLI-0239,Almofada Ergonómica,Casa e Escritório,5,33.89,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000864,PED-00461,2024-12-22,CLI-0008,Almofada Ergonómica,Casa e Escritório,1,33.89,15,MB WAY,Setúbal,,Concluído
+LIN-000865,PED-00462,2025-11-20,CLI-0003,Organizador de Mesa,Casa e Escritório,1,14.90,5,Cartão de crédito,Leiria,Centro,Devolvido
+LIN-000866,PED-00462,2025-11-20,CLI-0003,Teclado Mecânico,Eletrónica,3,77.50,5,Cartão de crédito,Leiria,Centro,Devolvido
+LIN-000867,PED-00463,2024-07-25,CLI-0286,Marcadores Coloridos,Papelaria,1,8.63,0,MB WAY,Évora,Alentejo,Concluído
+LIN-000868,PED-00464,2025-06-01,CLI-0083,Garrafa Térmica,Acessórios,1,21.90,10,Transferência,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000869,PED-00465,2024-11-22,CLI-0405,Rato Sem Fios,Eletrónica,1,24.90,5,MB WAY,Albufeira,Algarve,Concluído
+LIN-000870,PED-00466,2024-09-11,CLI-0386,Rato Sem Fios,Eletrónica,1,24.90,10,Dinheiro,Coimbra,Centro,Concluído
+LIN-000871,PED-00466,2024-09-11,CLI-0386,Agenda Semanal,Papelaria,1,12.90,0,Dinheiro,Coimbra,Centro,Concluído
+LIN-000872,PED-00466,2024-09-11,CLI-0386,Teclado Mecânico,Eletrónica,1,79.90,0,Dinheiro,Coimbra,Centro,Concluído
+LIN-000873,PED-00467,2025-03-11,CLI-0035,Candeeiro de Mesa,Casa e Escritório,1,27.90,5,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000874,PED-00468,2025-08-04,CLI-0360,Caderno A5,Papelaria,1,6.50,0,MB WAY,Guimarães,Norte,Concluído
+LIN-000875,PED-00469,2024-03-04,CLI-0177,Candeeiro de Mesa,Casa e Escritório,3,27.90,5,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000876,PED-00469,2024-03-04,CLI-0177,Extensão Elétrica,Casa e Escritório,3,18.33,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000877,PED-00470,2025-11-04,CLI-0045,"Monitor 24""",Eletrónica,2,179.90,0,Transferência,Porto,Norte,Concluído
+LIN-000878,PED-00470,2025-11-04,CLI-0045,Carregador USB-C,Eletrónica,1,29.00,0,Transferência,Porto,Norte,Concluído
+LIN-000879,PED-00470,2025-11-04,CLI-0045,Caderno A5,Papelaria,4,6.70,15,Transferência,Porto,Norte,Concluído
+LIN-000880,PED-00470,2025-11-04,CLI-0045,Extensão Elétrica,Casa e Escritório,1,18.90,5,Transferência,Porto,Norte,Concluído
+LIN-000881,PED-00471,2025-05-15,CLI-0150,Organizador de Mesa,Casa e Escritório,2,14.90,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000882,PED-00471,2025-05-15,CLI-0150,Agenda Semanal,Papelaria,2,13.29,10,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000883,PED-00471,2025-05-15,CLI-0150,Suporte para Portátil,Acessórios,1,34.90,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000884,PED-00472,2025-11-11,CLI-0157,Teclado Mecânico,Eletrónica,1,79.90,10,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000885,PED-00472,2025-11-11,CLI-0157,Webcam Full HD,Eletrónica,1,56.55,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000886,PED-00472,2025-11-11,CLI-0157,Marcadores Coloridos,Papelaria,5,8.90,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000887,PED-00472,2025-11-11,CLI-0157,Pack Canetas Gel,Papelaria,1,4.90,5,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000888,PED-00473,2024-12-11,CLI-0190,Marcadores Coloridos,Papelaria,1,8.90,5,Cartão de débito,Guimarães,Norte,Concluído
+LIN-000889,PED-00474,2024-05-23,CLI-0155,Garrafa Térmica,Acessórios,1,22.56,15,Cartão de crédito,Braga,Norte,Cancelado
+LIN-000890,PED-00474,2024-05-23,CLI-0155,Agenda Semanal,Papelaria,1,12.90,0,Cartão de crédito,Braga,Norte,Cancelado
+LIN-000891,PED-00475,2024-09-06,CLI-0387,Garrafa Térmica,Acessórios,2,21.90,10,Cartão de débito,Ponta Delgada,Ilhas,Concluído
+LIN-000892,PED-00475,2024-09-06,CLI-0387,Agenda Semanal,Papelaria,1,,0,Cartão de débito,Ponta Delgada,Ilhas,Concluído
+LIN-000893,PED-00476,2024-01-27,CLI-0317,Hub USB-C,Eletrónica,2,44.90,5,Cartão de débito,Faro,Algarve,Concluído
+LIN-000894,PED-00477,2025-08-16,CLI-0101,Rato Sem Fios,Eletrónica,1,24.90,0,Cartão de débito,Porto,Norte,Concluído
+LIN-000895,PED-00477,2025-08-16,CLI-0101,Organizador de Mesa,Casa e Escritório,2,14.45,10,Cartão de débito,Porto,Norte,Concluído
+LIN-000896,PED-00478,2024-10-26,CLI-0076,Marcadores Coloridos,Papelaria,1,8.90,10,Cartão de débito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000897,PED-00479,2024-03-24,CLI-0373,Carregador USB-C,Eletrónica,2,29.90,0,MB WAY,Albufeira,Algarve,Concluído
+LIN-000898,PED-00479,2024-03-24,CLI-0373,Suporte para Portátil,Acessórios,2,33.85,0,MB WAY,Albufeira,Algarve,Concluído
+LIN-000899,PED-00480,2024-09-15,CLI-0269,Rato Sem Fios,Eletrónica,1,24.90,0,Cartão de crédito,Ponta Delgada,Ilhas,Cancelado
+LIN-000900,PED-00480,2024-09-15,CLI-0269,Auriculares Bluetooth,Eletrónica,2,41.10,5,Cartão de crédito,Ponta Delgada,Ilhas,Cancelado
+LIN-000901,PED-00481,2024-05-03,CLI-0096,Pack Canetas Gel,Papelaria,1,4.90,0,Cartão de crédito,Faro,Algarve,Concluído
+LIN-000902,PED-00481,2024-05-03,CLI-0096,Almofada Ergonómica,Casa e Escritório,3,32.90,0,Cartão de crédito,Faro,Algarve,Concluído
+LIN-000903,PED-00481,2024-05-03,CLI-0096,Extensão Elétrica,Casa e Escritório,4,18.90,0,Cartão de crédito,Faro,Algarve,Concluído
+LIN-000904,PED-00482,2025-05-30,CLI-0148,"Monitor 24""",Eletrónica,2,179.90,15,Cartão de débito,Leiria,Centro,Concluído
+LIN-000905,PED-00483,2024-03-07,CLI-0382,Bolsa para Portátil,Acessórios,5,27.06,0,Cartão de débito,Viseu,Centro,Concluído
+LIN-000906,PED-00484,2025-07-19,CLI-0009,Webcam Full HD,Eletrónica,1,53.25,0,Cartão de crédito,Faro,Algarve,Concluído
+LIN-000907,PED-00485,2024-11-30,CLI-0183,Hub USB-C,Eletrónica,2,44.90,10,Cartão de crédito,Porto,Norte,Concluído
+LIN-000908,PED-00486,2025-04-11,CLI-0086,Pack Canetas Gel,Papelaria,2,4.90,0,Transferência,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000909,PED-00486,2025-04-11,CLI-0086,Caderno A5,Papelaria,2,6.50,0,Transferência,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000910,PED-00487,2025-02-05,CLI-0191,Hub USB-C,Eletrónica,1,44.90,10,Cartão de débito,Beja,Alentejo,Concluído
+LIN-000911,PED-00488,2025-09-07,CLI-0287,Candeeiro de Mesa,Casa e Escritório,1,27.06,0,Transferência,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000912,PED-00488,2025-09-07,CLI-0287,"Monitor 24""",Eletrónica,1,174.50,0,Transferência,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000913,PED-00489,2024-09-21,CLI-0186,Agenda Semanal,Papelaria,2,12.51,5,Cartão de débito,Braga,Norte,Devolvido
+LIN-000914,PED-00489,2024-09-21,CLI-0186,Carregador USB-C,Eletrónica,1,29.90,10,Cartão de débito,Braga,Norte,Devolvido
+LIN-000915,PED-00490,2024-05-07,CLI-0117,"Monitor 24""",Eletrónica,1,179.90,5,Cartão de crédito,Aveiro,Centro,Devolvido
+LIN-000916,PED-00491,2024-02-13,CLI-0056,Caderno A5,Papelaria,1,6.30,5,MB WAY,Porto,Norte,Concluído
+LIN-000917,PED-00491,2024-02-13,CLI-0056,Teclado Mecânico,Eletrónica,2,82.30,0,MB WAY,Porto,Norte,Concluído
+LIN-000918,PED-00492,2025-11-13,CLI-0095,Caderno A5,Papelaria,1,6.50,15,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000919,PED-00492,2025-11-13,CLI-0095,Almofada Ergonómica,Casa e Escritório,2,33.89,0,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000920,PED-00493,2025-03-20,CLI-0051,Pack Canetas Gel,Papelaria,3,5.05,0,MB WAY,Faro,Algarve,Concluído
+LIN-000921,PED-00493,2025-03-20,CLI-0051,Carregador USB-C,Eletrónica,2,29.90,10,MB WAY,Faro,Algarve,Concluído
+LIN-000922,PED-00494,2025-10-14,CLI-0244,Carregador USB-C,Eletrónica,1,29.90,0,Cartão de débito,Viseu,Centro,Concluído
+LIN-000923,PED-00494,2025-10-14,CLI-0244,Marcadores Coloridos,Papelaria,2,8.90,0,Cartão de débito,Viseu,Centro,Concluído
+LIN-000924,PED-00494,2025-10-14,CLI-0244,Mochila Executiva,Acessórios,1,49.90,0,Cartão de débito,Viseu,Centro,Concluído
+LIN-000925,PED-00494,2025-10-14,CLI-0244,Suporte para Portátil,Acessórios,1,34.90,0,Cartão de débito,Viseu,Centro,Concluído
+LIN-000926,PED-00495,2024-02-11,CLI-0168,Garrafa Térmica,Acessórios,2,21.90,15,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000927,PED-00495,2024-02-11,CLI-0168,Coluna Bluetooth,Eletrónica,1,67.80,10,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000928,PED-00496,2025-02-31,CLI-0348,Mochila Executiva,Acessórios,2,48.40,0,Cartão de crédito,Viseu,Centro,Concluído
+LIN-000929,PED-00496,2025-09-12,CLI-0348,Garrafa Térmica,Acessórios,1,22.56,15,Cartão de crédito,Viseu,Centro,Concluído
+LIN-000930,PED-00497,2025-07-26,CLI-0087,Mochila Executiva,Acessórios,1,49.90,5,Dinheiro,Porto,Norte,Concluído
+LIN-000931,PED-00497,2025-07-26,CLI-0087,"Monitor 24""",Eletrónica,1,185.30,0,Dinheiro,Porto,Norte,Concluído
+LIN-000932,PED-00498,2025-08-07,CLI-0411,Mochila Executiva,Acessórios,1,49.90,5,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000933,PED-00498,2025-08-07,CLI-0411,Bolsa para Portátil,Acessórios,1,27.90,0,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000934,PED-00499,2024-07-16,CLI-0069,Auriculares Bluetooth,Eletrónica,1,39.90,0,MB WAY,Porto,Norte,Concluído
+LIN-000935,PED-00499,2024-07-16,CLI-0069,Carregador USB-C,Eletrónica,2,29.00,5,MB WAY,Porto,Norte,Concluído
+LIN-000936,PED-00500,2025-05-26,CLI-0267,Bolsa para Portátil,Acessórios,1,27.90,5,MB WAY,Évora,Alentejo,Concluído
+LIN-000937,PED-00500,2025-05-26,CLI-0267,Organizador de Mesa,Casa e Escritório,2,14.45,10,MB WAY,Évora,Alentejo,Concluído
+LIN-000938,PED-00501,2024-02-03,CLI-0221,Garrafa Térmica,Acessórios,1,22.56,5,Cartão de crédito,Albufeira,Algarve,Concluído
+LIN-000939,PED-00501,2024-02-03,CLI-0221,Extensão Elétrica,Casa e Escritório,2,18.90,0,Cartão de crédito,Albufeira,Algarve,Concluído
+LIN-000940,PED-00501,2024-02-03,CLI-0221,Teclado Mecânico,Eletrónica,1,79.90,0,Cartão de crédito,Albufeira,Algarve,Concluído
+LIN-000941,PED-00502,2024-04-11,CLI-0346,Candeeiro de Mesa,Casa e Escritório,1,27.90,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000942,PED-00502,2024-04-11,CLI-0346,Carregador USB-C,Eletrónica,2,29.90,5,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000943,PED-00503,2024-10-21,CLI-0146,Marcadores Coloridos,Papelaria,2,8.90,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000944,PED-00503,2024-10-21,CLI-0146,Almofada Ergonómica,Casa e Escritório,1,32.90,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000945,PED-00503,2024-10-21,CLI-0146,Auriculares Bluetooth,Eletrónica,1,39.90,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000946,PED-00504,2025-05-17,CLI-0304,Carregador USB-C,Eletrónica,1,29.90,0,MB WAY,Porto,Norte,Concluído
+LIN-000947,PED-00505,2025-05-24,CLI-0217,Almofada Ergonómica,Casa e Escritório,5,32.90,0,Transferência,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000948,PED-00505,2025-05-24,CLI-0217,Auriculares Bluetooth,Eletrónica,1,38.70,5,Transferência,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000949,PED-00506,2024-04-03,CLI-0346,Carregador USB-C,Eletrónica,1,29.90,0,Cartão de débito,Guimarães,Norte,Concluído
+LIN-000950,PED-00506,2024-04-03,CLI-0346,Pack Canetas Gel,Papelaria,2,4.75,10,Cartão de débito,Guimarães,Norte,Concluído
+LIN-000951,PED-00507,2025-02-21,CLI-0148,Extensão Elétrica,Casa e Escritório,2,18.90,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000952,PED-00507,2025-02-21,CLI-0148,Rato Sem Fios,Eletrónica,3,24.90,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000953,PED-00507,2025-02-21,CLI-0148,"Monitor 24""",Eletrónica,1,174.50,5,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000954,PED-00508,2024-09-14,CLI-0412,Caderno A5,Papelaria,2,6.50,5,MB WAY,Coimbra,Centro,Concluído
+LIN-000955,PED-00509,2025-03-03,CLI-0010,Garrafa Térmica,Acessórios,4,22.56,5,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000956,PED-00509,2025-03-03,CLI-0010,Caderno A5,Papelaria,3,6.50,10,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000957,PED-00510,2025-07-14,CLI-0031,Pack Canetas Gel,Papelaria,3,4.90,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000958,PED-00511,2025-10-01,CLI-0033,Carregador USB-C,Eletrónica,1,30.80,0,Transferência,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000959,PED-00512,2024-07-23,CLI-0077,Candeeiro de Mesa,Casa e Escritório,1,27.06,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000960,PED-00512,2024-07-23,CLI-0077,Suporte para Portátil,Acessórios,1,33.85,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000961,PED-00513,2025-09-12,CLI-0338,Auriculares Bluetooth,Eletrónica,3,38.70,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000962,PED-00513,2025-09-12,CLI-0338,Teclado Mecânico,Eletrónica,1,77.50,10,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000963,PED-00514,2024-11-23,CLI-0187,Webcam Full HD,Eletrónica,2,56.55,15,Transferência,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000964,PED-00514,2024-11-23,CLI-0187,Coluna Bluetooth,Eletrónica,2,72.00,15,Transferência,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000965,PED-00514,2024-11-23,CLI-0187,"Monitor 24""",Eletrónica,4,179.90,5,Transferência,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-000966,PED-00515,2024-03-26,CLI-0308,Mochila Executiva,Acessórios,4,49.90,0,MB WAY,Braga,Norte,Concluído
+LIN-000967,PED-00515,2024-03-26,CLI-0308,Coluna Bluetooth,Eletrónica,1,69.90,0,MB WAY,Braga,Norte,Concluído
+LIN-000968,PED-00516,2024-08-06,CLI-0302,Candeeiro de Mesa,Casa e Escritório,1,27.90,15,Cartão de débito,Porto,Norte,Concluído
+LIN-000969,PED-00517,2025-11-01,CLI-0075,Extensão Elétrica,Casa e Escritório,1,18.33,10,MB WAY,Viseu,Centro,Concluído
+LIN-000970,PED-00518,2025-09-03,CLI-0123,"Monitor 24""",Eletrónica,3,179.90,0,Cartão de débito,Coimbra,Centro,Concluído
+LIN-000971,PED-00518,2025-09-03,CLI-0123,Candeeiro de Mesa,Casa e Escritório,3,27.90,10,Cartão de débito,Coimbra,Centro,Concluído
+LIN-000972,PED-00519,2025-11-22,CLI-0155,Carregador USB-C,Eletrónica,4,29.90,15,MB WAY,Porto,Norte,Concluído
+LIN-000973,PED-00520,2025-08-16,CLI-0209,Bolsa para Portátil,Acessórios,2,27.90,5,Cartão de crédito,Beja,Alentejo,Concluído
+LIN-000974,PED-00520,2025-08-16,CLI-0209,Extensão Elétrica,Casa e Escritório,3,18.33,10,Cartão de crédito,Beja,Alentejo,Concluído
+LIN-000975,PED-00521,2025-06-22,CLI-0260,Agenda Semanal,Papelaria,2,12.51,5,Cartão de débito,Porto,Norte,Concluído
+LIN-000976,PED-00521,2025-06-22,CLI-0260,Garrafa Térmica,Acessórios,1,21.90,5,Cartão de débito,Porto,Norte,Concluído
+LIN-000977,PED-00522,2024-05-02,CLI-0206,Coluna Bluetooth,Eletrónica,1,69.90,10,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-000978,PED-00523,2025-06-13,CLI-0406,Carregador USB-C,Eletrónica,2,29.90,5,Cartão de débito,Portimão,Algarve,Concluído
+LIN-000979,PED-00524,2024-06-20,CLI-0213,Almofada Ergonómica,Casa e Escritório,4,33.89,5,Cartão de débito,Viseu,Centro,Concluído
+LIN-000980,PED-00524,2024-06-20,CLI-0213,Coluna Bluetooth,Eletrónica,2,67.80,15,Cartão de débito,Viseu,Centro,Concluído
+LIN-000981,PED-00524,2024-06-20,CLI-0213,Auriculares Bluetooth,Eletrónica,1,39.90,0,Cartão de débito,Viseu,Centro,Concluído
+LIN-000982,PED-00525,2025-04-25,CLI-0308,"Monitor 24""",Eletrónica,1,179.90,10,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000983,PED-00525,2025-04-25,CLI-0308,Auriculares Bluetooth,Eletrónica,1,39.90,5,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000984,PED-00525,2025-04-25,CLI-0308,Organizador de Mesa,Casa e Escritório,1,14.90,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-000985,PED-00526,2025-01-13,CLI-0067,Hub USB-C,Eletrónica,1,44.90,0,Cartão de crédito,Leiria,Centro,Concluído
+LIN-000986,PED-00526,2025-01-13,CLI-0067,Suporte para Portátil,Acessórios,5,34.90,5,Cartão de crédito,Leiria,Centro,Concluído
+LIN-000987,PED-00526,2025-01-13,CLI-0067,Carregador USB-C,Eletrónica,3,29.90,0,Cartão de crédito,Leiria,Centro,Concluído
+LIN-000988,PED-00527,2025-05-16,CLI-0044,Hub USB-C,Eletrónica,2,46.25,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-000989,PED-00527,2025-05-16,CLI-0044,Mochila Executiva,Acessórios,1,48.40,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-000990,PED-00528,2025-11-29,CLI-0242,Extensão Elétrica,Casa e Escritório,1,18.90,0,Dinheiro,Lagos,Algarve,Cancelado
+LIN-000991,PED-00528,2025-11-29,CLI-0242,Teclado Mecânico,Eletrónica,1,79.90,0,Dinheiro,Lagos,Algarve,Cancelado
+LIN-000992,PED-00528,2025-11-29,CLI-0242,Auriculares Bluetooth,Eletrónica,3,38.70,10,Dinheiro,Lagos,Algarve,Cancelado
+LIN-000993,PED-00528,2025-11-29,CLI-0242,Caderno A5,Papelaria,1,6.70,5,Dinheiro,Lagos,Algarve,Cancelado
+LIN-000994,PED-00529,2024-10-11,CLI-0240,"Monitor 24""",Eletrónica,1,179.90,0,Cartão de crédito,Braga,Norte,Concluído
+LIN-000995,PED-00530,2025-12-19,CLI-0144,Extensão Elétrica,Casa e Escritório,1,18.90,0,Transferência,Évora,Alentejo,Concluído
+LIN-000996,PED-00530,2025-12-19,CLI-0144,Caderno A5,Papelaria,5,6.50,5,Transferência,Évora,Alentejo,Concluído
+LIN-000997,PED-00530,2025-12-19,CLI-0144,Organizador de Mesa,Casa e Escritório,4,14.90,0,Transferência,Évora,Alentejo,Concluído
+LIN-000998,PED-00531,2024-05-12,CLI-0118,"Monitor 24""",Eletrónica,1,179.90,15,Cartão de débito,Guimarães,Norte,Concluído
+LIN-000999,PED-00531,2024-05-12,CLI-0118,Bolsa para Portátil,Acessórios,2,27.90,0,Cartão de débito,Guimarães,Norte,Concluído
+LIN-001000,PED-00532,2025-10-11,CLI-0076,Carregador USB-C,Eletrónica,2,29.90,0,Cartão de crédito,Braga,Norte,Concluído
+LIN-001001,PED-00533,2025-05-28,CLI-0109,Suporte para Portátil,Acessórios,1,34.90,5,Dinheiro,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001002,PED-00533,2025-05-28,CLI-0109,Rato Sem Fios,Eletrónica,3,24.15,0,Dinheiro,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001003,PED-00534,2025-12-23,CLI-0063,Webcam Full HD,Eletrónica,1,54.90,5,MB WAY,Leiria,Centro,Cancelado
+LIN-001004,PED-00534,2025-12-23,CLI-0063,Auriculares Bluetooth,Eletrónica,4,41.10,10,MB WAY,Leiria,Centro,Cancelado
+LIN-001005,PED-00534,2025-12-23,CLI-0063,Rato Sem Fios,Eletrónica,1,24.15,10,MB WAY,Leiria,Centro,Cancelado
+LIN-001006,PED-00535,2025-12-08,CLI-0167,Webcam Full HD,Eletrónica,3,54.90,0,Dinheiro,Funchal,Ilhas,Concluído
+LIN-001007,PED-00535,2025-12-08,CLI-0167,Hub USB-C,Eletrónica,1,43.55,5,Dinheiro,Funchal,Ilhas,Concluído
+LIN-001008,PED-00535,2025-12-08,CLI-0167,Teclado Mecânico,Eletrónica,2,77.50,5,Dinheiro,Funchal,Ilhas,Concluído
+LIN-001009,PED-00536,2024-06-03,CLI-0395,Mochila Executiva,Acessórios,1,49.90,0,Cartão de crédito,Albufeira,Algarve,Concluído
+LIN-001010,PED-00537,2025-01-10,CLI-0222,Marcadores Coloridos,Papelaria,3,9.17,0,Transferência,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-001011,PED-00537,2025-01-10,CLI-0222,"Monitor 24""",Eletrónica,1,179.90,0,Transferência,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-001012,PED-00538,2025-03-15,CLI-0217,,Acessórios,1,35.95,0,Cartão de débito,Porto,Norte,Concluído
+LIN-001013,PED-00539,2024-12-22,CLI-0115,Organizador de Mesa,Casa e Escritório,1,14.90,0,MB WAY,Cascais,Lisboa e Vale do Tejo,Cancelado
+LIN-001014,PED-00539,2024-12-22,CLI-0115,Rato Sem Fios,Eletrónica,3,24.90,0,MB WAY,Cascais,Lisboa e Vale do Tejo,Cancelado
+LIN-001015,PED-00540,2024-04-26,CLI-0154,Rato Sem Fios,Eletrónica,4,25.65,0,Cartão de débito,Faro,Algarve,Concluído
+LIN-001016,PED-00541,2024-12-03,CLI-0049,Almofada Ergonómica,Casa e Escritório,1,33.89,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001017,PED-00542,2025-07-25,CLI-0237,Pack Canetas Gel,Papelaria,1,4.90,5,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-001018,PED-00543,2024-12-15,CLI-0414,Carregador USB-C,Eletrónica,1,30.80,0,Dinheiro,Coimbra,Centro,Concluído
+LIN-001019,PED-00544,2025-06-04,CLI-0223,Bolsa para Portátil,Acessórios,1,27.90,10,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001020,PED-00545,2025-12-15,CLI-0309,Mochila Executiva,Acessórios,1,49.90,0,Cartão de crédito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-001021,PED-00545,2025-12-15,CLI-0309,Pack Canetas Gel,Papelaria,1,4.75,10,Cartão de crédito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-001022,PED-00546,2024-06-12,CLI-0014,,Casa e Escritório,1,27.90,5,MB WAY,Guimarães,Norte,Concluído
+LIN-001023,PED-00547,2024-05-11,CLI-0217,Bolsa para Portátil,Acessórios,1,27.90,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-001024,PED-00547,2024-05-11,CLI-0217,Extensão Elétrica,Casa e Escritório,1,19.47,10,Cartão de crédito,Porto,Norte,Concluído
+LIN-001025,PED-00548,2024-11-14,CLI-0171,Bolsa para Portátil,Acessórios,1,27.90,5,MB WAY,Porto,Norte,Concluído
+LIN-001026,PED-00548,2024-11-14,CLI-0171,Almofada Ergonómica,Casa e Escritório,2,33.89,15,MB WAY,Porto,Norte,Concluído
+LIN-001027,PED-00548,2024-11-14,CLI-0171,Candeeiro de Mesa,Casa e Escritório,3,27.90,0,MB WAY,Porto,Norte,Concluído
+LIN-001028,PED-00548,2024-11-14,CLI-0171,Pack Canetas Gel,Papelaria,1,4.75,5,MB WAY,Porto,Norte,Concluído
+LIN-001029,PED-00549,2024-09-25,CLI-0033,Extensão Elétrica,Casa e Escritório,4,18.90,0,MB WAY,Coimbra,Centro,Concluído
+LIN-001030,PED-00550,2024-12-08,CLI-0083,Coluna Bluetooth,Eletrónica,2,69.90,15,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-001031,PED-00551,2025-10-16,CLI-0367,Suporte para Portátil,Acessórios,3,34.90,5,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001032,PED-00551,2025-10-16,CLI-0367,Marcadores Coloridos,Papelaria,1,8.63,5,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001033,PED-00552,2024-04-26,CLI-0103,Bolsa para Portátil,Acessórios,1,27.06,15,Cartão de débito,Braga,Norte,Concluído
+LIN-001034,PED-00552,2024-04-26,CLI-0103,Pack Canetas Gel,Papelaria,1,4.90,0,Cartão de débito,Braga,Norte,Concluído
+LIN-001035,PED-00552,2024-04-26,CLI-0103,Coluna Bluetooth,Eletrónica,1,72.00,0,Cartão de débito,Braga,Norte,Concluído
+LIN-001036,PED-00553,2024-03-04,CLI-0221,Agenda Semanal,Papelaria,2,13.29,0,Cartão de crédito,Braga,Norte,Concluído
+LIN-001037,PED-00553,2024-03-04,CLI-0221,Marcadores Coloridos,Papelaria,1,9.17,5,Cartão de crédito,Braga,Norte,Concluído
+LIN-001038,PED-00554,2024-04-06,CLI-0026,"Monitor 24""",Eletrónica,3,174.50,0,Cartão de débito,Portimão,Algarve,Concluído
+LIN-001039,PED-00554,2024-04-06,CLI-0026,Extensão Elétrica,Casa e Escritório,1,18.33,10,Cartão de débito,Portimão,Algarve,Concluído
+LIN-001040,PED-00554,2024-04-06,CLI-0026,Almofada Ergonómica,Casa e Escritório,4,32.90,5,Cartão de débito,Portimão,Algarve,Concluído
+LIN-001041,PED-00555,2025-06-29,CLI-0391,Agenda Semanal,Papelaria,1,12.90,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001042,PED-00555,2025-06-29,CLI-0391,Webcam Full HD,Eletrónica,1,53.25,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001043,PED-00556,2025-09-16,CLI-0175,Suporte para Portátil,Acessórios,2,34.90,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-001044,PED-00556,2025-09-16,CLI-0175,Marcadores Coloridos,Papelaria,2,8.90,5,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-001045,PED-00557,2024-05-03,CLI-0220,Marcadores Coloridos,Papelaria,1,8.63,5,Cartão de débito,Leiria,Centro,Concluído
+LIN-001046,PED-00557,2024-05-03,CLI-0220,Auriculares Bluetooth,Eletrónica,1,38.70,0,Cartão de débito,Leiria,Centro,Concluído
+LIN-001047,PED-00557,2024-05-03,CLI-0220,Garrafa Térmica,Acessórios,1,21.90,0,Cartão de débito,Leiria,Centro,Concluído
+LIN-001048,PED-00558,2024-11-15,CLI-0019,Organizador de Mesa,Casa e Escritório,5,14.90,5,MB WAY,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001049,PED-00559,2025-06-10,CLI-0284,Caderno A5,Papelaria,3,6.70,10,MB WAY,Albufeira,Algarve,Concluído
+LIN-001050,PED-00560,2025-06-24,CLI-0229,Garrafa Térmica,Acessórios,3,21.90,5,Transferência,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001051,PED-00560,2025-06-24,CLI-0229,Marcadores Coloridos,Papelaria,3,8.63,0,Transferência,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001052,PED-00561,2024-10-08,CLI-0372,Hub USB-C,Eletrónica,1,44.90,0,Transferência,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-001053,PED-00561,2024-10-08,CLI-0372,Rato Sem Fios,Eletrónica,2,24.90,0,Transferência,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-001054,PED-00562,2025-11-07,CLI-0277,Organizador de Mesa,Casa e Escritório,2,14.90,0,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001055,PED-00562,2025-11-07,CLI-0277,"Monitor 24""",Eletrónica,1,174.50,0,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001056,PED-00563,2025-05-19,CLI-0064,Coluna Bluetooth,Eletrónica,3,72.00,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001057,PED-00564,2025-11-09,CLI-0322,Almofada Ergonómica,Casa e Escritório,2,32.90,5,Transferência,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001058,PED-00565,2024-07-31,CLI-0168,Webcam Full HD,Eletrónica,3,53.25,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001059,PED-00565,2024-07-31,CLI-0168,Suporte para Portátil,Acessórios,1,34.90,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001060,PED-00566,2024-12-14,CLI-0190,Caderno A5,Papelaria,1,6.50,20,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001061,PED-00566,2024-12-14,CLI-0190,Almofada Ergonómica,Casa e Escritório,2,32.90,10,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001062,PED-00567,2024-11-29,CLI-0084,Organizador de Mesa,Casa e Escritório,3,14.45,10,Cartão de crédito,Braga,Norte,Concluído
+LIN-001063,PED-00568,2024-12-18,CLI-0017,Extensão Elétrica,Casa e Escritório,1,18.90,0,Dinheiro,Évora,Alentejo,Concluído
+LIN-001064,PED-00568,2024-12-18,CLI-0017,Suporte para Portátil,Acessórios,1,34.90,0,Dinheiro,Évora,Alentejo,Concluído
+LIN-001065,PED-00568,2024-12-18,CLI-0017,"Monitor 24""",Eletrónica,1,179.90,5,Dinheiro,Évora,Alentejo,Concluído
+LIN-001066,PED-00568,2024-12-18,CLI-0017,Candeeiro de Mesa,Casa e Escritório,3,27.90,10,Dinheiro,Évora,Alentejo,Concluído
+LIN-001067,PED-00569,2024-12-01,CLI-0157,"Monitor 24""",Eletrónica,1,174.50,5,Cartão de crédito,Albufeira,Algarve,Concluído
+LIN-001068,PED-00569,2024-12-01,CLI-0157,Candeeiro de Mesa,Casa e Escritório,2,28.74,5,Cartão de crédito,Albufeira,Algarve,Concluído
+LIN-001069,PED-00570,2024-10-10,CLI-0194,Organizador de Mesa,Casa e Escritório,2,14.90,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001070,PED-00570,2024-10-10,CLI-0194,Garrafa Térmica,Acessórios,2,21.24,5,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001071,PED-00571,2025-05-29,CLI-0210,Garrafa Térmica,Acessórios,2,21.24,10,Transferência,Viseu,Centro,Concluído
+LIN-001072,PED-00572,2025-06-29,CLI-0293,Candeeiro de Mesa,Casa e Escritório,1,28.74,0,MB WAY,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001073,PED-00572,2025-06-29,CLI-0293,Rato Sem Fios,Eletrónica,2,25.65,0,MB WAY,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001074,PED-00573,2025-08-02,CLI-0258,Auriculares Bluetooth,Eletrónica,1,39.90,0,Cartão de crédito,Lagos,Algarve,Cancelado
+LIN-001075,PED-00574,2025-06-28,CLI-0297,Teclado Mecânico,Eletrónica,1,77.50,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001076,PED-00575,2024-06-06,CLI-0013,"Monitor 24""",Eletrónica,2,179.90,0,Cartão de crédito,Albufeira,Algarve,Concluído
+LIN-001077,PED-00576,2024-08-07,CLI-0046,Agenda Semanal,Papelaria,1,12.51,0,Dinheiro,Braga,Norte,Concluído
+LIN-001078,PED-00577,2024-04-02,CLI-0073,"Monitor 24""",Eletrónica,1,185.30,0,Cartão de crédito,Leiria,Centro,Concluído
+LIN-001079,PED-00577,2024-04-02,CLI-0073,Teclado Mecânico,Eletrónica,1,82.30,0,Cartão de crédito,Leiria,Centro,Concluído
+LIN-001080,PED-00577,2024-04-02,CLI-0073,Hub USB-C,Eletrónica,1,43.55,0,Cartão de crédito,Leiria,Centro,Concluído
+LIN-001081,PED-00578,2025-03-07,CLI-0034,Caderno A5,Papelaria,1,6.70,5,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001082,PED-00578,2025-03-07,CLI-0034,Candeeiro de Mesa,Casa e Escritório,1,28.74,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001083,PED-00578,2025-03-07,CLI-0034,"Monitor 24""",Eletrónica,1,185.30,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001084,PED-00579,2025-12-16,CLI-0192,Candeeiro de Mesa,Casa e Escritório,3,28.74,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001085,PED-00579,2025-12-16,CLI-0192,Garrafa Térmica,Acessórios,5,21.24,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001086,PED-00579,2025-12-16,CLI-0192,Teclado Mecânico,Eletrónica,4,79.90,10,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001087,PED-00579,2025-12-16,CLI-0192,Auriculares Bluetooth,Eletrónica,3,39.90,20,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001088,PED-00580,2025-10-09,CLI-0109,Almofada Ergonómica,Casa e Escritório,1,32.90,5,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001089,PED-00580,2025-10-09,CLI-0109,Rato Sem Fios,Eletrónica,3,25.65,15,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001090,PED-00581,2025-11-01,CLI-0108,Agenda Semanal,Papelaria,5,12.90,0,Dinheiro,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001091,PED-00581,2025-11-01,CLI-0108,Caderno A5,Papelaria,2,6.50,0,Dinheiro,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001092,PED-00582,2024-12-21,CLI-0307,Extensão Elétrica,Casa e Escritório,3,18.90,5,Transferência,Aveiro,Centro,Concluído
+LIN-001093,PED-00582,2024-12-21,CLI-0307,Bolsa para Portátil,Acessórios,3,27.90,10,Transferência,Aveiro,Centro,Concluído
+LIN-001094,PED-00582,2024-12-21,CLI-0307,Auriculares Bluetooth,Eletrónica,2,38.70,5,Transferência,Aveiro,Centro,Concluído
+LIN-001095,PED-00583,2025-11-08,CLI-0418,Extensão Elétrica,Casa e Escritório,1,18.33,0,MB WAY,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001096,PED-00583,2025-11-08,CLI-0418,Marcadores Coloridos,Papelaria,1,8.90,5,MB WAY,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001097,PED-00583,2025-11-08,CLI-0418,Mochila Executiva,Acessórios,1,48.40,10,MB WAY,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001098,PED-00584,2025-06-09,CLI-0364,Coluna Bluetooth,Eletrónica,1,69.90,15,Cartão de crédito,Viseu,Centro,Concluído
+LIN-001099,PED-00585,2024-02-08,CLI-0253,Mochila Executiva,Acessórios,1,49.90,0,MB WAY,Lagos,Algarve,Concluído
+LIN-001100,PED-00586,2025-01-13,CLI-0283,Carregador USB-C,Eletrónica,2,29.00,0,MB WAY,Guimarães,Norte,Concluído
+LIN-001101,PED-00586,2025-01-13,CLI-0283,Rato Sem Fios,Eletrónica,4,24.90,10,MB WAY,Guimarães,Norte,Concluído
+LIN-001102,PED-00587,2025-07-16,CLI-0141,Candeeiro de Mesa,Casa e Escritório,2,27.90,0,MB WAY,Guimarães,Norte,Devolvido
+LIN-001103,PED-00587,2025-07-16,CLI-0141,Caderno A5,Papelaria,1,6.30,10,MB WAY,Guimarães,Norte,Devolvido
+LIN-001104,PED-00588,2024-09-30,CLI-0209,Teclado Mecânico,Eletrónica,3,79.90,0,MB WAY,Coimbra,Centro,Concluído
+LIN-001105,PED-00589,2025-11-22,CLI-0273,Almofada Ergonómica,Casa e Escritório,3,32.90,20,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001106,PED-00590,2024-12-02,CLI-0039,"Monitor 24""",Eletrónica,1,179.90,10,Cartão de crédito,Portimão,Algarve,Concluído
+LIN-001107,PED-00591,2025-04-06,CLI-0321,Agenda Semanal,Papelaria,3,13.29,5,Transferência,Portimão,Algarve,Concluído
+LIN-001108,PED-00591,2025-04-06,CLI-0321,Teclado Mecânico,Eletrónica,4,82.30,5,Transferência,Portimão,Algarve,Concluído
+LIN-001109,PED-00592,2025-08-13,CLI-0321,Mochila Executiva,Acessórios,2,48.40,10,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Devolvido
+LIN-001110,PED-00592,2025-08-13,CLI-0321,Agenda Semanal,Papelaria,1,12.90,5,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Devolvido
+LIN-001111,PED-00592,2025-08-13,CLI-0321,Rato Sem Fios,Eletrónica,1,24.15,5,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Devolvido
+LIN-001112,PED-00593,2025-03-12,CLI-0151,Extensão Elétrica,Casa e Escritório,2,19.47,0,Cartão de débito,Faro,Algarve,Concluído
+LIN-001113,PED-00594,2024-11-09,CLI-0408,Auriculares Bluetooth,Eletrónica,1,41.10,0,MB WAY,Leiria,Centro,Concluído
+LIN-001114,PED-00594,2024-11-09,CLI-0408,Garrafa Térmica,Acessórios,1,22.56,10,MB WAY,Leiria,Centro,Concluído
+LIN-001115,PED-00595,2025-04-06,CLI-0100,Bolsa para Portátil,Acessórios,2,27.90,0,Cartão de crédito,Lagos,Algarve,Concluído
+LIN-001116,PED-00596,2024-05-03,CLI-0023,Marcadores Coloridos,Papelaria,1,8.90,5,Cartão de crédito,Porto,Norte,Concluído
+LIN-001117,PED-00596,2024-05-03,CLI-0023,Pack Canetas Gel,Papelaria,1,4.75,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-001118,PED-00596,2024-05-03,CLI-0023,Candeeiro de Mesa,Casa e Escritório,2,27.90,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-001119,PED-00596,2024-05-03,CLI-0023,Webcam Full HD,Eletrónica,1,56.55,10,Cartão de crédito,Porto,Norte,Concluído
+LIN-001120,PED-00597,2024-12-01,CLI-0101,Hub USB-C,Eletrónica,2,44.90,10,MB WAY,Ponta Delgada,Ilhas,Concluído
+LIN-001121,PED-00598,2024-10-05,CLI-0297,"Monitor 24""",Eletrónica,1,174.50,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001122,PED-00599,2025-11-23,CLI-0328,Agenda Semanal,Papelaria,3,12.90,0,Cartão de crédito,Vila Real,Norte,Concluído
+LIN-001123,PED-00600,2024-06-08,CLI-0004,Pack Canetas Gel,Papelaria,1,5.05,10,Cartão de crédito,Viseu,Centro,Concluído
+LIN-001124,PED-00601,2024-10-26,CLI-0016,Carregador USB-C,Eletrónica,1,30.80,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-001125,PED-00602,2024-06-18,CLI-0091,Mochila Executiva,Acessórios,1,49.90,0,Transferência,Faro,Algarve,Concluído
+LIN-001126,PED-00602,2024-06-18,CLI-0091,"Monitor 24""",Eletrónica,1,179.90,5,Transferência,Faro,Algarve,Concluído
+LIN-001127,PED-00603,2025-12-04,CLI-0410,Webcam Full HD,Eletrónica,3,54.90,10,Transferência,Ponta Delgada,Ilhas,Concluído
+LIN-001128,PED-00604,2024-06-14,CLI-0194,Teclado Mecânico,Eletrónica,1,82.30,0,Cartão de crédito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-001129,PED-00604,2024-06-14,CLI-0194,Almofada Ergonómica,Casa e Escritório,1,32.90,0,Cartão de crédito,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-001130,PED-00605,2025-09-07,CLI-0065,Rato Sem Fios,Eletrónica,2,25.65,0,Dinheiro,Faro,Algarve,Concluído
+LIN-001131,PED-00606,2025-01-27,CLI-0385,Carregador USB-C,Eletrónica,2,30.80,5,MB WAY,Albufeira,Algarve,Concluído
+LIN-001132,PED-00606,2025-01-27,CLI-0385,Agenda Semanal,Papelaria,2,12.90,0,MB WAY,Albufeira,Algarve,Concluído
+LIN-001133,PED-00607,2025-03-29,CLI-0327,Hub USB-C,Eletrónica,1,44.90,0,Cartão de débito,Portimão,Algarve,Concluído
+LIN-001134,PED-00608,2024-09-17,CLI-0194,Webcam Full HD,Eletrónica,1,56.55,0,Transferência,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001135,PED-00608,2024-09-17,CLI-0194,Rato Sem Fios,Eletrónica,2,24.90,0,Transferência,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001136,PED-00609,2024-10-09,CLI-0231,Mochila Executiva,Acessórios,1,49.90,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001137,PED-00610,2025-05-15,CLI-0184,Rato Sem Fios,Eletrónica,4,24.15,0,Cartão de crédito,Lagos,Algarve,Concluído
+LIN-001138,PED-00610,2025-05-15,CLI-0184,Caderno A5,Papelaria,1,6.70,0,Cartão de crédito,Lagos,Algarve,Concluído
+LIN-001139,PED-00611,2024-06-18,CLI-0169,Hub USB-C,Eletrónica,4,43.55,5,MB WAY,Coimbra,Centro,Concluído
+LIN-001140,PED-00611,2024-06-18,CLI-0169,Webcam Full HD,Eletrónica,1,54.90,5,MB WAY,Coimbra,Centro,Concluído
+LIN-001141,PED-00611,2024-06-18,CLI-0169,Candeeiro de Mesa,Casa e Escritório,1,27.90,10,MB WAY,Coimbra,Centro,Concluído
+LIN-001142,PED-00612,2025-08-08,CLI-0007,Mochila Executiva,Acessórios,1,49.90,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001143,PED-00613,2025-02-03,CLI-0403,Rato Sem Fios,Eletrónica,1,24.90,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001144,PED-00614,2025-12-04,CLI-0214,Almofada Ergonómica,Casa e Escritório,3,32.90,15,Cartão de débito,Guimarães,Norte,Concluído
+LIN-001145,PED-00615,2024-01-11,CLI-0415,Mochila Executiva,Acessórios,2,51.40,0,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001146,PED-00616,2025-04-02,CLI-0291,Agenda Semanal,Papelaria,1,12.90,0,Transferência,Beja,Alentejo,Concluído
+LIN-001147,PED-00616,2025-04-02,CLI-0291,Almofada Ergonómica,Casa e Escritório,1,32.90,0,Transferência,Beja,Alentejo,Concluído
+LIN-001148,PED-00616,2025-04-02,CLI-0291,Mochila Executiva,Acessórios,2,49.90,5,Transferência,Beja,Alentejo,Concluído
+LIN-001149,PED-00616,2025-04-02,CLI-0291,Candeeiro de Mesa,Casa e Escritório,1,27.90,0,Transferência,Beja,Alentejo,Concluído
+LIN-001150,PED-00617,2025-03-07,CLI-0017,Mochila Executiva,Acessórios,1,49.90,0,MB WAY,Faro,Algarve,Concluído
+LIN-001151,PED-00618,2025-02-10,CLI-0233,Suporte para Portátil,Acessórios,5,34.90,0,Cartão de débito,Porto,Norte,Concluído
+LIN-001152,PED-00618,2025-02-10,CLI-0233,Mochila Executiva,Acessórios,1,48.40,0,Cartão de débito,Porto,Norte,Concluído
+LIN-001153,PED-00618,2025-02-10,CLI-0233,Carregador USB-C,Eletrónica,3,29.90,0,Cartão de débito,Porto,Norte,Concluído
+LIN-001154,PED-00619,2024-06-25,CLI-0222,Pack Canetas Gel,Papelaria,1,4.90,0,MB WAY,Faro,Algarve,Concluído
+LIN-001155,PED-00619,2024-06-25,CLI-0222,Almofada Ergonómica,Casa e Escritório,1,32.90,0,MB WAY,Faro,Algarve,Concluído
+LIN-001156,PED-00620,2025-09-27,CLI-0310,Garrafa Térmica,Acessórios,2,21.90,5,Cartão de débito,Faro,Algarve,Concluído
+LIN-001157,PED-00620,2025-09-27,CLI-0310,Extensão Elétrica,Casa e Escritório,4,18.90,5,Cartão de débito,Faro,Algarve,Concluído
+LIN-001158,PED-00620,2025-09-27,CLI-0310,Teclado Mecânico,Eletrónica,2,79.90,0,Cartão de débito,Faro,Algarve,Concluído
+LIN-001159,PED-00621,2025-09-26,CLI-0090,Mochila Executiva,Acessórios,4,49.90,5,Cartão de crédito,Leiria,Centro,Concluído
+LIN-001160,PED-00622,2024-03-30,CLI-0358,Candeeiro de Mesa,Casa e Escritório,1,27.06,5,Cartão de crédito,Portimão,Algarve,Concluído
+LIN-001161,PED-00623,2025-07-11,CLI-0112,Marcadores Coloridos,Papelaria,1,8.63,0,Cartão de débito,Lagos,Algarve,Concluído
+LIN-001162,PED-00624,2025-08-26,CLI-0210,Rato Sem Fios,Eletrónica,1,24.90,10,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001163,PED-00624,2025-08-26,CLI-0210,Garrafa Térmica,Acessórios,1,21.24,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001164,PED-00625,2025-06-30,CLI-0070,Candeeiro de Mesa,Casa e Escritório,2,27.90,0,MB WAY,Aveiro,Centro,Concluído
+LIN-001165,PED-00626,2025-09-24,CLI-0083,Candeeiro de Mesa,Casa e Escritório,2,27.90,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-001166,PED-00627,2025-08-13,CLI-0347,Candeeiro de Mesa,Casa e Escritório,1,27.06,10,Cartão de débito,Coimbra,Centro,Concluído
+LIN-001167,PED-00627,2025-08-13,CLI-0347,Hub USB-C,Eletrónica,3,43.55,0,Cartão de débito,Coimbra,Centro,Concluído
+LIN-001168,PED-00628,2024-09-19,CLI-0027,Coluna Bluetooth,Eletrónica,1,69.90,0,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001169,PED-00629,2024-01-18,CLI-0015,Coluna Bluetooth,Eletrónica,3,69.90,5,Cartão de crédito,Ponta Delgada,Ilhas,Concluído
+LIN-001170,PED-00629,2024-01-18,CLI-0015,"Monitor 24""",Eletrónica,1,185.30,0,Cartão de crédito,Ponta Delgada,Ilhas,Concluído
+LIN-001171,PED-00630,2024-10-03,CLI-0288,Suporte para Portátil,Acessórios,1,34.90,0,MB WAY,Sintra,Lisboa e Vale do Tejo,Cancelado
+LIN-001172,PED-00631,2024-09-30,CLI-0008,Rato Sem Fios,Eletrónica,2,24.90,0,Cartão de crédito,Leiria,Centro,Concluído
+LIN-001173,PED-00631,2024-09-30,CLI-0008,Caderno A5,Papelaria,3,6.50,0,Cartão de crédito,Leiria,Centro,Concluído
+LIN-001174,PED-00632,2025-04-11,CLI-0053,Caderno A5,Papelaria,2,6.50,5,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-001175,PED-00632,2025-04-11,CLI-0053,"Monitor 24""",Eletrónica,5,179.90,0,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-001176,PED-00633,2025-05-08,CLI-0353,Extensão Elétrica,Casa e Escritório,4,18.90,0,Transferência,Aveiro,,Concluído
+LIN-001177,PED-00634,2025-05-11,CLI-0120,"Monitor 24""",Eletrónica,1,179.90,5,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001178,PED-00635,2025-04-26,CLI-0031,Teclado Mecânico,Eletrónica,1,82.30,15,Cartão de débito,Braga,Norte,Concluído
+LIN-001179,PED-00636,2024-12-12,CLI-0169,Suporte para Portátil,Acessórios,2,34.90,10,Cartão de crédito,Braga,Norte,Concluído
+LIN-001180,PED-00637,2024-07-15,CLI-0376,Coluna Bluetooth,Eletrónica,2,69.90,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-001181,PED-00637,2024-07-15,CLI-0376,Extensão Elétrica,Casa e Escritório,1,18.90,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-001182,PED-00637,2024-07-15,CLI-0376,Mochila Executiva,Acessórios,1,49.90,10,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-001183,PED-00638,2024-04-24,CLI-0089,Rato Sem Fios,Eletrónica,1,24.90,0,Transferência,Sintra,Lisboa e Vale do Tejo,Cancelado
+LIN-001184,PED-00639,2025-07-10,CLI-0126,Hub USB-C,Eletrónica,3,44.90,0,MB WAY,Leiria,Centro,Concluído
+LIN-001185,PED-00639,2025-07-10,CLI-0126,Caderno A5,Papelaria,5,6.50,0,MB WAY,Leiria,Centro,Concluído
+LIN-001186,PED-00640,2024-12-26,CLI-0217,Bolsa para Portátil,Acessórios,1,27.06,10,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001187,PED-00640,2024-12-26,CLI-0217,Auriculares Bluetooth,Eletrónica,4,41.10,5,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001188,PED-00640,2024-12-26,CLI-0217,Mochila Executiva,Acessórios,2,49.90,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001189,PED-00641,2024-12-22,CLI-0233,Bolsa para Portátil,Acessórios,1,27.90,0,Cartão de débito,Coimbra,Centro,Concluído
+LIN-001190,PED-00642,2025-10-21,CLI-0374,Marcadores Coloridos,Papelaria,1,9.17,0,Cartão de débito,Setúbal,Lisboa e Vale do Tejo,Cancelado
+LIN-001191,PED-00642,2025-10-21,CLI-0374,Mochila Executiva,Acessórios,3,48.40,0,Cartão de débito,Setúbal,Lisboa e Vale do Tejo,Cancelado
+LIN-001192,PED-00642,2025-10-21,CLI-0374,Bolsa para Portátil,Acessórios,2,27.90,5,Cartão de débito,Setúbal,Lisboa e Vale do Tejo,Cancelado
+LIN-001193,PED-00643,2025-12-11,CLI-0395,Marcadores Coloridos,Papelaria,2,8.90,10,MB WAY,Lagos,Algarve,Concluído
+LIN-001194,PED-00643,2025-12-11,CLI-0395,Teclado Mecânico,Eletrónica,1,77.50,15,MB WAY,Lagos,Algarve,Concluído
+LIN-001195,PED-00644,2024-10-27,CLI-0362,Garrafa Térmica,Acessórios,4,21.90,0,MB WAY,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001196,PED-00645,2025-04-13,CLI-0340,Mochila Executiva,Acessórios,2,48.40,0,Cartão de crédito,Faro,Algarve,Concluído
+LIN-001197,PED-00645,2025-04-13,CLI-0340,Extensão Elétrica,Casa e Escritório,1,18.90,0,Cartão de crédito,Faro,Algarve,Concluído
+LIN-001198,PED-00646,2024-12-04,CLI-0355,Pack Canetas Gel,Papelaria,2,4.75,0,Dinheiro,Aveiro,Centro,Concluído
+LIN-001199,PED-00647,2025-03-22,CLI-0409,Mochila Executiva,Acessórios,5,49.90,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-001200,PED-00647,2025-03-22,CLI-0409,Pack Canetas Gel,Papelaria,1,4.90,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-001201,PED-00647,2025-03-22,CLI-0409,Auriculares Bluetooth,Eletrónica,2,39.90,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-001202,PED-00648,2024-11-04,CLI-0361,Almofada Ergonómica,Casa e Escritório,3,32.90,0,Cartão de débito,Braga,Norte,Concluído
+LIN-001203,PED-00649,2025-08-02,CLI-0415,Extensão Elétrica,Casa e Escritório,1,18.90,0,Cartão de crédito,Évora,Alentejo,Concluído
+LIN-001204,PED-00650,2024-03-22,CLI-0064,"Monitor 24""",Eletrónica,1,174.50,5,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-001205,PED-00650,2024-03-22,CLI-0064,Auriculares Bluetooth,Eletrónica,2,38.70,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-001206,PED-00651,2025-02-09,CLI-0004,Bolsa para Portátil,Acessórios,1,27.90,5,Cartão de débito,Viseu,Centro,Cancelado
+LIN-001207,PED-00652,2024-10-09,CLI-0350,Mochila Executiva,Acessórios,5,49.90,5,Dinheiro,Albufeira,Algarve,Concluído
+LIN-001208,PED-00652,2024-10-09,CLI-0350,Extensão Elétrica,Casa e Escritório,1,18.90,5,Dinheiro,Albufeira,Algarve,Concluído
+LIN-001209,PED-00652,2024-10-09,CLI-0350,Teclado Mecânico,Eletrónica,3,79.90,0,Dinheiro,Albufeira,Algarve,Concluído
+LIN-001210,PED-00653,2024-04-21,CLI-0272,Extensão Elétrica,Casa e Escritório,2,18.90,0,MB WAY,Coimbra,Centro,Concluído
+LIN-001211,PED-00654,2025-05-26,CLI-0002,Marcadores Coloridos,Papelaria,-1,8.90,5,Dinheiro,Ponta Delgada,Ilhas,Concluído
+LIN-001212,PED-00655,2024-07-19,CLI-0249,Bolsa para Portátil,Acessórios,5,27.06,5,MB WAY,Leiria,Centro,Concluído
+LIN-001213,PED-00656,2024-09-08,CLI-0100,Organizador de Mesa,Casa e Escritório,1,14.45,0,Transferência,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-001214,PED-00656,2024-09-08,CLI-0100,Teclado Mecânico,Eletrónica,2,82.30,15,Transferência,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-001215,PED-00656,2024-09-08,CLI-0100,Webcam Full HD,Eletrónica,1,54.90,10,Transferência,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-001216,PED-00657,2025-01-01,CLI-0277,Rato Sem Fios,Eletrónica,1,24.15,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-001217,PED-00657,2025-01-01,CLI-0277,"Monitor 24""",Eletrónica,4,179.90,5,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-001218,PED-00658,2024-07-07,CLI-0132,Candeeiro de Mesa,Casa e Escritório,1,27.90,10,Dinheiro,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001219,PED-00658,2024-07-07,CLI-0132,Bolsa para Portátil,Acessórios,4,28.74,0,Dinheiro,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001220,PED-00659,2024-10-14,CLI-0368,Suporte para Portátil,Acessórios,1,34.90,0,MB WAY,Évora,Alentejo,Concluído
+LIN-001221,PED-00659,2024-10-14,CLI-0368,Coluna Bluetooth,Eletrónica,1,72.00,10,MB WAY,Évora,Alentejo,Concluído
+LIN-001222,PED-00659,2024-10-14,CLI-0368,Almofada Ergonómica,Casa e Escritório,2,31.91,0,MB WAY,Évora,Alentejo,Concluído
+LIN-001223,PED-00660,2024-04-25,CLI-0161,Candeeiro de Mesa,Casa e Escritório,1,27.90,15,Cartão de débito,Funchal,Ilhas,Concluído
+LIN-001224,PED-00661,2024-09-27,CLI-0187,Almofada Ergonómica,Casa e Escritório,1,31.91,0,Transferência,Portalegre,Alentejo,Concluído
+LIN-001225,PED-00661,2024-09-27,CLI-0187,Coluna Bluetooth,Eletrónica,1,69.90,5,Transferência,Portalegre,Alentejo,Concluído
+LIN-001226,PED-00662,2024-09-11,CLI-0113,Teclado Mecânico,Eletrónica,2,79.90,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001227,PED-00663,2025-06-15,CLI-0141,Bolsa para Portátil,Acessórios,1,27.90,0,MB WAY,Ponta Delgada,Ilhas,Concluído
+LIN-001228,PED-00663,2025-06-15,CLI-0141,Pack Canetas Gel,Papelaria,2,4.90,5,MB WAY,Ponta Delgada,Ilhas,Concluído
+LIN-001229,PED-00663,2025-06-15,CLI-0141,Mochila Executiva,Acessórios,1,49.90,10,MB WAY,Ponta Delgada,Ilhas,Concluído
+LIN-001230,PED-00664,2025-07-15,CLI-0154,Candeeiro de Mesa,Casa e Escritório,2,27.90,5,MB WAY,Ponta Delgada,Ilhas,Concluído
+LIN-001231,PED-00664,2025-07-15,CLI-0154,Mochila Executiva,Acessórios,1,51.40,5,MB WAY,Ponta Delgada,Ilhas,Concluído
+LIN-001232,PED-00664,2025-07-15,CLI-0154,Agenda Semanal,Papelaria,0,12.90,5,MB WAY,Ponta Delgada,Ilhas,Concluído
+LIN-001233,PED-00664,2025-07-15,CLI-0154,Suporte para Portátil,Acessórios,2,33.85,0,MB WAY,Ponta Delgada,Ilhas,Concluído
+LIN-001234,PED-00665,2025-08-04,CLI-0298,Carregador USB-C,Eletrónica,2,29.90,5,Cartão de crédito,Albufeira,Algarve,Cancelado
+LIN-001235,PED-00666,2024-09-06,CLI-0075,Marcadores Coloridos,Papelaria,1,8.90,0,MB WAY,Guimarães,Norte,Concluído
+LIN-001236,PED-00666,2024-09-06,CLI-0075,Almofada Ergonómica,Casa e Escritório,5,32.90,10,MB WAY,Guimarães,Norte,Concluído
+LIN-001237,PED-00667,2024-03-31,CLI-0243,Almofada Ergonómica,Casa e Escritório,4,32.90,0,Cartão de crédito,Guimarães,Norte,Devolvido
+LIN-001238,PED-00667,2024-03-31,CLI-0243,Suporte para Portátil,Acessórios,1,34.90,0,Cartão de crédito,Guimarães,Norte,Devolvido
+LIN-001239,PED-00668,2025-06-15,CLI-0089,Rato Sem Fios,Eletrónica,1,24.90,0,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001240,PED-00668,2025-06-15,CLI-0089,Garrafa Térmica,Acessórios,1,21.24,0,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001241,PED-00668,2025-06-15,CLI-0089,Mochila Executiva,Acessórios,2,51.40,0,Cartão de débito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001242,PED-00669,2025-04-02,CLI-0294,Mochila Executiva,Acessórios,5,49.90,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001243,PED-00669,2025-04-02,CLI-0294,Bolsa para Portátil,Acessórios,1,27.90,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001244,PED-00670,2025-11-17,CLI-0408,Candeeiro de Mesa,Casa e Escritório,2,28.74,5,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001245,PED-00671,2025-02-06,CLI-0300,Hub USB-C,Eletrónica,1,46.25,5,MB WAY,Lisboa,,Concluído
+LIN-001246,PED-00671,2025-02-06,CLI-0300,"Monitor 24""",Eletrónica,1,179.90,5,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001247,PED-00672,2024-04-21,CLI-0066,Teclado Mecânico,Eletrónica,1,77.50,0,MB WAY,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001248,PED-00673,2024-10-28,CLI-0279,Teclado Mecânico,Eletrónica,4,82.30,10,Dinheiro,Guimarães,Norte,Concluído
+LIN-001249,PED-00674,2024-09-08,CLI-0274,Marcadores Coloridos,Papelaria,1,8.63,5,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001250,PED-00674,2024-09-08,CLI-0274,Candeeiro de Mesa,Casa e Escritório,1,27.06,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001251,PED-00675,2024-09-13,CLI-0111,Webcam Full HD,Eletrónica,2,54.90,0,MB WAY,Funchal,Ilhas,Concluído
+LIN-001252,PED-00676,2024-08-06,CLI-0196,Suporte para Portátil,Acessórios,1,34.90,15,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001253,PED-00676,2024-08-06,CLI-0196,Webcam Full HD,Eletrónica,2,54.90,5,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001254,PED-00676,2024-08-06,CLI-0196,Candeeiro de Mesa,Casa e Escritório,2,28.74,5,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001255,PED-00677,2024-11-30,CLI-0079,Coluna Bluetooth,Eletrónica,2,72.00,5,MB WAY,Aveiro,Centro,Concluído
+LIN-001256,PED-00677,2024-11-30,CLI-0079,Rato Sem Fios,Eletrónica,1,24.15,5,MB WAY,Aveiro,Centro,Concluído
+LIN-001257,PED-00677,2024-11-30,CLI-0079,Caderno A5,Papelaria,1,6.50,0,MB WAY,Aveiro,Centro,Concluído
+LIN-001258,PED-00677,2024-11-30,CLI-0079,"Monitor 24""",Eletrónica,3,179.90,0,MB WAY,Aveiro,Centro,Concluído
+LIN-001259,PED-00678,2024-11-06,CLI-0114,Pack Canetas Gel,Papelaria,2,4.90,0,Cartão de crédito,Viseu,Centro,Cancelado
+LIN-001260,PED-00679,2024-10-18,CLI-0293,Carregador USB-C,Eletrónica,1,30.80,0,Cartão de débito,Albufeira,Algarve,Concluído
+LIN-001261,PED-00679,2024-10-18,CLI-0293,Agenda Semanal,Papelaria,3,12.90,0,Cartão de débito,Albufeira,Algarve,Concluído
+LIN-001262,PED-00679,2024-10-18,CLI-0293,Mochila Executiva,Acessórios,1,48.40,5,Cartão de débito,Albufeira,Algarve,Concluído
+LIN-001263,PED-00680,2025-07-04,CLI-0337,Marcadores Coloridos,Papelaria,2,8.90,5,Cartão de débito,Braga,Norte,Concluído
+LIN-001264,PED-00681,2024-11-29,CLI-0235,Caderno A5,Papelaria,2,6.50,0,Dinheiro,Guimarães,Norte,Concluído
+LIN-001265,PED-00681,2024-11-29,CLI-0235,Suporte para Portátil,Acessórios,3,34.90,5,Dinheiro,Guimarães,Norte,Concluído
+LIN-001266,PED-00682,2024-09-22,CLI-0047,Almofada Ergonómica,Casa e Escritório,1,32.90,0,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001267,PED-00683,2025-01-12,CLI-0006,Bolsa para Portátil,Acessórios,1,28.74,5,Cartão de débito,Funchal,Ilhas,Concluído
+LIN-001268,PED-00683,2025-01-12,CLI-0006,Extensão Elétrica,Casa e Escritório,1,19.47,0,Cartão de débito,Funchal,Ilhas,Concluído
+LIN-001269,PED-00684,2025-10-01,CLI-0004,Organizador de Mesa,Casa e Escritório,2,14.45,5,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-001270,PED-00685,2025-12-15,CLI-0346,Marcadores Coloridos,Papelaria,3,9.17,5,MB WAY,Portimão,Algarve,Concluído
+LIN-001271,PED-00686,2024-02-21,CLI-0254,Coluna Bluetooth,Eletrónica,1,69.90,0,Cartão de débito,Viseu,Centro,Concluído
+LIN-001272,PED-00686,2024-02-21,CLI-0254,Candeeiro de Mesa,Casa e Escritório,1,28.74,0,Cartão de débito,Viseu,Centro,Concluído
+LIN-001273,PED-00686,2024-02-21,CLI-0254,"Monitor 24""",Eletrónica,4,185.30,10,Cartão de débito,Viseu,Centro,Concluído
+LIN-001274,PED-00687,2024-02-06,CLI-0238,Garrafa Térmica,Acessórios,1,21.90,0,Transferência,Lagos,Algarve,Concluído
+LIN-001275,PED-00688,2024-10-19,CLI-0370,Rato Sem Fios,Eletrónica,1,24.90,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-001276,PED-00688,2024-10-19,CLI-0370,Organizador de Mesa,Casa e Escritório,4,14.45,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-001277,PED-00689,2025-05-23,CLI-0116,Candeeiro de Mesa,Casa e Escritório,5,27.90,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001278,PED-00689,2025-05-23,CLI-0116,Caderno A5,Papelaria,1,6.50,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001279,PED-00689,2025-05-23,CLI-0116,"Monitor 24""",Eletrónica,3,179.90,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001280,PED-00690,2024-09-02,CLI-0069,Hub USB-C,Eletrónica,4,44.90,0,MB WAY,Leiria,Centro,Concluído
+LIN-001281,PED-00691,2025-01-08,CLI-0254,Mochila Executiva,Acessórios,2,49.90,0,MB WAY,Portalegre,Alentejo,Concluído
+LIN-001282,PED-00691,2025-01-08,CLI-0254,Organizador de Mesa,Casa e Escritório,4,14.45,0,MB WAY,Portalegre,Alentejo,Concluído
+LIN-001283,PED-00692,2024-10-15,CLI-0007,Extensão Elétrica,Casa e Escritório,2,18.90,0,Cartão de crédito,Évora,Alentejo,Concluído
+LIN-001284,PED-00693,2024-08-31,CLI-0043,Coluna Bluetooth,Eletrónica,2,69.90,15,Cartão de crédito,Évora,Alentejo,Concluído
+LIN-001285,PED-00693,2024-08-31,CLI-0043,Caderno A5,Papelaria,1,6.50,0,Cartão de crédito,Évora,Alentejo,Concluído
+LIN-001286,PED-00694,2025-06-28,CLI-0415,Almofada Ergonómica,Casa e Escritório,2,32.90,0,MB WAY,Braga,Norte,Concluído
+LIN-001287,PED-00695,2024-04-29,CLI-0020,Hub USB-C,Eletrónica,1,43.55,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-001288,PED-00696,2025-02-11,CLI-0359,Organizador de Mesa,Casa e Escritório,2,14.90,0,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001289,PED-00696,2025-02-11,CLI-0359,Suporte para Portátil,Acessórios,1,34.90,5,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001290,PED-00697,2024-07-30,CLI-0025,Pack Canetas Gel,Papelaria,1,5.05,0,Cartão de crédito,Guimarães,Norte,Concluído
+LIN-001291,PED-00698,2024-06-09,CLI-0252,Candeeiro de Mesa,Casa e Escritório,2,27.90,0,Cartão de crédito,Viseu,Centro,Concluído
+LIN-001292,PED-00699,2025-07-26,CLI-0186,Caderno A5,Papelaria,1,6.50,0,Cartão de débito,Évora,Alentejo,Concluído
+LIN-001293,PED-00700,2024-04-08,CLI-0323,Hub USB-C,Eletrónica,4,43.55,10,Cartão de crédito,Évora,Alentejo,Concluído
+LIN-001294,PED-00700,2024-04-08,CLI-0323,Extensão Elétrica,Casa e Escritório,2,18.90,5,Cartão de crédito,Évora,Alentejo,Concluído
+LIN-001295,PED-00700,2024-04-08,CLI-0323,Garrafa Térmica,Acessórios,5,21.90,0,Cartão de crédito,Évora,Alentejo,Concluído
+LIN-001296,PED-00701,2024-05-16,CLI-0066,Candeeiro de Mesa,Casa e Escritório,1,27.06,10,Cartão de débito,Guimarães,Norte,Concluído
+LIN-001297,PED-00701,2024-05-16,CLI-0066,Marcadores Coloridos,Papelaria,1,8.90,0,Cartão de débito,Guimarães,Norte,Concluído
+LIN-001298,PED-00701,2024-05-16,CLI-0066,Almofada Ergonómica,Casa e Escritório,4,31.91,0,Cartão de débito,Guimarães,Norte,Concluído
+LIN-001299,PED-00702,2024-08-24,CLI-0067,Hub USB-C,Eletrónica,5,44.90,0,Dinheiro,Coimbra,Centro,Concluído
+LIN-001300,PED-00702,2024-08-24,CLI-0067,Mochila Executiva,Acessórios,1,51.40,5,Dinheiro,Coimbra,Centro,Concluído
+LIN-001301,PED-00702,2024-08-24,CLI-0067,Bolsa para Portátil,Acessórios,1,27.90,0,Dinheiro,Coimbra,Centro,Concluído
+LIN-001302,PED-00702,2024-08-24,CLI-0067,Organizador de Mesa,Casa e Escritório,1,15.35,0,Dinheiro,Coimbra,Centro,Concluído
+LIN-001303,PED-00703,2025-06-21,CLI-0405,Coluna Bluetooth,Eletrónica,1,69.90,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001304,PED-00704,2024-05-29,CLI-0024,Caderno A5,Papelaria,3,6.30,5,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001305,PED-00704,2024-05-29,CLI-0024,Webcam Full HD,Eletrónica,1,54.90,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001306,PED-00704,2024-05-29,CLI-0024,Extensão Elétrica,Casa e Escritório,1,18.90,5,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001307,PED-00705,2025-12-18,CLI-0167,Suporte para Portátil,Acessórios,1,33.85,10,MB WAY,Porto,Norte,Concluído
+LIN-001308,PED-00705,2025-12-18,CLI-0167,Pack Canetas Gel,Papelaria,1,4.90,0,MB WAY,Porto,Norte,Concluído
+LIN-001309,PED-00706,2025-12-15,CLI-0091,Almofada Ergonómica,Casa e Escritório,4,32.90,15,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-001310,PED-00706,2025-12-15,CLI-0091,"Monitor 24""",Eletrónica,2,185.30,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-001311,PED-00706,2025-12-15,CLI-0091,Mochila Executiva,Acessórios,1,49.90,0,Cartão de crédito,Coimbra,Centro,Concluído
+LIN-001312,PED-00707,2025-03-29,CLI-0414,Suporte para Portátil,Acessórios,1,34.90,0,Cartão de débito,Albufeira,Algarve,Concluído
+LIN-001313,PED-00707,2025-03-29,CLI-0414,Marcadores Coloridos,Papelaria,1,8.90,5,Cartão de débito,Albufeira,Algarve,Concluído
+LIN-001314,PED-00708,2024-06-02,CLI-0292,Carregador USB-C,Eletrónica,3,29.90,5,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001315,PED-00709,2024-06-11,CLI-0074,"Monitor 24""",Eletrónica,2,179.90,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-001316,PED-00709,2024-06-11,CLI-0074,Organizador de Mesa,Casa e Escritório,1,14.45,5,Cartão de crédito,Porto,Norte,Concluído
+LIN-001317,PED-00709,2024-06-11,CLI-0074,Webcam Full HD,Eletrónica,2,53.25,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-001318,PED-00709,2024-06-11,CLI-0074,Auriculares Bluetooth,Eletrónica,2,39.90,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-001319,PED-00710,2025-05-02,CLI-0007,Agenda Semanal,Papelaria,1,12.90,5,Cartão de crédito,Portalegre,Alentejo,Concluído
+LIN-001320,PED-00710,2025-05-02,CLI-0007,Rato Sem Fios,Eletrónica,3,24.90,0,Cartão de crédito,Portalegre,Alentejo,Concluído
+LIN-001321,PED-00711,2024-12-30,CLI-0125,Teclado Mecânico,Eletrónica,1,79.90,0,MB WAY,Porto,Norte,Concluído
+LIN-001322,PED-00712,2025-11-05,CLI-0213,Webcam Full HD,Eletrónica,1,54.90,0,Transferência,Braga,Norte,Concluído
+LIN-001323,PED-00713,2025-11-01,CLI-0197,"Monitor 24""",Eletrónica,1,179.90,5,MB WAY,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-001324,PED-00713,2025-11-01,CLI-0197,Coluna Bluetooth,Eletrónica,2,67.80,5,MB WAY,Setúbal,,Concluído
+LIN-001325,PED-00714,2025-11-25,CLI-0044,Extensão Elétrica,Casa e Escritório,2,18.90,15,MB WAY,Lagos,Algarve,Concluído
+LIN-001326,PED-00714,2025-11-25,CLI-0044,Carregador USB-C,Eletrónica,2,30.80,10,MB WAY,Lagos,Algarve,Concluído
+LIN-001327,PED-00715,2024-10-18,CLI-0054,Rato Sem Fios,Eletrónica,2,24.90,5,Cartão de débito,Coimbra,Centro,Concluído
+LIN-001328,PED-00716,2024-05-10,CLI-0076,Rato Sem Fios,Eletrónica,2,24.90,0,MB WAY,Viseu,Centro,Concluído
+LIN-001329,PED-00716,2024-05-10,CLI-0076,"Monitor 24""",Eletrónica,1,179.90,0,MB WAY,Viseu,Centro,Concluído
+LIN-001330,PED-00717,2024-11-10,CLI-0164,Agenda Semanal,Papelaria,3,12.90,5,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Devolvido
+LIN-001331,PED-00717,2024-11-10,CLI-0164,Webcam Full HD,Eletrónica,2,56.55,5,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Devolvido
+LIN-001332,PED-00718,2025-02-18,CLI-0118,Coluna Bluetooth,Eletrónica,1,67.80,0,Cartão de débito,Viseu,Centro,Concluído
+LIN-001333,PED-00718,2025-02-18,CLI-0118,Rato Sem Fios,Eletrónica,3,24.90,0,Cartão de débito,Viseu,Centro,Concluído
+LIN-001334,PED-00719,2025-12-12,CLI-0057,Webcam Full HD,Eletrónica,1,56.55,20,Cartão de crédito,Porto,Norte,Concluído
+LIN-001335,PED-00719,2025-12-12,CLI-0057,Pack Canetas Gel,Papelaria,4,4.90,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-001336,PED-00719,2025-12-12,CLI-0057,Garrafa Térmica,Acessórios,1,21.90,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-001337,PED-00720,2025-06-20,CLI-0074,"Monitor 24""",Eletrónica,2,174.50,0,Cartão de crédito,Viseu,Centro,Cancelado
+LIN-001338,PED-00721,2025-04-07,CLI-0081,Almofada Ergonómica,Casa e Escritório,3,32.90,0,Cartão de débito,Porto,Norte,Concluído
+LIN-001339,PED-00722,2024-06-07,CLI-0381,Agenda Semanal,Papelaria,2,12.51,0,Cartão de débito,Braga,Norte,Cancelado
+LIN-001340,PED-00722,2024-06-07,CLI-0381,Garrafa Térmica,Acessórios,1,21.24,5,Cartão de débito,Braga,Norte,Cancelado
+LIN-001341,PED-00723,2024-05-31,CLI-0083,Candeeiro de Mesa,Casa e Escritório,1,27.90,0,Transferência,Porto,Norte,Concluído
+LIN-001342,PED-00723,2024-05-31,CLI-0083,Caderno A5,Papelaria,1,6.30,0,Transferência,Porto,Norte,Concluído
+LIN-001343,PED-00723,2024-05-31,CLI-0083,Organizador de Mesa,Casa e Escritório,5,14.90,5,Transferência,Porto,Norte,Concluído
+LIN-001344,PED-00724,2024-11-19,CLI-0029,Rato Sem Fios,Eletrónica,1,24.90,15,Cartão de crédito,Vila Real,Norte,Concluído
+LIN-001345,PED-00724,2024-11-19,CLI-0029,Garrafa Térmica,Acessórios,1,21.90,10,Cartão de crédito,Vila Real,Norte,Concluído
+LIN-001346,PED-00725,2024-06-17,CLI-0056,Coluna Bluetooth,Eletrónica,1,72.00,0,Cartão de débito,Braga,Norte,Concluído
+LIN-001347,PED-00726,2024-06-30,CLI-0006,Teclado Mecânico,Eletrónica,1,82.30,0,Cartão de crédito,Évora,Alentejo,Concluído
+LIN-001348,PED-00726,2024-06-30,CLI-0006,Coluna Bluetooth,Eletrónica,2,69.90,0,Cartão de crédito,Évora,Alentejo,Concluído
+LIN-001349,PED-00727,2024-09-24,CLI-0159,Hub USB-C,Eletrónica,1,44.90,5,Cartão de crédito,Porto,Norte,Concluído
+LIN-001350,PED-00728,2025-12-19,CLI-0360,Organizador de Mesa,Casa e Escritório,1,14.90,5,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001351,PED-00728,2025-12-19,CLI-0360,Webcam Full HD,Eletrónica,3,53.25,0,Cartão de crédito,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001352,PED-00729,2024-05-14,CLI-0238,Hub USB-C,Eletrónica,3,44.90,5,MB WAY,Porto,Norte,Cancelado
+LIN-001353,PED-00730,2024-05-21,CLI-0257,Agenda Semanal,Papelaria,1,12.90,5,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001354,PED-00730,2024-05-21,CLI-0257,Garrafa Térmica,Acessórios,4,21.24,10,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001355,PED-00730,2024-05-21,CLI-0257,Webcam Full HD,Eletrónica,2,54.90,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001356,PED-00731,2025-12-30,CLI-0311,Auriculares Bluetooth,Eletrónica,2,39.90,5,Cartão de crédito,Porto,Norte,Concluído
+LIN-001357,PED-00731,2025-12-30,CLI-0311,Webcam Full HD,Eletrónica,4,53.25,5,Cartão de crédito,Porto,Norte,Concluído
+LIN-001358,PED-00732,2024-12-18,CLI-0087,Rato Sem Fios,Eletrónica,1,24.90,0,Cartão de crédito,Portimão,Algarve,Concluído
+LIN-001359,PED-00733,2024-12-27,CLI-0132,Almofada Ergonómica,Casa e Escritório,1,32.90,5,Cartão de débito,Évora,Alentejo,Concluído
+LIN-001360,PED-00733,2024-12-27,CLI-0132,Bolsa para Portátil,Acessórios,3,27.90,5,Cartão de débito,Évora,Alentejo,Concluído
+LIN-001361,PED-00733,2024-12-27,CLI-0132,Teclado Mecânico,Eletrónica,1,82.30,20,Cartão de débito,Évora,Alentejo,Concluído
+LIN-001362,PED-00734,2024-11-04,CLI-0350,Teclado Mecânico,Eletrónica,1,77.50,0,Cartão de débito,Leiria,Centro,Concluído
+LIN-001363,PED-00734,2024-11-04,CLI-0350,Extensão Elétrica,Casa e Escritório,1,18.90,15,Cartão de débito,Leiria,Centro,Concluído
+LIN-001364,PED-00734,2024-11-04,CLI-0350,Coluna Bluetooth,Eletrónica,1,69.90,10,Cartão de débito,Leiria,Centro,Concluído
+LIN-001365,PED-00734,2024-11-04,CLI-0350,Auriculares Bluetooth,Eletrónica,1,39.90,10,Cartão de débito,Leiria,Centro,Concluído
+LIN-001366,PED-00735,2025-11-12,CLI-0239,Mochila Executiva,Acessórios,1,49.90,0,Cartão de crédito,Braga,Norte,Concluído
+LIN-001367,PED-00735,2025-11-12,CLI-0239,Suporte para Portátil,Acessórios,2,34.90,10,Cartão de crédito,Braga,Norte,Concluído
+LIN-001368,PED-00735,2025-11-12,CLI-0239,Hub USB-C,Eletrónica,1,44.90,5,Cartão de crédito,Braga,Norte,Concluído
+LIN-001369,PED-00735,2025-11-12,CLI-0239,Extensão Elétrica,Casa e Escritório,2,18.90,0,Cartão de crédito,Braga,Norte,Concluído
+LIN-001370,PED-00736,2024-07-02,CLI-0291,Marcadores Coloridos,Papelaria,1,8.90,10,MB WAY,Porto,Norte,Concluído
+LIN-001371,PED-00736,2024-07-02,CLI-0291,Suporte para Portátil,Acessórios,4,34.90,0,MB WAY,Porto,Norte,Concluído
+LIN-001372,PED-00736,2024-07-02,CLI-0291,Bolsa para Portátil,Acessórios,2,27.06,0,MB WAY,Porto,Norte,Concluído
+LIN-001373,PED-00737,2024-08-23,CLI-0042,Caderno A5,Papelaria,3,6.30,10,MB WAY,Coimbra,Centro,Concluído
+LIN-001374,PED-00737,2024-08-23,CLI-0042,Carregador USB-C,Eletrónica,1,29.90,0,MB WAY,Coimbra,Centro,Concluído
+LIN-001375,PED-00738,2024-10-18,CLI-0215,Suporte para Portátil,Acessórios,2,35.95,0,Cartão de débito,Lisboa,,Concluído
+LIN-001376,PED-00738,2024-10-18,CLI-0215,Marcadores Coloridos,Papelaria,2,9.17,5,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001377,PED-00738,2024-10-18,CLI-0215,Mochila Executiva,Acessórios,1,49.90,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001378,PED-00738,2024-10-18,CLI-0215,Auriculares Bluetooth,Eletrónica,3,39.90,0,Cartão de débito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001379,PED-00739,2024-09-25,CLI-0406,Garrafa Térmica,Acessórios,4,21.90,5,Cartão de débito,Funchal,Ilhas,Concluído
+LIN-001380,PED-00740,2025-05-10,CLI-0297,Candeeiro de Mesa,Casa e Escritório,2,28.74,0,Cartão de crédito,Porto,Norte,Devolvido
+LIN-001381,PED-00741,2024-10-18,CLI-0098,Auriculares Bluetooth,Eletrónica,1,38.70,5,Cartão de débito,Funchal,Ilhas,Concluído
+LIN-001382,PED-00741,2024-10-18,CLI-0098,Pack Canetas Gel,Papelaria,2,4.90,0,Cartão de débito,Funchal,Ilhas,Concluído
+LIN-001383,PED-00741,2024-10-18,CLI-0098,Almofada Ergonómica,Casa e Escritório,1,33.89,0,Cartão de débito,Funchal,Ilhas,Concluído
+LIN-001384,PED-00742,2025-12-19,CLI-0172,Extensão Elétrica,Casa e Escritório,1,18.90,5,Cartão de crédito,Braga,Norte,Concluído
+LIN-001385,PED-00743,2025-10-10,CLI-0353,"Monitor 24""",Eletrónica,1,174.50,5,MB WAY,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001386,PED-00743,2025-10-10,CLI-0353,Rato Sem Fios,Eletrónica,1,24.90,5,MB WAY,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001387,PED-00743,2025-10-10,CLI-0353,Extensão Elétrica,Casa e Escritório,2,19.47,0,MB WAY,Cascais,Lisboa e Vale do Tejo,Concluído
+LIN-001388,PED-00744,2024-12-13,CLI-0298,Garrafa Térmica,Acessórios,2,21.24,0,MB WAY,Portalegre,Alentejo,Concluído
+LIN-001389,PED-00745,2024-12-26,CLI-0064,Mochila Executiva,Acessórios,2,51.40,0,MB WAY,Aveiro,Centro,Concluído
+LIN-001390,PED-00745,2024-12-26,CLI-0064,Auriculares Bluetooth,Eletrónica,3,39.90,0,MB WAY,Aveiro,Centro,Concluído
+LIN-001391,PED-00745,2024-12-26,CLI-0064,Marcadores Coloridos,Papelaria,3,8.90,10,MB WAY,Aveiro,Centro,Concluído
+LIN-001392,PED-00746,2024-01-05,CLI-0213,Organizador de Mesa,Casa e Escritório,1,15.35,15,Cartão de crédito,Porto,Norte,Concluído
+LIN-001393,PED-00746,2024-01-05,CLI-0213,Agenda Semanal,Papelaria,1,12.90,0,Cartão de crédito,Porto,Norte,Concluído
+LIN-001394,PED-00746,2024-01-05,CLI-0213,Almofada Ergonómica,Casa e Escritório,2,31.91,5,Cartão de crédito,Porto,Norte,Concluído
+LIN-001395,PED-00747,2025-03-26,CLI-0066,Agenda Semanal,Papelaria,1,12.90,0,Cartão de débito,Portimão,Algarve,Concluído
+LIN-001396,PED-00748,2025-07-01,CLI-0065,Caderno A5,Papelaria,4,6.50,0,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001397,PED-00748,2025-07-01,CLI-0065,Candeeiro de Mesa,Casa e Escritório,1,27.06,5,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001398,PED-00748,2025-07-01,CLI-0065,Carregador USB-C,Eletrónica,2,29.00,5,MB WAY,Lisboa,,Concluído
+LIN-001399,PED-00749,2025-02-28,CLI-0041,Marcadores Coloridos,Papelaria,1,9.17,10,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001400,PED-00749,2025-02-28,CLI-0041,Carregador USB-C,Eletrónica,2,29.90,5,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001401,PED-00749,2025-02-28,CLI-0041,Coluna Bluetooth,Eletrónica,2,69.90,0,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001402,PED-00749,2025-02-28,CLI-0041,Candeeiro de Mesa,Casa e Escritório,1,27.06,5,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001403,PED-00750,2025-03-27,CLI-0053,Caderno A5,Papelaria,3,6.30,0,Transferência,Braga,Norte,Concluído
+LIN-001404,PED-00751,2025-10-10,CLI-0107,Rato Sem Fios,Eletrónica,1,24.90,0,Cartão de débito,Viseu,Centro,Concluído
+LIN-001405,PED-00752,2024-09-23,CLI-0231,Almofada Ergonómica,Casa e Escritório,2,31.91,0,Cartão de crédito,Faro,Algarve,Concluído
+LIN-001406,PED-00753,2024-10-14,CLI-0178,Caderno A5,Papelaria,4,6.50,5,MB WAY,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001407,PED-00754,2025-02-21,CLI-0266,Hub USB-C,Eletrónica,1,44.90,0,Cartão de crédito,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-001408,PED-00755,2025-07-15,CLI-0065,Candeeiro de Mesa,Casa e Escritório,2,27.90,5,Cartão de débito,Coimbra,Centro,Cancelado
+LIN-001409,PED-00756,2025-01-15,CLI-0263,Caderno A5,Papelaria,4,6.30,0,Transferência,Funchal,Ilhas,Concluído
+LIN-001410,PED-00757,2025-08-15,CLI-0160,Garrafa Térmica,Acessórios,1,21.90,5,Cartão de crédito,Braga,Norte,Concluído
+LIN-001411,PED-00758,2025-04-29,CLI-0311,Rato Sem Fios,Eletrónica,3,25.65,0,Cartão de crédito,Viseu,Centro,Concluído
+LIN-001412,PED-00758,2025-04-29,CLI-0311,Garrafa Térmica,Acessórios,1,22.56,10,Cartão de crédito,Viseu,Centro,Concluído
+LIN-001413,PED-00758,2025-04-29,CLI-0311,Carregador USB-C,Eletrónica,2,30.80,0,Cartão de crédito,Viseu,Centro,Concluído
+LIN-001414,PED-00759,2024-02-01,CLI-0093,Hub USB-C,Eletrónica,2,44.90,0,Cartão de débito,Faro,Algarve,Concluído
+LIN-001415,PED-00760,2024-09-24,CLI-0005,Agenda Semanal,Papelaria,2,12.90,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-001416,PED-00760,2024-09-24,CLI-0005,Coluna Bluetooth,Eletrónica,1,69.90,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000485,PED-00257,2024-07-26,CLI-0251,Extensão Elétrica,Casa e Escritório,2,18.90,0,Cartão de crédito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-001181,PED-00637,2024-07-15,CLI-0376,Extensão Elétrica,Casa e Escritório,1,18.90,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000044,PED-00022,2024-12-09,CLI-0279,Candeeiro de Mesa,Casa e Escritório,1,27.06,15,MB WAY,Setúbal,Lisboa e Vale do Tejo,Devolvido
+LIN-000584,PED-00313,2025-05-05,CLI-0417,Caderno A5,Papelaria,2,6.50,0,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000037,PED-00019,2024-03-02,CLI-0161,Teclado Mecânico,Eletrónica,1,79.90,0,Cartão de débito,Porto,Norte,Concluído
+LIN-001319,PED-00710,2025-05-02,CLI-0007,Agenda Semanal,Papelaria,1,12.90,5,Cartão de crédito,Portalegre,Alentejo,Concluído
+LIN-001180,PED-00637,2024-07-15,CLI-0376,Coluna Bluetooth,Eletrónica,2,69.90,0,Cartão de crédito,Aveiro,Centro,Concluído
+LIN-000010,PED-00008,2024-09-24,CLI-0336,Webcam Full HD,Eletrónica,1,56.55,0,Transferência,Lisboa,Lisboa e Vale do Tejo,Concluído
+LIN-000946,PED-00504,2025-05-17,CLI-0304,Carregador USB-C,Eletrónica,1,29.90,0,MB WAY,Porto,Norte,Concluído
+LIN-000583,PED-00313,2025-05-05,CLI-0417,Candeeiro de Mesa,Casa e Escritório,3,28.74,0,Cartão de débito,Sintra,Lisboa e Vale do Tejo,Concluído
+LIN-000269,PED-00152,2024-07-18,CLI-0379,Carregador USB-C,Eletrónica,4,29.00,15,Transferência,Setúbal,Lisboa e Vale do Tejo,Concluído
+LIN-000825,PED-00438,2025-05-10,CLI-0363,Almofada Ergonómica,Casa e Escritório,3,32.90,10,Cartão de crédito,Funchal,Ilhas,Concluído
