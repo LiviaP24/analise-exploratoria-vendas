@@ -7,7 +7,7 @@
 - Linhas: 1428
 - Pedidos distintos planeados: 760
 - Período: janeiro de 2024 a dezembro de 2025
-- Moeda dos preços: euro (€)
+- Moeda dos preços: real (R$)
 - Separador do CSV: vírgula
 - Decimal: ponto
 
@@ -77,8 +77,8 @@ Para analisar vendas efetivamente realizadas, uma regra inicial possível é uti
 
 ## Primeiras perguntas
 
-1. Quantas linhas e colunas existem?/
-2. Quais colunas possuem valores ausentes?/
+1. Quantas linhas e colunas existem?
+2. Quais colunas possuem valores ausentes?
 3. Quantos registos estão duplicados?
 4. Qual foi o faturamento líquido dos pedidos concluídos?
 5. Qual foi o ticket médio por pedido?
